@@ -1,1 +1,4 @@
 Tikslai:
+1. Išmokti Progress OpenEdge pagrindus;
+2. Tobulinti savo praktinius programavimo sugebėjimus;
+3. Kartu su komanda kurti pirmuosius Progress produktus.
