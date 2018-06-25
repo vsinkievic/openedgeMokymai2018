@@ -1,3 +1,4 @@
 Tikslai:
 1. Išmokti bent minimaliai programuoti su Progress
 2. Tobulinti savo, kaip programuotojo mąstymą.
+3. Kiek įmanoma pritaikyti universitete įgytas žinias.
