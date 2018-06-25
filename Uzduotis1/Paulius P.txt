@@ -1,2 +1,3 @@
 Tikslai:
-1. I�mokti bent minimaliai programuoti su Progress
+1. Išmokti bent minimaliai programuoti su Progress
+2. Tobulinti savo, kaip programuotojo mąstymą.
