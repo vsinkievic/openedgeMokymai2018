@@ -1,5 +1,5 @@
 Target:
-C:\Progress\OpenEdge\bin\prowin32.exe -basekey "INI" -p DataDigger.p -s 1000000 -h 5
+C:\Progress\OpenEdge\bin\prowin.exe -basekey "INI" -p DataDigger.p -s 1000000 -h 5
 
 Start in:
 c:\Work\Progress\dataDigger
