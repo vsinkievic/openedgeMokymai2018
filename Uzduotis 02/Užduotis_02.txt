@@ -1,0 +1,13 @@
+Užduotis 2: 
+Savo kompiuteryje kataloge c:\mokymai\db\uzd2 sukurti kopiją sportsDB, failo vardas sutampa su studento vardu. Sukonfigūruoti DataDigger rodyti DB turinį.
+
+Naudojame:
+  * Student Guide Lesson 2.
+  * Progress dokumentaciją, PDF Database Administration, sk. Database Basic.
+  
+Susipažinti su visais (4 būdai) būdais sukurti DB.
+Pabandyti kelis (grafinis ir command line).
+Pabandyti sukurti Sports2000 ir tuščią DB. 
+
+Išmokti paleisti DB serverį.
+
