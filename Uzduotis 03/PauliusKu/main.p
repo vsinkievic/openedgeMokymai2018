@@ -46,19 +46,19 @@ repeat:
     //separates woman from man names and streams to diff files
     if substring(name1, length(name1)) = "s" 
         then do:
-            display stream man name1 name2.
+            export stream man name1 name2.
             count-man = count-man + 1.
             if name2 <> ""
                 then count-double-man = count-double-man + 1.
         end.
         else do: 
-            display stream woman name1 name2.
+            export stream woman name1 name2.
             count-woman = count-woman + 1.
             if name2 <> ""
                 then count-double-woman = count-double-woman + 1.
         end.
     
-    display stream repaired name1 name2 .
+    export stream repaired name1 name2 .
 end.
 
 //streams report data

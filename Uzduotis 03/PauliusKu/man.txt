@@ -1,11 +1,8 @@
-
----------------------- ---------------------
-
-Simas
-Lukas                 Petras
-Arvydas               Jonas
-Kazys
-Antanas               Marius
-Vilius
-Jurgis                Simas
-Jurgis                Vilius
+"Simas" ""
+"Lukas" "Petras"
+"Arvydas" "Jonas"
+"Kazys" ""
+"Antanas" "Marius"
+"Vilius" ""
+"Jurgis" "Simas"
+"Jurgis" "Vilius"

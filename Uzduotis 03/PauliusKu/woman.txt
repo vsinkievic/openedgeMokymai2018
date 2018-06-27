@@ -1,9 +1,6 @@
-
----------------------- ---------------------
-
-Beatričė
-Justina
-Marytina              Adolfina
-Stasė
-Julita
-Jurga
+"Beatričė" ""
+"Justina" ""
+"Marytina" "Adolfina"
+"Stasė" ""
+"Julita" ""
+"Jurga" ""
