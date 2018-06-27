@@ -1,0 +1,4 @@
+Moteriðki vardai: 20 
+Dvigubi moteriðki vardai: 9 
+Vyriðki vardai: 16 
+Dvigubi vyriðki vardai: 2
