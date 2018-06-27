@@ -1,7 +1,4 @@
 define variable cVardas as character no-undo.
-define variable cVyrVarduSarasas as character no-undo.
-define variable cMotVarduSarasas as character no-undo.
-define variable cBendrasSarasas as character no-undo.
 define variable iVyrSk as integer no-undo.
 define variable iVyrSkDvg as integer no-undo.
 define variable iMotSk as integer no-undo.
@@ -25,8 +22,18 @@ define variable taisymai as character no-undo init
     Zygimantas>Þygimantas".
 
 
+define stream vyr.
+define stream mot.
+define stream bendras.
+
 input from vardai_nerusiuoti.txt.
 
+output stream vyr to value ("vardai_vyr.txt").
+output stream mot to value ("vardai_mot.txt").
+output stream bendras to value ("vardai_pataisyti.txt").
+
+
+sorting:
 repeat:
     import unformatted cVardas.
 
@@ -36,6 +43,9 @@ repeat:
 // VISOKIE PATAISYMAI:
     
     cVardas = trim(cVardas).
+    if cVardas = "" then do:
+        next.
+    end.
     
     tarpoSumazinimas:
     repeat:
@@ -51,8 +61,8 @@ repeat:
             cVardas = replace(cVardas, entry(1, v, ">"), entry(2, v, ">")).
         end.
     end.
-    
-    cBendrasSarasas = cBendrasSarasas + ";" + cVardas.
+
+display stream bendras cVardas format "x(25)" no-label.
 
 
 // VYR VARDAI:
@@ -63,8 +73,9 @@ repeat:
         if index(cVardas, " ") > 0 then do:
             iVyrSkDvg = iVyrSkDvg + 1.
         end.
-        cVyrVarduSarasas = cVyrVarduSarasas + ";" + cVardas.
-
+        if cVardas <> "" then do:
+            display stream vyr cVardas format "x(25)" no-label.
+        end.
     end.
 
 // MOT VARDAI: 
@@ -74,33 +85,16 @@ repeat:
         if index(cVardas, " ") > 0 then do:
             iMotSkDvg = iMotSkDvg + 1.
         end.
-        cMotVarduSarasas = cMotVarduSarasas + ";" + cVardas.
+        display stream mot cVardas format "x(25)" no-label.
     end.
     
 end.
 
+input close.
 
-
-// OUTPUTS:
-
-output to 'vardai_vyr.txt'.
-repeat i = 1 to num-entries(cVyrVarduSarasas, ";"):
-    display entry(i, cVyrVarduSarasas, ";") format "x(25)".
-end.
-output close.
-
-output to 'vardai_mot.txt'.
-repeat i = 1 to num-entries(cMotVarduSarasas, ";"):
-    display entry(i, cMotVarduSarasas, ";") format "x(25)".
-end.
-output close.
-
-output to 'vardai_pataisyti.txt'.
-repeat i = 1 to num-entries(cBendrasSarasas, ";"):
-    display entry(i, cBendrasSarasas, ";") format "x(25)".
-end.
-output close.
-
+output stream vyr close.
+output stream mot close.
+output stream bendras close.
 
 
 output to 'ataskaita.txt'.
