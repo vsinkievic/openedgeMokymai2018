@@ -1,0 +1,4 @@
+Man: 	 8 
+Double man: 	 5 
+Woman: 	 6 
+Double woman: 	 1 
