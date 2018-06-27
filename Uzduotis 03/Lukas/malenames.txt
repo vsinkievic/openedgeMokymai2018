@@ -1,0 +1,5 @@
+"Sarunas"
+"Petras"
+"Jonas" "Antanas"
+"Ğarûnas" "Jonas"
+"Dşiugas" "Sarunas"
