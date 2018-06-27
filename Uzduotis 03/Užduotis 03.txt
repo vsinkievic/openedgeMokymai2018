@@ -1,0 +1,10 @@
+Užduotis 03
+
+Savarankiškai: skaityti PDF Getting Started – ABL Essentials, ABL reference. Parašyti demo programą kurioje panaudoti kuo daugiau išmoktų galimybių, 3 komentarų tipus. Programa turi būti patalpinta į GIT užduoties katalogą.
+
+Galima programos užduotis
+Yra failas su vardais (failą taip pat reikia paruošti). Vienas vardas į eilutę. Vardai vyriški ir moteriški. Vardai gali būti ir dvigubi (pvz. Ona Marytė).
+Parašyti programą, kuri:
+Į atskirus failus parašo vyriškus vardus ir moteriškus vardus.
+Suformuoja trumpą ataskaitą: kiek yra vyriškų vardų, tame tarpe dvigubu, kiek yra moteriškų vardų, tame tarpe dvigubų.
+Išveda tokį patį vardų sąrašą, tačiau pataiso klaidas varduose, pvz. jei vardas buvo be lietuviškų raidžių (bent keli vardai).

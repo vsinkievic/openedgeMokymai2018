@@ -1,0 +1,20 @@
+
+         i menesiai
+---------- -------------------------
+         1 Sausis
+         2 Vasaris
+         3 Kovas
+         4 Balandis
+         5 Geguþë
+         6 Birþelis
+         7 Liepa
+         8 Rugpjûtis
+         9 Rugsëjis
+        10 Spalis
+        11 Lapkritis
+        12 Gruodis
+----------
+        78                           TOTAL
+        12                           MAX
+         1                           MIN
+         7                           AVG
