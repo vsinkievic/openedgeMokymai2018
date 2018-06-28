@@ -1,0 +1,920 @@
+
+Kliento ID
+----------
+         1
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-08 Gloria Shepley               6   1.829,50
+1993-02-26 Gloria Shepley              79  34.707,84
+1993-03-08 Gloria Shepley              36     492,25
+1993-04-09 Gloria Shepley             177   4.605,91
+                                          ----------
+                                           41.635,50 Bendra suma
+                                           34.707,84 Didziausias uþsakymas
+                                              492,25 Maþiausias uþsakymas
+
+Kliento ID
+----------
+         2
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-03-10 Urpo Leppakoski             94   4.928,73
+1993-03-26 Urpo Leppakoski            125   2.669,86
+                                          ----------
+                                            7.598,59 Bendra suma
+                                            4.928,73 Didziausias uþsakymas
+                                            2.669,86 Maþiausias uþsakymas
+
+Kliento ID
+----------
+         3
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-03-19 Michael Traitser            55   9.510,21
+                                          ----------
+                                            9.510,21 Bendra suma
+                                            9.510,21 Didziausias uþsakymas
+                                            9.510,21 Maþiausias uþsakymas
+
+Kliento ID
+----------
+         4
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-01-25 Alan Frogbrook              21     688,37
+                                          ----------
+                                              688,37 Bendra suma
+                                              688,37 Didziausias uþsakymas
+                                              688,37 Maþiausias uþsakymas
+
+Kliento ID
+----------
+         5
+
+Kliento ID
+----------
+         6
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-03-05 Andrew Strong               59   3.621,32
+1993-03-29 Andrew Strong              165   4.953,75
+1993-04-09 Andrew Strong              135     541,75
+                                          ----------
+                                            9.116,82 Bendra suma
+                                            4.953,75 Didziausias uþsakymas
+                                              541,75 Maþiausias uþsakymas
+
+Kliento ID
+----------
+         7
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-04-05 Elli Ilmanen               118   2.952,42
+1993-04-12 Elli Ilmanen               141   4.664,57
+                                          ----------
+                                            7.616,99 Bendra suma
+                                            4.664,57 Didziausias uþsakymas
+                                            2.952,42 Maþiausias uþsakymas
+
+Kliento ID
+----------
+         8
+
+Kliento ID
+----------
+         9
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-03-01 Markku Ventolinen           75     950,40
+1993-03-01 Markku Ventolinen           90   7.166,87
+1993-03-04 Markku Ventolinen           48   6.428,08
+1993-03-10 Markku Ventolinen           99     380,67
+1993-03-22 Markku Ventolinen          108  10.866,06
+                                          ----------
+                                           25.792,08 Bendra suma
+                                           10.866,06 Didziausias uþsakymas
+                                              380,67 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        10
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-12 George Lacey                25   4.586,99
+                                          ----------
+                                            4.586,99 Bendra suma
+                                            4.586,99 Didziausias uþsakymas
+                                            4.586,99 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        11
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-11 Riitta Hammermaki           10     771,59
+1993-02-12 Riitta Hammermaki           56     435,87
+1993-02-19 Riitta Hammermaki           16     342,00
+                                          ----------
+                                            1.549,46 Bendra suma
+                                              771,59 Didziausias uþsakymas
+                                              342,00 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        12
+
+Kliento ID
+----------
+        13
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-03-15 Tuomo A.T. Mattinen         68   1.005,00
+                                          ----------
+                                            1.005,00 Bendra suma
+                                            1.005,00 Didziausias uþsakymas
+                                            1.005,00 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        14
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-17 Philippe Dasgil             20  19.108,20
+1993-03-22 Philippe Dasgil            101     319,60
+                                          ----------
+                                           19.427,80 Bendra suma
+                                           19.108,20 Didziausias uþsakymas
+                                              319,60 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        15
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-05 Robert Johns                58   3.234,55
+                                          ----------
+                                            3.234,55 Bendra suma
+                                            3.234,55 Didziausias uþsakymas
+                                            3.234,55 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        16
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-01 Fran Horan                  41   3.668,92
+1993-02-05 Fran Horan                  23   2.002,74
+1993-04-05 Fran Horan                 134   3.365,70
+                                          ----------
+                                            9.037,36 Bendra suma
+                                            3.668,92 Didziausias uþsakymas
+                                            2.002,74 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        17
+
+Kliento ID
+----------
+        18
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-03-11 Antti Oyrinmetsa           112   4.742,60
+                                          ----------
+                                            4.742,60 Bendra suma
+                                            4.742,60 Didziausias uþsakymas
+                                            4.742,60 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        19
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-03-15 George Buitkus             111   2.420,80
+1993-04-02 George Buitkus             150  25.236,78
+                                          ----------
+                                           27.657,58 Bendra suma
+                                           25.236,78 Didziausias uþsakymas
+                                            2.420,80 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        20
+
+Kliento ID
+----------
+        21
+
+Kliento ID
+----------
+        22
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-03-29 Pentti Koskinen            129   2.850,73
+                                          ----------
+                                            2.850,73 Bendra suma
+                                            2.850,73 Didziausias uþsakymas
+                                            2.850,73 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        24
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-03-16 Markku Yla-Liedeoja         88   5.658,34
+1993-04-12 Markku Yla-Liedeoja        138  15.147,81
+                                          ----------
+                                           20.806,15 Bendra suma
+                                           15.147,81 Didziausias uþsakymas
+                                            5.658,34 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        25
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-12 Mr Roulemousse              54   4.377,05
+1993-03-18 Mr Roulemousse              96   4.285,93
+                                          ----------
+                                            8.662,98 Bendra suma
+                                            4.377,05 Didziausias uþsakymas
+                                            4.285,93 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        26
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-15 Kevin Batter                42   7.886,92
+1993-02-22 Kevin Batter                45   1.012,00
+1993-03-03 Kevin Batter                98   9.911,25
+                                          ----------
+                                           18.810,17 Bendra suma
+                                            9.911,25 Didziausias uþsakymas
+                                            1.012,00 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        27
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-22 Hr. Ballerer                52   7.535,42
+1993-02-25 Hr. Ballerer                43     472,45
+1993-03-26 Hr. Ballerer                95  18.053,00
+1993-03-26 Hr. Ballerer               117  19.075,61
+1993-04-12 Hr. Ballerer               122     180,81
+                                          ----------
+                                           45.317,29 Bendra suma
+                                           19.075,61 Didziausias uþsakymas
+                                              180,81 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        28
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-16 Jarkko J. Scott             11   3.990,23
+1993-02-26 Jarkko J. Scott             37   3.069,04
+1993-02-26 Jarkko J. Scott             87   5.084,64
+1993-04-13 Jarkko J. Scott            102   9.721,35
+                                          ----------
+                                           21.865,26 Bendra suma
+                                            9.721,35 Didziausias uþsakymas
+                                            3.069,04 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        29
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-03-12 Chip Clark                  82   1.471,14
+                                          ----------
+                                            1.471,14 Bendra suma
+                                            1.471,14 Didziausias uþsakymas
+                                            1.471,14 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        30
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-22 Shaun Peacock               18  14.530,46
+1993-02-26 Shaun Peacock               40   3.115,23
+1993-03-30 Shaun Peacock              113   4.038,31
+1993-04-09 Shaun Peacock              121   6.604,32
+                                          ----------
+                                           28.288,32 Bendra suma
+                                           14.530,46 Didziausias uþsakymas
+                                            3.115,23 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        31
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-24 Heikki Waljakkala           51   3.110,99
+1993-03-17 Heikki Waljakkala           84   4.975,62
+                                          ----------
+                                            8.086,61 Bendra suma
+                                            4.975,62 Didziausias uþsakymas
+                                            3.110,99 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        32
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-03 Ismo Alatasanko             28   5.655,20
+1993-02-04 Ismo Alatasanko             34   4.835,33
+                                          ----------
+                                           10.490,53 Bendra suma
+                                            5.655,20 Didziausias uþsakymas
+                                            4.835,33 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        33
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-25 Jorma Jankakoli             53   2.610,89
+1993-03-12 Jorma Jankakoli             86   3.727,24
+1993-04-02 Jorma Jankakoli            159   5.531,85
+1993-04-09 Jorma Jankakoli            131     117,81
+                                          ----------
+                                           11.987,79 Bendra suma
+                                            5.531,85 Didziausias uþsakymas
+                                              117,81 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        34
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-25 Salvatore Riccio            62  17.502,95
+1993-03-01 Salvatore Riccio            70   8.668,27
+1993-03-24 Salvatore Riccio           110   3.389,44
+1993-04-05 Salvatore Riccio           149   6.677,82
+                                          ----------
+                                           36.238,48 Bendra suma
+                                           17.502,95 Didziausias uþsakymas
+                                            3.389,44 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        35
+
+Kliento ID
+----------
+        36
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-03-26 Mr Breiz                   115   2.590,76
+                                          ----------
+                                            2.590,76 Bendra suma
+                                            2.590,76 Didziausias uþsakymas
+                                            2.590,76 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        37
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-05 Hr. Gasgeb                  12  10.288,58
+1993-03-02 Hr. Gasgeb                  60   1.351,61
+                                          ----------
+                                           11.640,19 Bendra suma
+                                           10.288,58 Didziausias uþsakymas
+                                            1.351,61 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        38
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-01-14 Roope Paukku                 8   4.104,00
+                                          ----------
+                                            4.104,00 Bendra suma
+                                            4.104,00 Didziausias uþsakymas
+                                            4.104,00 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        39
+
+Kliento ID
+----------
+        40
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-15 Heikki Niemelainen          31   5.721,46
+1993-02-26 Heikki Niemelainen          30   7.108,09
+1993-03-08 Heikki Niemelainen          64  26.912,81
+1993-04-09 Heikki Niemelainen         140   1.133,11
+                                          ----------
+                                           40.875,47 Bendra suma
+                                           26.912,81 Didziausias uþsakymas
+                                            1.133,11 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        41
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-03-01 Mark Little                 78     184,00
+1993-03-03 Mark Little                 63  11.217,96
+                                          ----------
+                                           11.401,96 Bendra suma
+                                           11.217,96 Didziausias uþsakymas
+                                              184,00 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        42
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-03-08 Nancy Trainer               72   5.638,75
+1993-03-11 Nancy Trainer               89   2.072,63
+1993-03-23 Nancy Trainer              139   3.345,69
+                                          ----------
+                                           11.057,07 Bendra suma
+                                            5.638,75 Didziausias uþsakymas
+                                            2.072,63 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        43
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-03-19 Irving Nigrini              97   3.076,93
+1993-03-19 Irving Nigrini             146   5.489,02
+1993-03-26 Irving Nigrini             100   5.597,71
+1993-03-26 Irving Nigrini             127   5.511,94
+                                          ----------
+                                           19.675,60 Bendra suma
+                                            5.597,71 Didziausias uþsakymas
+                                            3.076,93 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        44
+
+Kliento ID
+----------
+        45
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-04-02 R. Trimmer                 128  10.055,51
+                                          ----------
+                                           10.055,51 Bendra suma
+                                           10.055,51 Didziausias uþsakymas
+                                           10.055,51 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        46
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-19 Denis Papin                 67     650,31
+1993-02-22 Denis Papin                 91   8.704,73
+1993-04-02 Denis Papin                136   1.367,35
+1993-04-05 Denis Papin                156     292,95
+1993-04-12 Denis Papin                119  22.266,26
+                                          ----------
+                                           33.281,60 Bendra suma
+                                           22.266,26 Didziausias uþsakymas
+                                              292,95 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        47
+
+Kliento ID
+----------
+        48
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-12 Pentti Pekanmaa             17   1.024,99
+                                          ----------
+                                            1.024,99 Bendra suma
+                                            1.024,99 Didziausias uþsakymas
+                                            1.024,99 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        49
+
+Kliento ID
+----------
+        50
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-12 Kevin Koppel                44   6.517,91
+1993-04-02 Kevin Koppel               104   5.413,10
+                                          ----------
+                                           11.931,01 Bendra suma
+                                            6.517,91 Didziausias uþsakymas
+                                            5.413,10 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        51
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-01-27 Quoc Tran                    9     251,26
+1993-02-08 Quoc Tran                    7   6.337,38
+1993-03-02 Quoc Tran                   83  11.975,88
+                                          ----------
+                                           18.564,52 Bendra suma
+                                           11.975,88 Didziausias uþsakymas
+                                              251,26 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        52
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-01 Kaisa Kulmiainen            50     446,09
+1993-03-18 Kaisa Kulmiainen           120   3.523,51
+                                          ----------
+                                            3.969,60 Bendra suma
+                                            3.523,51 Didziausias uþsakymas
+                                              446,09 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        53
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-01-28 Sven Tumba                  26   3.450,34
+1993-02-08 Sven Tumba                   1   4.402,02
+                                          ----------
+                                            7.852,36 Bendra suma
+                                            4.402,02 Didziausias uþsakymas
+                                            3.450,34 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        54
+
+Kliento ID
+----------
+        55
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-04-06 Joao Borges                105     259,87
+                                          ----------
+                                              259,87 Bendra suma
+                                              259,87 Didziausias uþsakymas
+                                              259,87 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        56
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-19 Jaana Kauppalainen          65   4.193,10
+                                          ----------
+                                            4.193,10 Bendra suma
+                                            4.193,10 Didziausias uþsakymas
+                                            4.193,10 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        57
+
+Kliento ID
+----------
+        58
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-01-25 Ellyn Krol                  33   6.633,60
+1993-01-27 Ellyn Krol                  19     981,60
+                                          ----------
+                                            7.615,20 Bendra suma
+                                            6.633,60 Didziausias uþsakymas
+                                              981,60 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        59
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-15 Kari Jokinen                27     518,74
+                                          ----------
+                                              518,74 Bendra suma
+                                              518,74 Didziausias uþsakymas
+                                              518,74 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        60
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-22 S. Volley                   29     496,61
+                                          ----------
+                                              496,61 Bendra suma
+                                              496,61 Didziausias uþsakymas
+                                              496,61 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        61
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-01-22 Heikki Yli-Moijonen         15   4.603,72
+1993-03-08 Heikki Yli-Moijonen         61   5.200,38
+1993-03-15 Heikki Yli-Moijonen         74   1.550,79
+1993-04-12 Heikki Yli-Moijonen        178   6.302,15
+                                          ----------
+                                           17.657,04 Bendra suma
+                                            6.302,15 Didziausias uþsakymas
+                                            1.550,79 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        62
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-03-03 Alan Johnson                47  11.397,99
+                                          ----------
+                                           11.397,99 Bendra suma
+                                           11.397,99 Didziausias uþsakymas
+                                           11.397,99 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        63
+
+Kliento ID
+----------
+        64
+
+Kliento ID
+----------
+        65
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-03-19 Kurt Synare                114  40.439,43
+                                          ----------
+                                           40.439,43 Bendra suma
+                                           40.439,43 Didziausias uþsakymas
+                                           40.439,43 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        66
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-17 Marcia Shirkey               3  23.504,59
+1993-03-08 Marcia Shirkey              66  36.587,69
+1993-03-10 Marcia Shirkey              80   8.187,39
+                                          ----------
+                                           68.279,67 Bendra suma
+                                           36.587,69 Didziausias uþsakymas
+                                            8.187,39 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        67
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-22 Keith Doherty               76   4.329,98
+1993-02-23 Keith Doherty               38   1.886,68
+1993-03-12 Keith Doherty              103   5.725,56
+1993-03-19 Keith Doherty               73     569,80
+1993-03-22 Keith Doherty              126      68,55
+                                          ----------
+                                           12.580,57 Bendra suma
+                                            5.725,56 Didziausias uþsakymas
+                                               68,55 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        68
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-08 Hector D'Amato              49   7.051,19
+                                          ----------
+                                            7.051,19 Bendra suma
+                                            7.051,19 Didziausias uþsakymas
+                                            7.051,19 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        69
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-01-15 Pekka Savujoki              13   5.267,67
+1993-03-12 Pekka Savujoki              81   4.502,45
+                                          ----------
+                                            9.770,12 Bendra suma
+                                            5.267,67 Didziausias uþsakymas
+                                            4.502,45 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        70
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-10 Will B Scarey               32   2.747,30
+1993-03-01 Will B Scarey               22   4.807,68
+1993-03-26 Will B Scarey               85   3.824,11
+                                          ----------
+                                           11.379,09 Bendra suma
+                                            4.807,68 Didziausias uþsakymas
+                                            2.747,30 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        71
+
+Kliento ID
+----------
+        72
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-01-21 Orrin Meagher                5  15.126,78
+1993-03-08 Orrin Meagher               77   4.803,08
+                                          ----------
+                                           19.929,86 Bendra suma
+                                           15.126,78 Didziausias uþsakymas
+                                            4.803,08 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        73
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-05 Fr. Abseiler                24   5.841,40
+1993-02-26 Fr. Abseiler                35   6.091,48
+                                          ----------
+                                           11.932,88 Bendra suma
+                                            6.091,48 Didziausias uþsakymas
+                                            5.841,40 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        74
+
+Kliento ID
+----------
+        75
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-02-15 Carol Lynn                  39   6.981,83
+1993-02-22 Carol Lynn                  71   6.050,70
+1993-04-14 Carol Lynn                 142  14.780,25
+                                          ----------
+                                           27.812,78 Bendra suma
+                                           14.780,25 Didziausias uþsakymas
+                                            6.050,70 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        76
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-03-22 Paavo Heikinmaki            92   2.906,87
+1993-04-06 Paavo Heikinmaki           107   8.609,73
+                                          ----------
+                                           11.516,60 Bendra suma
+                                            8.609,73 Didziausias uþsakymas
+                                            2.906,87 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        77
+
+Kliento ID
+----------
+        78
+
+Kliento ID
+----------
+        79
+
+Kliento ID
+----------
+        80
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-03-24 Dory Schweitzer            106   3.727,75
+                                          ----------
+                                            3.727,75 Bendra suma
+                                            3.727,75 Didziausias uþsakymas
+                                            3.727,75 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        81
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-01-15 Nicole Beller                2   2.812,98
+1993-03-19 Nicole Beller              123     687,00
+1993-03-24 Nicole Beller              109     241,55
+                                          ----------
+                                            3.741,53 Bendra suma
+                                            2.812,98 Didziausias uþsakymas
+                                              241,55 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        82
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-01-21 Ron Ferrante                14     487,59
+1993-04-08 Ron Ferrante               124   3.678,77
+1993-04-12 Ron Ferrante               161  23.947,60
+                                          ----------
+                                           28.113,96 Bendra suma
+                                           23.947,60 Didziausias uþsakymas
+                                              487,59 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        83
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-01-25 Kevin Mallone                4  11.756,67
+1993-02-16 Kevin Mallone               46  29.762,58
+1993-03-11 Kevin Mallone               69  14.513,86
+1993-03-30 Kevin Mallone              132   9.146,38
+                                          ----------
+                                           65.179,49 Bendra suma
+                                           29.762,58 Didziausias uþsakymas
+                                            9.146,38 Maþiausias uþsakymas
+
+Kliento ID
+----------
+        84
+
+Data       Vardas               Uþsakymas       Suma
+---------- -------------------- --------- ----------
+1993-03-02 Craig Eleazer               93   4.977,34
+1993-03-03 Craig Eleazer               57   4.090,13
+                                          ----------
+                                            9.067,47 Bendra suma
+                                            4.977,34 Didziausias uþsakymas
+                                            4.090,13 Maþiausias uþsakymas
