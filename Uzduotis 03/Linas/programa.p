@@ -7,7 +7,7 @@ define variable iMotSkDvg as integer no-undo.
 define variable i as integer no-undo.
 define variable v as character no-undo.
 
-define variable taisymai as character no-undo init 
+define variable lcTaisymai as longchar  no-undo init 
     "Kestutis>Kæstutis;
     Sarune>Ðarûnë;
     Sarlote>Ðarlotë;
@@ -36,27 +36,27 @@ output stream bendras to value ("vardai_pataisyti.txt").
 sorting:
 repeat:
     import unformatted cVardas.
-
-    
     
  
 // VISOKIE PATAISYMAI:
     
-    cVardas = trim(cVardas).
+    cVardas = trim(cVardas).     //panaikinti tarpus prieð ir po vardo.
+    
     if cVardas = "" then do:
-        next.
+        next.   //jeigu eilutë tuðèia, pereiti ið karto prie kitos.
     end.
     
-    tarpoSumazinimas:
+    tarpoSumazinimas:    // jeigu tarp vardø (kai vardas dvigubas) tarpø daugiau negu vienas, sumaþinti
     repeat:
         if index(cVardas, "  ") > 0 then do:
             cVardas = replace(cVardas, "  ", " ").
         end.
         else leave tarpoSumazinimas.
     end.
-     
-    repeat i = 1 to num-entries(taisymai, ";"):
-        v = trim(entry(i, taisymai, ";")).
+    
+    paieskaTaisymuose:
+    repeat i = 1 to num-entries(lcTaisymai, ";"):
+        v = trim(entry(i, lcTaisymai, ";")).
         if index(cVardas, entry(1, v, ">")) > 0 then do:
             cVardas = replace(cVardas, entry(1, v, ">"), entry(2, v, ">")).
         end.
@@ -73,9 +73,7 @@ display stream bendras cVardas format "x(25)" no-label.
         if index(cVardas, " ") > 0 then do:
             iVyrSkDvg = iVyrSkDvg + 1.
         end.
-        if cVardas <> "" then do:
-            display stream vyr cVardas format "x(25)" no-label.
-        end.
+        display stream vyr cVardas format "x(25)" no-label.
     end.
 
 // MOT VARDAI: 
