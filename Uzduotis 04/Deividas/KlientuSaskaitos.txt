@@ -1,0 +1,5045 @@
+
+Kliento kodas Klientas
+------------- ------------------------------
+            1 G. SHEPLEY
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-09-28                36     492.25
+1997-11-22                79  34'707.84
+1998-02-12                 6   1'829.50
+1998-03-03               146   4'605.91
+                             ----------
+                              41'635.50 Bendra
+                              34'707.84 Maksimali
+                                 492.25 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+            2 U. LEPPAKOSKI
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-10-05                94   4'928.73
+1997-12-21               124   2'669.86
+                             ----------
+                               7'598.59 Bendra
+                               4'928.73 Maksimali
+                               2'669.86 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+            3 M. TRAITSER
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-09-23                55   9'510.21
+                             ----------
+                               9'510.21 Bendra
+                               9'510.21 Maksimali
+                               9'510.21 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+            4 A. FROGBROOK
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1998-02-09                21     688.37
+                             ----------
+                                 688.37 Bendra
+                                 688.37 Maksimali
+                                 688.37 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+            5 R. DORR
+
+Kliento kodas Klientas
+------------- ------------------------------
+            6 A. STRONG
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-11-26               132     541.75
+1997-12-03               145   4'953.75
+1997-12-25                59   3'621.32
+                             ----------
+                               9'116.82 Bendra
+                               4'953.75 Maksimali
+                                 541.75 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+            7 E. ILMANEN
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-11-15               137   4'664.57
+1997-11-23               117   2'952.42
+                             ----------
+                               7'616.99 Bendra
+                               4'664.57 Maksimali
+                               2'952.42 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+            8 T. BREAK
+
+Kliento kodas Klientas
+------------- ------------------------------
+            9 M. VENTOLINEN
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-09-15                48   6'428.08
+1997-10-08                99     380.67
+1997-11-30               108  10'866.06
+1998-02-28                75     950.40
+1998-03-05                90   7'166.87
+                             ----------
+                              25'792.08 Bendra
+                              10'866.06 Maksimali
+                                 380.67 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           10 G. LACEY
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-10-11                25   4'586.99
+                             ----------
+                               4'586.99 Bendra
+                               4'586.99 Maksimali
+                               4'586.99 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           11 R. HAMMERMAKI
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-11-10                16     342.00
+1998-01-03                56     435.87
+1998-01-22                10     771.59
+                             ----------
+                               1'549.46 Bendra
+                                 771.59 Maksimali
+                                 342.00 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           12 V. LEHTISOINI
+
+Kliento kodas Klientas
+------------- ------------------------------
+           13 T. A.T. MATTINEN
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1998-02-22                68   1'005.00
+                             ----------
+                               1'005.00 Bendra
+                               1'005.00 Maksimali
+                               1'005.00 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           14 P. DASGIL
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-10-26               101     319.60
+1997-11-25                20  19'108.20
+                             ----------
+                              19'427.80 Bendra
+                              19'108.20 Maksimali
+                                 319.60 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           15 R. JOHNS
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1998-01-27                58   3'234.55
+                             ----------
+                               3'234.55 Bendra
+                               3'234.55 Maksimali
+                               3'234.55 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           16 F. HORAN
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1998-01-26               131   3'365.70
+1998-01-30                23   2'002.74
+1998-02-25                41   3'668.92
+                             ----------
+                               9'037.36 Bendra
+                               3'668.92 Maksimali
+                               2'002.74 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           17 A. TACKLE
+
+Kliento kodas Klientas
+------------- ------------------------------
+           18 A. OYRINMETSA
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1998-01-02               112   4'742.60
+                             ----------
+                               4'742.60 Bendra
+                               4'742.60 Maksimali
+                               4'742.60 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           19 G. BUITKUS
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-11-02               111   2'420.80
+1997-12-15               141  25'236.78
+                             ----------
+                              27'657.58 Bendra
+                              25'236.78 Maksimali
+                               2'420.80 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           20 P. MAUKAJARVI
+
+Kliento kodas Klientas
+------------- ------------------------------
+           21 A. PRIMES
+
+Kliento kodas Klientas
+------------- ------------------------------
+           22 P. KOSKINEN
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1998-01-31               128   2'850.73
+                             ----------
+                               2'850.73 Bendra
+                               2'850.73 Maksimali
+                               2'850.73 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           24 M. YLA-LIEDEOJA
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-10-03               134  15'147.81
+1998-02-01                88   5'658.34
+                             ----------
+                              20'806.15 Bendra
+                              15'147.81 Maksimali
+                               5'658.34 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           25 M. ROULEMOUSSE
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-11-07                96   4'285.93
+1998-01-02                54   4'377.05
+                             ----------
+                               8'662.98 Bendra
+                               4'377.05 Maksimali
+                               4'285.93 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           26 K. BATTER
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-11-05                45   1'012.00
+1997-12-06                42   7'886.92
+1997-12-22                98   9'911.25
+                             ----------
+                              18'810.17 Bendra
+                               9'911.25 Maksimali
+                               1'012.00 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           27 H. BALLERER
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-11-07                43     472.45
+1997-12-07               116  19'075.61
+1998-02-03                95  18'053.00
+1998-02-04               121     180.81
+1998-02-11                52   7'535.42
+                             ----------
+                              45'317.29 Bendra
+                              19'075.61 Maksimali
+                                 180.81 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           28 J. J. SCOTT
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-12-04                87   5'084.64
+1998-01-08                37   3'069.04
+1998-01-29                11   3'990.23
+1998-02-09               102   9'721.35
+                             ----------
+                              21'865.26 Bendra
+                               9'721.35 Maksimali
+                               3'069.04 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           29 C. CLARK
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-10-13                82   1'471.14
+                             ----------
+                               1'471.14 Bendra
+                               1'471.14 Maksimali
+                               1'471.14 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           30 S. PEACOCK
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-09-18               113   4'038.31
+1997-12-06                40   3'115.23
+1998-01-25               120   6'604.32
+1998-02-23                18  14'530.46
+                             ----------
+                              28'288.32 Bendra
+                              14'530.46 Maksimali
+                               3'115.23 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           31 H. WALJAKKALA
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-09-19                51   3'110.99
+1998-02-12                84   4'975.62
+                             ----------
+                               8'086.61 Bendra
+                               4'975.62 Maksimali
+                               3'110.99 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           32 I. ALATASANKO
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1998-01-26                34   4'835.33
+1998-02-28                28   5'655.20
+                             ----------
+                              10'490.53 Bendra
+                               5'655.20 Maksimali
+                               4'835.33 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           33 J. JANKAKOLI
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-10-03               143   5'531.85
+1997-10-22                53   2'610.89
+1997-11-06               129     117.81
+1998-01-19                86   3'727.24
+                             ----------
+                              11'987.79 Bendra
+                               5'531.85 Maksimali
+                                 117.81 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           34 S. RICCIO
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-10-07                70   8'668.27
+1997-10-07               140   6'677.82
+1997-11-25               110   3'389.44
+1998-02-08                62  17'502.95
+                             ----------
+                              36'238.48 Bendra
+                              17'502.95 Maksimali
+                               3'389.44 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           35 P. ALA-JULKKU
+
+Kliento kodas Klientas
+------------- ------------------------------
+           36 M. BREIZ
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1998-01-06               115   2'590.76
+                             ----------
+                               2'590.76 Bendra
+                               2'590.76 Maksimali
+                               2'590.76 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           37 H. GASGEB
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-10-02                60   1'351.61
+1997-12-03                12  10'288.58
+                             ----------
+                              11'640.19 Bendra
+                              10'288.58 Maksimali
+                               1'351.61 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           38 R. PAUKKU
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-09-19                 8   4'104.00
+                             ----------
+                               4'104.00 Bendra
+                               4'104.00 Maksimali
+                               4'104.00 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           39 A. RASTIO
+
+Kliento kodas Klientas
+------------- ------------------------------
+           40 H. NIEMELAINEN
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-10-04                30   7'108.09
+1997-10-25                31   5'721.46
+1997-11-10                64  26'912.81
+1997-11-29               136   1'133.11
+                             ----------
+                              40'875.47 Bendra
+                              26'912.81 Maksimali
+                               1'133.11 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           41 M. LITTLE
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1998-03-03                78     184.00
+1998-03-06                63  11'217.96
+                             ----------
+                              11'401.96 Bendra
+                              11'217.96 Maksimali
+                                 184.00 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           42 N. TRAINER
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-09-11                72   5'638.75
+1997-12-04               135   3'345.69
+1998-01-04                89   2'072.63
+                             ----------
+                              11'057.07 Bendra
+                               5'638.75 Maksimali
+                               2'072.63 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           43 I. NIGRINI
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-10-13               126   5'511.94
+1997-12-05                97   3'076.93
+1998-01-08               100   5'597.71
+1998-01-12               139   5'489.02
+                             ----------
+                              19'675.60 Bendra
+                               5'597.71 Maksimali
+                               3'076.93 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           44 B. ELDRIDGE
+
+Kliento kodas Klientas
+------------- ------------------------------
+           45 R. TRIMMER
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1998-02-18               127  10'055.51
+                             ----------
+                              10'055.51 Bendra
+                              10'055.51 Maksimali
+                              10'055.51 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           46 D. PAPIN
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-10-16               118  22'266.26
+1997-10-24               142     292.95
+1997-12-28                91   8'704.73
+1998-02-25               133   1'367.35
+1998-03-06                67     650.31
+                             ----------
+                              33'281.60 Bendra
+                              22'266.26 Maksimali
+                                 292.95 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           47 B. MOSS
+
+Kliento kodas Klientas
+------------- ------------------------------
+           48 P. PEKANMAA
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1998-01-10                17   1'024.99
+                             ----------
+                               1'024.99 Bendra
+                               1'024.99 Maksimali
+                               1'024.99 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           49 J. SALOMAKI
+
+Kliento kodas Klientas
+------------- ------------------------------
+           50 K. KOPPEL
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-09-15                44   6'517.91
+1998-01-20               104   5'413.10
+                             ----------
+                              11'931.01 Bendra
+                               6'517.91 Maksimali
+                               5'413.10 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           51 Q. TRAN
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1998-02-10                83  11'975.88
+1998-02-23                 9     251.26
+1998-03-07                 7   6'337.38
+                             ----------
+                              18'564.52 Bendra
+                              11'975.88 Maksimali
+                                 251.26 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           52 K. KULMIAINEN
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-11-13                50     446.09
+1998-01-09               119   3'523.51
+                             ----------
+                               3'969.60 Bendra
+                               3'523.51 Maksimali
+                                 446.09 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           53 S. TUMBA
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-12-09                26   3'450.34
+1998-01-27                 1   4'402.02
+                             ----------
+                               7'852.36 Bendra
+                               4'402.02 Maksimali
+                               3'450.34 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           54 N. WALKER
+
+Kliento kodas Klientas
+------------- ------------------------------
+           55 J. BORGES
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1998-01-16               105     259.87
+                             ----------
+                                 259.87 Bendra
+                                 259.87 Maksimali
+                                 259.87 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           56 J. KAUPPALAINEN
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-10-19                65   4'193.10
+                             ----------
+                               4'193.10 Bendra
+                               4'193.10 Maksimali
+                               4'193.10 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           57 H. HOEDJES
+
+Kliento kodas Klientas
+------------- ------------------------------
+           58 E. KROL
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-11-29                19     981.60
+1997-12-22                33   6'633.60
+                             ----------
+                               7'615.20 Bendra
+                               6'633.60 Maksimali
+                                 981.60 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           59 K. JOKINEN
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-10-28                27     518.74
+                             ----------
+                                 518.74 Bendra
+                                 518.74 Maksimali
+                                 518.74 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           60 S. VOLLEY
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-10-17                29     496.61
+                             ----------
+                                 496.61 Bendra
+                                 496.61 Maksimali
+                                 496.61 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           61 H. YLI-MOIJONEN
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-11-10                61   5'200.38
+1997-11-13               147   6'302.15
+1997-11-23                74   1'550.79
+1997-12-26                15   4'603.72
+                             ----------
+                              17'657.04 Bendra
+                               6'302.15 Maksimali
+                               1'550.79 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           62 A. JOHNSON
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-11-30                47  11'397.99
+                             ----------
+                              11'397.99 Bendra
+                              11'397.99 Maksimali
+                              11'397.99 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           63 E. KIRJAVAINEN
+
+Kliento kodas Klientas
+------------- ------------------------------
+           64 M. KANTOKOSKI
+
+Kliento kodas Klientas
+------------- ------------------------------
+           65 K. SYNARE
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-12-21               114  40'439.43
+                             ----------
+                              40'439.43 Bendra
+                              40'439.43 Maksimali
+                              40'439.43 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           66 M. SHIRKEY
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-09-24                 3  23'504.59
+1997-10-18                66  36'587.69
+1997-10-27                80   8'187.39
+                             ----------
+                              68'279.67 Bendra
+                              36'587.69 Maksimali
+                               8'187.39 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           67 K. DOHERTY
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-11-15               103   5'725.56
+1998-01-15                38   1'886.68
+1998-01-29                76   4'329.98
+1998-02-02               125      68.55
+1998-02-03                73     569.80
+                             ----------
+                              12'580.57 Bendra
+                               5'725.56 Maksimali
+                                  68.55 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           68 H. D'AMATO
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-09-28                49   7'051.19
+                             ----------
+                               7'051.19 Bendra
+                               7'051.19 Maksimali
+                               7'051.19 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           69 P. SAVUJOKI
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-10-01                81   4'502.45
+1998-01-16                13   5'267.67
+                             ----------
+                               9'770.12 Bendra
+                               5'267.67 Maksimali
+                               4'502.45 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           70 W. B SCAREY
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-11-24                32   2'747.30
+1998-01-03                22   4'807.68
+1998-03-10                85   3'824.11
+                             ----------
+                              11'379.09 Bendra
+                               4'807.68 Maksimali
+                               2'747.30 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           71 L. AIDA
+
+Kliento kodas Klientas
+------------- ------------------------------
+           72 O. MEAGHER
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1998-01-29                77   4'803.08
+1998-02-13                 5  15'126.78
+                             ----------
+                              19'929.86 Bendra
+                              15'126.78 Maksimali
+                               4'803.08 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           73 F. ABSEILER
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-12-04                24   5'841.40
+1998-01-12                35   6'091.48
+                             ----------
+                              11'932.88 Bendra
+                               6'091.48 Maksimali
+                               5'841.40 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           74 R. KAMMER
+
+Kliento kodas Klientas
+------------- ------------------------------
+           75 C. LYNN
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-09-17                71   6'050.70
+1997-11-06               138  14'780.25
+1998-03-07                39   6'981.83
+                             ----------
+                              27'812.78 Bendra
+                              14'780.25 Maksimali
+                               6'050.70 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           76 P. HEIKINMAKI
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-10-02               107   8'609.73
+1997-10-07                92   2'906.87
+                             ----------
+                              11'516.60 Bendra
+                               8'609.73 Maksimali
+                               2'906.87 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           77 A. VERSE
+
+Kliento kodas Klientas
+------------- ------------------------------
+           78 C. ZUGRULOW
+
+Kliento kodas Klientas
+------------- ------------------------------
+           79 P. BUFFLE
+
+Kliento kodas Klientas
+------------- ------------------------------
+           80 D. SCHWEITZER
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-11-21               106   3'727.75
+                             ----------
+                               3'727.75 Bendra
+                               3'727.75 Maksimali
+                               3'727.75 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           81 N. BELLER
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-10-06                 2   2'812.98
+1997-10-13               109     241.55
+1997-12-24               122     687.00
+                             ----------
+                               3'741.53 Bendra
+                               2'812.98 Maksimali
+                                 241.55 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           82 R. FERRANTE
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-12-07                14     487.59
+1998-03-04               123   3'678.77
+1998-03-07               144  23'947.60
+                             ----------
+                              28'113.96 Bendra
+                              23'947.60 Maksimali
+                                 487.59 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           83 K. MALLONE
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-11-08                46  29'762.58
+1997-11-17                69  14'513.86
+1997-12-25               130   9'146.38
+1998-01-18                 4  11'756.67
+                             ----------
+                              65'179.49 Bendra
+                              29'762.58 Maksimali
+                               9'146.38 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+           84 C. ELEAZER
+
+Data       Saskaitos numeris       Suma
+---------- ----------------- ----------
+1997-10-23                93   4'977.34
+1998-03-07                57   4'090.13
+                             ----------
+                               9'067.47 Bendra
+                               4'977.34 Maksimali
+                               4'090.13 Minimali
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1005 J. SMITH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1015 J. SANDERS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1020 S. FEINSTEIN
+Second parameter of REPLACE must have non-zero length. (2918)
+Second parameter of REPLACE must have non-zero length. (2918)
+Second parameter of REPLACE must have non-zero length. (2918)
+Second parameter of REPLACE must have non-zero length. (2918)
+Second parameter of REPLACE must have non-zero length. (2918)
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1061 H. BINTON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1062 D. STUARTS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1063 J. ARMSTRONG
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1064 J. HEGGARTY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1065 P. GATE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1066 S. WINTERS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1067 J. HARRISON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1068 H. MILLER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1069 J. MYERS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1070 M. PLASTONE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1071 S. JEFFERIES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1072 D. FORTISS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1073 A. INCOLONE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1074 A. JEFFERIES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1075 T. BIGELOW
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1076 P. FARIGNY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1077 B. HENDERSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1078 D. KOSLOWSKI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1079 R. MOORE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1080 G. PICCOLO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1081 S. DIGRASSO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1102 E. ROSA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1103 J. ESPINOL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1104 E. MASON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1105 G. WHITTEMORE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1106 J. MARGOLIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1107 E. RAMOS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1108 P. KELSEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1109 M. FISHMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1110 J. VASSILIADES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1111 K. CARNEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1112 L. WARD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1113 B. BAUER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1114 K. CONROY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1115 A. VARGAS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1116 S. KWONG
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1117 L. DANKNER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1118 C. FERNANDES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1119 R. BURKE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1120 K. JACKSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1121 P. JOHNSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1122 K. MCCONARTY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1123 S. BRUCE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1124 K. HART
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1125 C. FERREIRA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1126 T. SOUSA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1127 P. MURPHY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1128 P. NICHOLS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1129 A. OCONNOR
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1130 D. YAMIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1131 J. NORTON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1132 C. CAMPBELL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1133 V. SHING
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1134 T. HOLLAND
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1135 J. CANNIFF
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1136 B. FULLER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1137 D. MARCOTTE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1138 G. GIANNOS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1139 P. SCULLY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1140 S. FREEMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1141 E. MANGIACOTTI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1142 D. CELESTIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1143 F. BURNS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1144 J. REYES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1145 S. CAPOBIANCO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1146 W. GOSMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1147 C. ALLISON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1148 C. KNIGHT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1149 C. REDDICK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1150 C. LEIFFER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1151 M. HIGGINS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1152 C. ROBINSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1153 J. ZHOU
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1154 L. SELL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1155 S. BOCCELLI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1156 M. EVANS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1157 K. BELZ
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1158 R. FEXA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1159 R. WINTERS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1160 E. SPERRY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1161 E. SANTIESTEVAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1162 T. OLIVER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1163 P. RIORDAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1164 L. LEAHY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1165 M. GRIESDORF
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1166 A. OLDMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1167 W. LENK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1168 N. FLOOD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1169 M. STAVIS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1170 A. BROWN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1171 C. HATALA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1172 J. TOOMEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1173 A. CALABRESE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1174 J. WOODIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1175 J. STITT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1176 N. KRAMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1177 K. TRUDEL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1178 N. YEN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1179 J. WOLFE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1180 P. MCCARTHY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1181 J. RIDER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1182 O. FIREMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1183 A. BATISTA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1184 A. LEWIS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1185 S. PARTRIDGE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1186 M. DELAROSA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1187 I. YEN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1188 N. OLEARY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1189 C. LIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1190 K. CASTLE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1191 T. MASSIAH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1192 H. THOMAS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1193 J. FRIEDLANDER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1194 R. PEACETREE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1195 K. BROCKBANK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1196 M. BURNS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1197 T. LIEBERMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1198 C. OGILVIE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1199 I. GOTTLEIB
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1200 R. WIDENHOEFER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1201 G. RIVERS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1202 C. SHIVELY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1203 P. SARDELLA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1204 F. FREEMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1205 L. KABBESCH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1206 J. OXENBERG
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1207 R. RICHARDS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1208 J. DABROWSKI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1209 R. MACFARQUHAR
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1210 D. HUDSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1211 J. LIAO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1212 M. SMITH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1213 V. CALLENDER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1214 J. CUSACK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1215 C. WILLIAMS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1216 R. EVEN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1217 M. VADER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1218 D. GABRIEL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1219 J. MOORE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1220 M. WEINTRAUB
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1221 N. RYAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1222 A. PAREJO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1223 T. HENAULT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1224 K. REILEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1225 S. MANGANO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1226 L. MINAVICH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1227 R. WADE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1228 C. DAVIS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1229 D. HUANG
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1230 M. BROOKS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1231 E. POWELL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1232 K. CHAUDHRY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1233 E. ROTH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1234 W. HAMILTON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1235 A. MADDALO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1236 R. HENDERSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1237 W. LEONARD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1238 E. ANGELONE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1239 H. BROWN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1240 C. SALDUTTI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1241 H. CHAO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1242 D. UGRESIC
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1243 T. MCMAHON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1244 G. GARRY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1245 P. BULL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1246 B. SHEE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1247 E. TRAORE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1248 T. KAPLAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1249 M. BARNES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1250 D. BAKER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1251 B. FREEMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1252 L. BOLDEN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1253 B. ELWELL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1254 D. BREINES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1255 M. MAYER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1256 C. STEINER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1257 D. SCANNELL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1258 L. DONOHUE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1259 J. POHAS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1260 M. SOUZA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1261 K. WYLES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1262 C. SORENSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1263 J. MILLER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1264 S. JONES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1265 K. RAFTIS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1266 J. HIGGINS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1267 S. PURDY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1268 D. GIUNTA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1269 D. CLAFFEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1270 E. PLACE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1271 K. WIESNER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1272 B. ANTON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1273 D. KING
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1274 J. DAIGLE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1275 M. HOLLAND
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1276 C. MEYAARD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1277 J. PEDUTO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1278 S. BARRY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1279 D. HERMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1280 S. PALMER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1281 R. WIRTH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1282 J. RUCK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1283 M. CISTERNA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1284 P. LAUB
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1285 L. GARCIA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1286 P. NEFF
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1287 T. RAVENS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1288 R. JOSEPH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1289 G. BERGMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1290 C. LONG
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1291 C. DENNIS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1292 E. SELDIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1293 J. KATZ
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1294 A. PEREIRA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1295 T. SPRAGUE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1296 T. OCONNOR
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1297 D. CORREIA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1298 J. AMARAL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1299 D. DIVECCHIO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1300 G. HOFFMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1301 J. MEDEIROS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1302 U. ARRUDA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1303 J. ANDRADE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1304 M. MCDONALD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1305 A. LUIS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1306 P. SINGH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1307 H. ZHOU
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1308 R. ALBARENGA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1309 G. CORREAI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1310 K. GIBSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1311 J. STURM
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1312 V. VOLCY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1313 F. KILFOYLE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1314 W. VIZARD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1315 D. DIZIO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1316 N. DESROSIERS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1317 B. ARMSTRONG
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1318 M. GHABRIAL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1319 V. WHELAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1320 L. YOUNG
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1321 M. KINBERG
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1322 J. SUN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1323 G. YUNDT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1324 C. KASHNOR
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1325 A. REINERT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1326 E. RUBIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1327 T. SIEFERT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1328 L. SCHONBERGER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1329 R. CONLON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1330 R. NESSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1331 J. TOLLIVER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1332 Y. JIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1333 Z. MESSERSMITH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1334 G. DASILVA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1335 J. SAINTINE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1336 N. RUBIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1337 D. LAM
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1338 K. WHELAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1339 C. TRUESDELL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1340 B. HUME
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1341 A. CHOWDHURY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1342 E. CASCIO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1343 A. JOHNSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1344 D. ASHLEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1345 N. BURGO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1346 E. EDEL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1347 B. HEADLEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1348 J. DARRAH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1349 J. SOHN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1350 R. DEMIDCHUK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1351 A. LAROCCA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1352 T. DENKEWICZ
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1353 K. MENLHA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1354 P. MAHONEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1355 L. BUCHANAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1356 Y. SHIEH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1357 A. CHOU
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1358 R. FLANAGAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1359 L. ACEVEDO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1360 L. LANGNER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1361 L. LANGER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1362 C. DIPIETRANTONIO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1363 M. MCGEE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1364 S. AHAFI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1365 E. GARCIA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1366 S. HALLORAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1367 R. RABOUIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1368 A. PRASAD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1369 A. CANTRELL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1370 A. RIVERA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1371 L. BROWNE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1372 M. OCONNOR
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1373 V. MATHIAS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1374 T. WILLIAMS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1375 L. SMITH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1376 D. MITCHELL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1377 J. ZAHRADNIK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1378 J. DEMANCHE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1379 P. ENDERS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1380 S. MENDELSOHN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1381 J. HAUSER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1382 P. ABERNATHY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1383 R. WEBER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1384 W. INGERSOLL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1385 K. LASSOVSZKY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1386 D. GERVAIS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1387 J. GOMEZ
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1388 I. DEMARCO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1389 A. SUBRAMANIAM
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1390 J. SHEFF
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1391 R. BOUSQUET
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1392 D. HERON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1393 B. GADELHA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1394 L. HARVEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1395 L. DESROCHES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1396 J. GOODSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1397 P. GOODWIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1398 M. MCKENNA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1399 D. SMALL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1400 R. INGRIA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1401 L. CONRAD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1402 F. NYE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1403 A. TELLER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1404 E. BOLDEN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1405 M. BRADSHAW
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1406 C. FOTI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1407 S. TAYCHER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1408 J. CAMERON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1409 J. BRISBANE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1410 O. COWICK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1411 M. NOVESKA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1412 A. ALI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1413 J. SPILEWSKI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1414 C. ROMANSKI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1415 R. MCLEAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1416 E. EDOUARD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1417 C. MULLANE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1418 D. PIERRE-LOUIS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1419 P. BRENNAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1420 M. BUGGS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1421 M. KING
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1422 L. BROCK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1423 B. JOHNSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1424 G. CARPENTER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1425 B. BANKS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1426 J. STACKIEWICZ
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1427 B. SANDERS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1428 S. MISHRA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1429 E. GREGER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1430 M. BAUMANN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1431 J. SANDS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1432 J. ANTOUN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1433 H. WHITE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1434 D. LARABEE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1435 H. MAHONEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1436 K. UKRAINE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1437 S. BUCKLEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1438 C. MANNING
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1439 F. JOHNSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1440 P. LEWIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1441 J. SMYTHE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1442 P. LEVIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1443 A. KILPATRICK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1444 F. GARDINER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1445 D. PANTON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1446 J. MCCLOSKEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1447 D. SMITH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1448 C. CAVALIERE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1449 J. HORAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1450 D. SHANE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1451 L. FLANAGAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1452 B. SAXBERG
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1453 J. FISKE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1454 J. GRAY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1455 G. SAVER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1456 M. DONOVAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1457 J. HALLINAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1458 N. NEWTON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1459 S. DAVIS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1460 L. DAVENPORT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1461 M. HAMER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1462 R. MURPHY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1463 D. LUDLUM
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1464 F. MONKIEWICZ
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1465 K. MACLEAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1466 S. KOSTA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1467 S. HACKETT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1468 K. GUNST
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1469 I. GRINS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1470 J. GREGG
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1471 S. OHMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1472 M. JARVIS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1473 J. LEWIS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1474 J. GORDON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1475 P. MARKOVICH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1476 S. LEE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1477 M. JAMES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1478 E. GLENDON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1479 E. GLASFELD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1480 W. PAYNE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1481 O. HUSSAIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1482 R. PETRELLA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1483 R. SMITH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1484 M. YEATES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1485 D. SPEARMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1486 P. RAFTERY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1487 D. GALLUP
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1488 A. GAER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1489 R. REISS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1490 M. ASANO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1491 S. SPILLERS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1492 S. WOLF
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1493 L. WILLIAMS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1494 M. FIFE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1495 P. ROBERTS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1496 J. EBLES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1497 J. ROCA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1498 R. BAKER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1499 A. BECKETT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1500 K. ROSNER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1501 J. BENDA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1502 L. SHIRLEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1503 D. WALSH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1504 J. VOLPE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1505 A. CRANE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1506 C. BEYCHOK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1507 L. SHIREY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1508 D. SAWHNEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1509 N. SCHNEIDER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1510 J. VARELA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1511 J. BLATCHLEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1512 J. CHARNY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1513 E. CONWAY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1514 M. BLOUNT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1515 M. TOLPIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1516 K. TOBIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1517 D. BORUCHOFF
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1518 C. SWEENEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1519 D. STEFFENS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1520 L. SCRIVEN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1521 A. HAUS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1522 R. NERI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1523 M. GRAHAM
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1524 C. CATANZANO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1525 D. FOLEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1526 J. SMITH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1527 D. GAMMONS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1528 K. WHITTFORD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1529 R. MARKHAM
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1530 K. CASEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1531 D. BINDER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1532 L. KIANSTEN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1533 B. ALDRIDGE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1534 M. MACKIEWICZ
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1535 M. KANE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1536 T. BREWITT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1537 S. WHITE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1538 S. LYONS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1539 A. LESHKOWICH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1540 N. BERGER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1541 R. OYAMA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1542 A. LIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1543 J. SHEA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1544 X. WANG
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1545 K. MAGOON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1546 J. HERRMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1547 L. HOWARD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1548 U. HUERTA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1549 C. SCOTT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1550 W. SCHOPPERLE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1551 G. CARRINGTON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1552 M. VIOLETTE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1553 W. VOLMUT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1554 A. BRECKER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1555 A. CASILLAS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1556 L. GILLIM
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1557 M. PANOFSKY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1558 R. GOLDMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1559 M. HALL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1560 E. ANDERSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1561 C. LANDY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1562 G. ANDREWS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1563 R. CAJINA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1564 E. HARDING
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1565 R. GULDEN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1566 K. BRANLEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1567 A. SHEALS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1568 D. SHAPIRO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1569 E. ZUCKER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1570 C. MCLAUGHLIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1571 F. WHITTLESEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1572 M. MULLICK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1573 J. MCDERMOTT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1574 T. CONNOR
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1575 F. CORNELIO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1576 A. NORMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1577 A. ALASSAAD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1578 K. HERTHER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1579 M. KIRMANI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1580 C. HOLMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1581 D. FICI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1582 M. ALEXANDER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1583 D. SECOR
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1584 D. MCGOWAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1585 M. HOFFMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1586 T. GALLIGANI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1587 P. WHITACRE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1588 B. ONG
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1589 A. HAMMOND
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1590 D. KLIPP
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1591 B. CAMPBELL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1592 M. RANALLI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1593 K. GARRISON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1594 M. WILLARD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1595 P. MURPHY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1596 M. BRAMLEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1597 P. VALLEE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1598 S. ZETES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1599 M. CASIPIT JR
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1600 J. HARPER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1601 D. MACDONALD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1602 H. OLIVERA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1603 A. ANAEBONAM
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1604 M. BAKER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1605 R. DITUCCI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1606 J. LIGHTFOOT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1607 A. WHITAKER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1608 E. SMITH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1609 J. JENDRUCZEK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1610 M. FREAS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1611 K. SHERMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1612 M. CLEMENTE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1613 P. SARACENO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1614 J. FITICCHY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1615 W. WAYNE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1616 J. STRONG
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1617 D. HERBERT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1618 B. THOMSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1619 C. MOGAURO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1620 K. SPILLER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1621 R. SHOATE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1622 S. SWIDERSKI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1623 H. BUTT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1624 D. SULLIVAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1625 H. YAMAMOTO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1626 D. ANDREATTA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1627 J. MILLER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1628 K. KAYEMBA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1629 D. PETRAS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1630 M. EFFAT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1631 G. WISEMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1632 W. TREU
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1633 S. FENNELLY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1634 M. HERZBERG
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1635 T. OUELLETTE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1636 B. DUFFY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1637 L. PATTELENA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1638 J. HAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1639 L. ORGANISAK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1640 L. HAMMOND
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1641 C. PRICE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1642 P. TOWNSEND
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1643 B. RAY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1644 D. PIACITELLI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1645 D. ZANI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1646 V. HATCHER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1647 N. ROESENER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1648 D. HALE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1649 F. WINDOLOSKI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1650 J. FINN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1651 D. SCHEIFLER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1652 D. VITTGLIO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1653 S. LAVOYE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1654 W. CHAO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1655 D. PETZOLDT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1656 J. HANSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1657 P. BOVE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1658 T. TEMPLE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1659 D. CUSHING
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1660 M. BIGELOW
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1661 D. MCNAMARA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1662 F. ALEXANDER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1663 P. MANNIKKO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1664 E. VIEIRA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1665 T. KABASAKALIAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1666 B. KIM
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1667 J. BARNES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1668 J. MCKEARNEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1669 A. SHEIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1670 S. TESTER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1671 A. CAPOSSELA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1672 R. GILSTRAP
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1673 R. BOURA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1674 R. MEHRA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1675 W. KELLEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1676 A. RUDD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1677 S. HATANO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1678 S. WHITTINGTON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1679 J. FULCINITI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1680 S. LALIBERTE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1681 L. BATTAGLINI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1682 M. MITCHELL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1683 G. MONTEMAYOR
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1684 L. RICCIO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1685 J. HAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1686 K. BETTENCOURT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1687 M. DEFILIPPO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1688 N. SHAH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1689 K. REDDEN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1690 S. SEEREERAM
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1691 G. ALLEN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1692 M. TEAL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1693 P. MULLALLY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1694 P. HALFELDER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1695 N. SHAFI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1696 M. KAREEM
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1697 M. CHRISTIANSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1698 B. GORDON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1699 T. BAILOT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1700 J. SWANSTROM
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1701 M. SZETO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1702 B. LARKIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1703 T. WILGA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1704 K. TIGGES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1705 S. STEC
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1706 E. WEISS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1707 S. COLE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1708 J. POISSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1709 A. GINDY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1710 C. SPLETE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1711 C. FASO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1712 J. OSTLER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1713 R. HAYES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1714 P. WINSLOW
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1715 J. SMITH JR
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1716 A. KRISHNAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1717 K. GIBBONS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1718 F. GOLDSTEIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1719 L. GAGNE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1720 K. SORBER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1721 P. KRAUSE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1722 A. RINALDI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1723 D. LYNCH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1724 C. BLOUNT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1725 D. GRIMMITT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1726 A. STEVENSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1727 M. FRANZ
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1728 J. MACKINNON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1729 J. BARRETT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1730 R. SIVAKUMARAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1731 L. GAGNON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1732 R. ENGLAND
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1733 B. DOLLARD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1734 P. LANG
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1735 R. BALLARD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1736 I. MICHELSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1737 V. JAYAASHREE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1738 M. HAYS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1739 G. CHAUNCEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1740 A. WHEATON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1741 M. MCCLOUD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1742 R. BOYD. II
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1743 H. FERGUSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1744 P. STRAIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1745 B. GLADDEN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1746 L. HENRY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1747 T. BOILEAU
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1748 T. MCCAULEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1749 R. GRAF
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1750 D. GREENWALD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1751 D. MCCAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1752 D. HAYDUK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1753 R. LAGOS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1754 J. DELANCEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1755 B. ROBINSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1756 C. ULLOA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1757 D. STEELE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1758 M. SMITH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1759 L. VIENS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1760 J. GINSBURG
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1761 O. PINEDA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1762 M. MCINNIS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1763 J. APPLEYARD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1764 J. ZORRILLA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1765 D. MORIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1766 E. KAYE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1767 J. MALDONADO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1768 I. HAGANCOPELAND
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1769 M. SOVANSKY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1770 J. PALLAIS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1771 D. WRIGHT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1772 R. MCCULLEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1773 L. SHEA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1774 S. GRIFFITH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1775 S. GLOTT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1776 R. BURCHILL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1777 W. GLASSHUSAIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1778 W. DOCKERY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1779 M. AZURDIA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1780 F. MOREL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1781 I. GEVIRTZ
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1782 J. HALLISEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1783 A. HOFFMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1784 E. BELOSTOCK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1785 A. FERRIS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1786 J. RIDDICK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1787 J. REINART
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1788 B. LEAHY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1789 E. THEODOSIOU
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1790 L. FARRIS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1791 A. PELLETIER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1792 T. LOFGREN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1793 W. RAILA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1794 N. HASELBACHER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1795 J. PERLMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1796 L. WEBB
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1797 K. MCCARTHY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1798 P. SANTOS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1799 A. CORMIER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1800 T. DINH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1801 M. RICARDO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1802 N. LINARES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1803 J. COUTO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1804 C. JOHNSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1805 A. MANGANIELLO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1806 E. DONNER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1807 D. DEFRANCISCO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1808 N. ENOS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1809 J. BROWN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1810 S. HERSCOVICI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1811 T. BARE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1812 E. BUTT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1813 M. MEYERS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1814 J. CROLL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1815 L. DUNN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1816 C. CORCIONE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1817 M. PEREIRA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1818 D. BUDGELL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1819 S. CHRISTY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1820 A. KAZLOWSKI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1821 H. POCIUS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1822 P. CARREIRO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1823 A. BRAZ
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1824 S. LEMONT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1825 M. MACDOLALD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1826 M. CARDOSO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1827 I. NETO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1828 C. OLIVEIRA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1829 M. LEVINE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1830 T. BOUDREAU
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1831 A. WOODWARD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1832 A. DRAPER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1833 R. GRAHAM
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1834 S. PAIVA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1835 L. VISCO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1836 F. BERNARD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1837 R. KULIKOVSKY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1838 A. CAZEAU
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1839 S. LEPERA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1840 K. KEEGAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1841 R. MCCARTER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1842 P. MARCUS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1843 C. PEREZ
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1844 F. CABRAL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1845 E. COUTO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1846 J. RESENDES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1847 J. DASILVA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1848 H. DORICENT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1849 A. HILAIRE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1850 L. LAMBERT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1851 R. PRATT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1852 J. SOLOMON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1853 C. CHEN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1854 N. HOPKINS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1855 D. HENRY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1856 J. THOMPSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1857 J. SOLOMON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1858 A. MELLO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1859 R. SCOTT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1860 R. VALCIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1861 J. DORCUES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1862 C. RODENE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1863 H. GARCIA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1864 J. PONTES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1865 L. CARREIRO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1866 F. CAPPUCCI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1867 A. FONTES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1868 C. OLIVEIRA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1869 E. DACOSTA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1870 D. CABRAL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1871 J. CABRAL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1872 A. DACOSTA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1873 T. SIEBER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1874 S. NICHOLAS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1875 A. CARREIRA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1876 M. BITTENCOURT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1877 M. RIVERA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1878 S. PROSTERMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1879 H. HSU
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1880 A. MELO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1881 A. RAPOSO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1882 P. MEDEIROS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1883 M. PAIVA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1884 O. SOUSA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1885 B. RODRIGUES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1886 J. CORREIA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1887 E. MILLARD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1888 M. FIGUEIREDO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1889 R. SMITH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1890 A. RIBEIRO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1891 R. WARFIELD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1892 J. SOUZA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1893 J. RIBERIO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1894 M. RIBEIRO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1895 F. ROMEREIRO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1896 V. NEIMERCK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1897 C. EATON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1898 K. SUN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1899 G. BROWN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1900 D. ROBINSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1901 E. BURKE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1902 V. JONES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1903 T. JONES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1904 P. JONES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1905 S. HAMM
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1906 M. AURELIEN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1907 M. ACUELIAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1908 J. HERNADEZ
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1909 S. MARTIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1910 D. RIBEIRO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1911 J. HUTCHINGS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1912 W. ROOT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1913 D. YOUNG
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1914 H. KELLEHER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1915 J. REED
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1916 S. KELLER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1917 C. MYERS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1918 G. YANCEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1919 Q. JAY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1920 M. SEAWELL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1921 M. KEUMURIAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1922 O. THOMPSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1923 T. BROWNE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1924 M. LEWIS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1925 R. BORDON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1926 J. SENAT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1927 A. JEANLOUIS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1928 L. GERMAIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1929 M. BERLUS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1930 K. KOSIENSKI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1931 J. DELANEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1932 D. PALLADINO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1933 M. GREGORY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1934 M. RANSLEM
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1935 A. BACHELLER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1936 B. HUI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1937 P. MATTHEWS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1938 V. CARINELLI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1939 N. MARQUEZ
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1940 M. TSETSEN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1941 A. LITTLE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1942 F. BARTON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1943 L. MACLELLAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1944 I. BOUGHTON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1945 H. AUGUSTIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1946 D. KELLAR
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1947 D. BUFANO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1948 L. NELSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1949 C. LAURENT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1950 M. LENNON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1951 J. JANOTA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1952 C. KAYLOR
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1953 R. BOHLIG
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1954 D. GEORGE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1955 D. MURPHY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1956 B. DAVIS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1957 W. MCCARTHY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1958 E. LEVIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1959 K. STAPLETON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1960 T. COHEN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1961 J. SMITH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1962 A. JANKAUSKAS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1963 R. HESS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1964 F. VALENTE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1965 D. DYER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1966 G. MORRISON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1967 R. MURRY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1968 E. COSTA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1969 S. SAUTER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1970 K. BRANCO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1971 A. MBUVI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1972 L. TRAVASSOS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1973 M. MAHONEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1974 L. WHALEN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1975 W. KILBRETH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1976 C. MOSCOWITZ
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1977 B. NEUBAUER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1978 J. CASWELL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1979 G. FRANCOIS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1980 R. BERNARD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1981 J. GERWIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1982 A. IOCAVAZZI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1983 N. FRESCO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1984 M. JACKSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1985 D. SLANEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1986 J. SOLINSKY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1987 C. SANTOS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1988 J. MCCAUGHEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1989 E. DIFRANZA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1990 V. TALLAND
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1991 C. BENT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1992 J. TRIPLETT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1993 T. MINOTTI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1994 O. SMITH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1995 A. GALOWITZ
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1996 K. PANHORST
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1997 W. SCHULZ
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1998 R. HASSAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         1999 B. DUMAS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2000 M. KAPOPOULOS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2001 C. PIERCE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2002 C. BRUNO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2003 M. CARLSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2004 H. SCHIFFMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2005 S. TURBAK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2006 S. MULLEN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2007 S. MULLIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2008 B. TURK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2009 E. FITCH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2010 D. STRAIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2011 S. PADGETT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2012 M. FERRER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2013 J. OREGAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2014 B. NOLTE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2015 H. CATALDO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2016 N. LAWRENCE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2017 A. MOTCH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2018 D. LABENSKI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2019 A. KACZUR
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2020 J. ROGERS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2021 D. CROWLEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2022 R. FAAS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2023 C. MCMAHON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2024 P. RILEY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2025 J. MANN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2026 W. FITZGERALD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2027 M. KILCOMMONS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2028 M. SPERA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2029 F. BORGES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2030 C. LEAL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2031 F. BISBEE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2032 L. TORRES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2033 K. GREGORY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2034 J. PAVIDIS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2035 D. LASSITER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2036 C. SOUSA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2037 W. FALTER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2038 A. AIGUIER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2039 A. GALLINARO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2040 A. MATSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2041 A. KRAZESKY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2042 J. WOLK
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2043 A. MEUCCI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2044 J. VICENTE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2045 M. DIAS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2046 R. SOUZA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2047 W. MELLO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2048 M. FERNENDEZ
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2049 A. DEJESUS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2050 M. CONCEISON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2051 J. TORRES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2052 M. GARCIA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2053 A. MENDONCA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2054 R. FORD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2055 J. REMY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2056 R. BOONE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2057 A. HUGHES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2058 E. FERRY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2059 M. SILVA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2060 I. KONEFAL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2061 L. MCKENNA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2062 M. BURNETTE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2063 B. EDWARD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2064 P. NJUE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2065 D. CHILONGOZI
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2066 K. GILSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2067 D. LOCKWOOD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2068 C. PARDODEZELA
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2069 C. CARLETON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2070 F. GRIEM
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2071 P. MATZ
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2072 A. VENO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2073 D. GROUT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2074 M. RUTZ
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2075 A. TRICHARD
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2076 R. HARDWAY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2077 S. ROTH
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2078 D. HANIG
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2079 R. HAMILTON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2080 N. NELSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2081 A. FOSTER
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2082 M. ZAPF
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2083 G. RAHAL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2084 M. WERTELET
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2085 H. HUGHES
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2086 D. GEORGOPULOS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2087 J. STEIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2088 P. TRUNNELL
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2089 J. FRANZEN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2090 A. MOORE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2091 D. WOODS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2092 L. FRIEDMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2093 M. ROY
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2094 J. KELSO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2095 M. BUSSE
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2096 M. JOHNSON
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2097 P. NEWPORT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2098 J. ALBERT
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2099 J. BERZ
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2100 S. DOULAS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2101 R. COLMAN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2102 E. ABRAMS
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2103 A. MARTIN
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2104 S. LIU
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2105 G. ROMANO
+
+Kliento kodas Klientas
+------------- ------------------------------
+         2106 A. ROCKWELL
+
+ Visu suma Minimali reiksme Maksimali reiksme
+---------- ---------------- -----------------
+948'760.93            68.55         40'439.43
