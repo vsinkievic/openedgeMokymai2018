@@ -1,0 +1,5195 @@
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+            1 G. SHEPLEY
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-09-28         36     492,25
+1997-11-22         79  34.707,84
+1998-02-12          6   1.829,50
+1998-03-03        146   4.605,91
+                      ----------
+                       41.635,50 Visa
+                       34.707,84 Didziausia
+                          492,25 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+            2 U. LEPPAKOSKI
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-10-05         94   4.928,73
+1997-12-21        124   2.669,86
+                      ----------
+                        7.598,59 Visa
+                        4.928,73 Didziausia
+                        2.669,86 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+            3 M. TRAITSER
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-09-23         55   9.510,21
+                      ----------
+                        9.510,21 Visa
+                        9.510,21 Didziausia
+                        9.510,21 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+            4 A. FROGBROOK
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1998-02-09         21     688,37
+                      ----------
+                          688,37 Visa
+                          688,37 Didziausia
+                          688,37 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+            5 R. DORR
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+            6 A. STRONG
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-11-26        132     541,75
+1997-12-03        145   4.953,75
+1997-12-25         59   3.621,32
+                      ----------
+                        9.116,82 Visa
+                        4.953,75 Didziausia
+                          541,75 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+            7 E. ILMANEN
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-11-15        137   4.664,57
+1997-11-23        117   2.952,42
+                      ----------
+                        7.616,99 Visa
+                        4.664,57 Didziausia
+                        2.952,42 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+            8 T. BREAK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+            9 M. VENTOLINEN
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-09-15         48   6.428,08
+1997-10-08         99     380,67
+1997-11-30        108  10.866,06
+1998-02-28         75     950,40
+1998-03-05         90   7.166,87
+                      ----------
+                       25.792,08 Visa
+                       10.866,06 Didziausia
+                          380,67 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           10 G. LACEY
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-10-11         25   4.586,99
+                      ----------
+                        4.586,99 Visa
+                        4.586,99 Didziausia
+                        4.586,99 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           11 R. HAMMERMAKI
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-11-10         16     342,00
+1998-01-03         56     435,87
+1998-01-22         10     771,59
+                      ----------
+                        1.549,46 Visa
+                          771,59 Didziausia
+                          342,00 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           12 V. LEHTISOINI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           13 T. A.T. MATTINEN
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1998-02-22         68   1.005,00
+                      ----------
+                        1.005,00 Visa
+                        1.005,00 Didziausia
+                        1.005,00 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           14 P. DASGIL
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-10-26        101     319,60
+1997-11-25         20  19.108,20
+                      ----------
+                       19.427,80 Visa
+                       19.108,20 Didziausia
+                          319,60 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           15 R. JOHNS
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1998-01-27         58   3.234,55
+                      ----------
+                        3.234,55 Visa
+                        3.234,55 Didziausia
+                        3.234,55 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           16 F. HORAN
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1998-01-26        131   3.365,70
+1998-01-30         23   2.002,74
+1998-02-25         41   3.668,92
+                      ----------
+                        9.037,36 Visa
+                        3.668,92 Didziausia
+                        2.002,74 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           17 A. TACKLE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           18 A. OYRINMETSA
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1998-01-02        112   4.742,60
+                      ----------
+                        4.742,60 Visa
+                        4.742,60 Didziausia
+                        4.742,60 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           19 G. BUITKUS
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-11-02        111   2.420,80
+1997-12-15        141  25.236,78
+                      ----------
+                       27.657,58 Visa
+                       25.236,78 Didziausia
+                        2.420,80 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           20 P. MAUKAJARVI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           21 A. PRIMES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           22 P. KOSKINEN
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1998-01-31        128   2.850,73
+                      ----------
+                        2.850,73 Visa
+                        2.850,73 Didziausia
+                        2.850,73 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           24 M. YLA-LIEDEOJA
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-10-03        134  15.147,81
+1998-02-01         88   5.658,34
+                      ----------
+                       20.806,15 Visa
+                       15.147,81 Didziausia
+                        5.658,34 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           25 M. ROULEMOUSSE
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-11-07         96   4.285,93
+1998-01-02         54   4.377,05
+                      ----------
+                        8.662,98 Visa
+                        4.377,05 Didziausia
+                        4.285,93 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           26 K. BATTER
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-11-05         45   1.012,00
+1997-12-06         42   7.886,92
+1997-12-22         98   9.911,25
+                      ----------
+                       18.810,17 Visa
+                        9.911,25 Didziausia
+                        1.012,00 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           27 H. BALLERER
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-11-07         43     472,45
+1997-12-07        116  19.075,61
+1998-02-03         95  18.053,00
+1998-02-04        121     180,81
+1998-02-11         52   7.535,42
+                      ----------
+                       45.317,29 Visa
+                       19.075,61 Didziausia
+                          180,81 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           28 J. J. SCOTT
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-12-04         87   5.084,64
+1998-01-08         37   3.069,04
+1998-01-29         11   3.990,23
+1998-02-09        102   9.721,35
+                      ----------
+                       21.865,26 Visa
+                        9.721,35 Didziausia
+                        3.069,04 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           29 C. CLARK
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-10-13         82   1.471,14
+                      ----------
+                        1.471,14 Visa
+                        1.471,14 Didziausia
+                        1.471,14 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           30 S. PEACOCK
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-09-18        113   4.038,31
+1997-12-06         40   3.115,23
+1998-01-25        120   6.604,32
+1998-02-23         18  14.530,46
+                      ----------
+                       28.288,32 Visa
+                       14.530,46 Didziausia
+                        3.115,23 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           31 H. WALJAKKALA
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-09-19         51   3.110,99
+1998-02-12         84   4.975,62
+                      ----------
+                        8.086,61 Visa
+                        4.975,62 Didziausia
+                        3.110,99 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           32 I. ALATASANKO
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1998-01-26         34   4.835,33
+1998-02-28         28   5.655,20
+                      ----------
+                       10.490,53 Visa
+                        5.655,20 Didziausia
+                        4.835,33 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           33 J. JANKAKOLI
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-10-03        143   5.531,85
+1997-10-22         53   2.610,89
+1997-11-06        129     117,81
+1998-01-19         86   3.727,24
+                      ----------
+                       11.987,79 Visa
+                        5.531,85 Didziausia
+                          117,81 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           34 S. RICCIO
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-10-07         70   8.668,27
+1997-10-07        140   6.677,82
+1997-11-25        110   3.389,44
+1998-02-08         62  17.502,95
+                      ----------
+                       36.238,48 Visa
+                       17.502,95 Didziausia
+                        3.389,44 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           35 P. ALA-JULKKU
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           36 M. BREIZ
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1998-01-06        115   2.590,76
+                      ----------
+                        2.590,76 Visa
+                        2.590,76 Didziausia
+                        2.590,76 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           37 H. GASGEB
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-10-02         60   1.351,61
+1997-12-03         12  10.288,58
+                      ----------
+                       11.640,19 Visa
+                       10.288,58 Didziausia
+                        1.351,61 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           38 R. PAUKKU
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-09-19          8   4.104,00
+                      ----------
+                        4.104,00 Visa
+                        4.104,00 Didziausia
+                        4.104,00 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           39 A. RASTIO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           40 H. NIEMELAINEN
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-10-04         30   7.108,09
+1997-10-25         31   5.721,46
+1997-11-10         64  26.912,81
+1997-11-29        136   1.133,11
+                      ----------
+                       40.875,47 Visa
+                       26.912,81 Didziausia
+                        1.133,11 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           41 M. LITTLE
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1998-03-03         78     184,00
+1998-03-06         63  11.217,96
+                      ----------
+                       11.401,96 Visa
+                       11.217,96 Didziausia
+                          184,00 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           42 N. TRAINER
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-09-11         72   5.638,75
+1997-12-04        135   3.345,69
+1998-01-04         89   2.072,63
+                      ----------
+                       11.057,07 Visa
+                        5.638,75 Didziausia
+                        2.072,63 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           43 I. NIGRINI
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-10-13        126   5.511,94
+1997-12-05         97   3.076,93
+1998-01-08        100   5.597,71
+1998-01-12        139   5.489,02
+                      ----------
+                       19.675,60 Visa
+                        5.597,71 Didziausia
+                        3.076,93 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           44 B. ELDRIDGE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           45 R. TRIMMER
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1998-02-18        127  10.055,51
+                      ----------
+                       10.055,51 Visa
+                       10.055,51 Didziausia
+                       10.055,51 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           46 D. PAPIN
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-10-16        118  22.266,26
+1997-10-24        142     292,95
+1997-12-28         91   8.704,73
+1998-02-25        133   1.367,35
+1998-03-06         67     650,31
+                      ----------
+                       33.281,60 Visa
+                       22.266,26 Didziausia
+                          292,95 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           47 B. MOSS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           48 P. PEKANMAA
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1998-01-10         17   1.024,99
+                      ----------
+                        1.024,99 Visa
+                        1.024,99 Didziausia
+                        1.024,99 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           49 J. SALOMAKI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           50 K. KOPPEL
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-09-15         44   6.517,91
+1998-01-20        104   5.413,10
+                      ----------
+                       11.931,01 Visa
+                        6.517,91 Didziausia
+                        5.413,10 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           51 Q. TRAN
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1998-02-10         83  11.975,88
+1998-02-23          9     251,26
+1998-03-07          7   6.337,38
+                      ----------
+                       18.564,52 Visa
+                       11.975,88 Didziausia
+                          251,26 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           52 K. KULMIAINEN
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-11-13         50     446,09
+1998-01-09        119   3.523,51
+                      ----------
+                        3.969,60 Visa
+                        3.523,51 Didziausia
+                          446,09 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           53 S. TUMBA
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-12-09         26   3.450,34
+1998-01-27          1   4.402,02
+                      ----------
+                        7.852,36 Visa
+                        4.402,02 Didziausia
+                        3.450,34 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           54 N. WALKER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           55 J. BORGES
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1998-01-16        105     259,87
+                      ----------
+                          259,87 Visa
+                          259,87 Didziausia
+                          259,87 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           56 J. KAUPPALAINEN
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-10-19         65   4.193,10
+                      ----------
+                        4.193,10 Visa
+                        4.193,10 Didziausia
+                        4.193,10 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           57 H. HOEDJES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           58 E. KROL
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-11-29         19     981,60
+1997-12-22         33   6.633,60
+                      ----------
+                        7.615,20 Visa
+                        6.633,60 Didziausia
+                          981,60 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           59 K. JOKINEN
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-10-28         27     518,74
+                      ----------
+                          518,74 Visa
+                          518,74 Didziausia
+                          518,74 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           60 S. VOLLEY
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-10-17         29     496,61
+                      ----------
+                          496,61 Visa
+                          496,61 Didziausia
+                          496,61 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           61 H. YLI-MOIJONEN
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-11-10         61   5.200,38
+1997-11-13        147   6.302,15
+1997-11-23         74   1.550,79
+1997-12-26         15   4.603,72
+                      ----------
+                       17.657,04 Visa
+                        6.302,15 Didziausia
+                        1.550,79 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           62 A. JOHNSON
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-11-30         47  11.397,99
+                      ----------
+                       11.397,99 Visa
+                       11.397,99 Didziausia
+                       11.397,99 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           63 E. KIRJAVAINEN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           64 M. KANTOKOSKI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           65 K. SYNARE
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-12-21        114  40.439,43
+                      ----------
+                       40.439,43 Visa
+                       40.439,43 Didziausia
+                       40.439,43 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           66 M. SHIRKEY
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-09-24          3  23.504,59
+1997-10-18         66  36.587,69
+1997-10-27         80   8.187,39
+                      ----------
+                       68.279,67 Visa
+                       36.587,69 Didziausia
+                        8.187,39 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           67 K. DOHERTY
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-11-15        103   5.725,56
+1998-01-15         38   1.886,68
+1998-01-29         76   4.329,98
+1998-02-02        125      68,55
+1998-02-03         73     569,80
+                      ----------
+                       12.580,57 Visa
+                        5.725,56 Didziausia
+                           68,55 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           68 H. D'AMATO
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-09-28         49   7.051,19
+                      ----------
+                        7.051,19 Visa
+                        7.051,19 Didziausia
+                        7.051,19 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           69 P. SAVUJOKI
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-10-01         81   4.502,45
+1998-01-16         13   5.267,67
+                      ----------
+                        9.770,12 Visa
+                        5.267,67 Didziausia
+                        4.502,45 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           70 W. B SCAREY
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-11-24         32   2.747,30
+1998-01-03         22   4.807,68
+1998-03-10         85   3.824,11
+                      ----------
+                       11.379,09 Visa
+                        4.807,68 Didziausia
+                        2.747,30 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           71 L. AIDA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           72 O. MEAGHER
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1998-01-29         77   4.803,08
+1998-02-13          5  15.126,78
+                      ----------
+                       19.929,86 Visa
+                       15.126,78 Didziausia
+                        4.803,08 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           73 F. ABSEILER
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-12-04         24   5.841,40
+1998-01-12         35   6.091,48
+                      ----------
+                       11.932,88 Visa
+                        6.091,48 Didziausia
+                        5.841,40 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           74 R. KAMMER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           75 C. LYNN
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-09-17         71   6.050,70
+1997-11-06        138  14.780,25
+1998-03-07         39   6.981,83
+                      ----------
+                       27.812,78 Visa
+                       14.780,25 Didziausia
+                        6.050,70 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           76 P. HEIKINMAKI
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-10-02        107   8.609,73
+1997-10-07         92   2.906,87
+                      ----------
+                       11.516,60 Visa
+                        8.609,73 Didziausia
+                        2.906,87 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           77 A. VERSE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           78 C. ZUGRULOW
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           79 P. BUFFLE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           80 D. SCHWEITZER
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-11-21        106   3.727,75
+                      ----------
+                        3.727,75 Visa
+                        3.727,75 Didziausia
+                        3.727,75 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           81 N. BELLER
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-10-06          2   2.812,98
+1997-10-13        109     241,55
+1997-12-24        122     687,00
+                      ----------
+                        3.741,53 Visa
+                        2.812,98 Didziausia
+                          241,55 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           82 R. FERRANTE
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-12-07         14     487,59
+1998-03-04        123   3.678,77
+1998-03-07        144  23.947,60
+                      ----------
+                       28.113,96 Visa
+                       23.947,60 Didziausia
+                          487,59 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           83 K. MALLONE
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-11-08         46  29.762,58
+1997-11-17         69  14.513,86
+1997-12-25        130   9.146,38
+1998-01-18          4  11.756,67
+                      ----------
+                       65.179,49 Visa
+                       29.762,58 Didziausia
+                        9.146,38 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+           84 C. ELEAZER
+
+Data          Numeris       Suma
+---------- ---------- ----------
+1997-10-23         93   4.977,34
+1998-03-07         57   4.090,13
+                      ----------
+                        9.067,47 Visa
+                        4.977,34 Didziausia
+                        4.090,13 Maziausia
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1005 J. SMITH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1015 J. SANDERS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1020 S. FEINSTEIN
+Second parameter of REPLACE must have non-zero length. (2918)
+Second parameter of REPLACE must have non-zero length. (2918)
+Second parameter of REPLACE must have non-zero length. (2918)
+Second parameter of REPLACE must have non-zero length. (2918)
+Second parameter of REPLACE must have non-zero length. (2918)
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1061 H. BINTON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1062 D. STUARTS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1063 J. ARMSTRONG
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1064 J. HEGGARTY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1065 P. GATE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1066 S. WINTERS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1067 J. HARRISON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1068 H. MILLER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1069 J. MYERS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1070 M. PLASTONE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1071 S. JEFFERIES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1072 D. FORTISS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1073 A. INCOLONE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1074 A. JEFFERIES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1075 T. BIGELOW
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1076 P. FARIGNY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1077 B. HENDERSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1078 D. KOSLOWSKI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1079 R. MOORE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1080 G. PICCOLO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1081 S. DIGRASSO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1102 E. ROSA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1103 J. ESPINOL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1104 E. MASON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1105 G. WHITTEMORE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1106 J. MARGOLIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1107 E. RAMOS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1108 P. KELSEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1109 M. FISHMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1110 J. VASSILIADES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1111 K. CARNEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1112 L. WARD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1113 B. BAUER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1114 K. CONROY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1115 A. VARGAS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1116 S. KWONG
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1117 L. DANKNER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1118 C. FERNANDES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1119 R. BURKE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1120 K. JACKSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1121 P. JOHNSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1122 K. MCCONARTY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1123 S. BRUCE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1124 K. HART
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1125 C. FERREIRA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1126 T. SOUSA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1127 P. MURPHY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1128 P. NICHOLS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1129 A. OCONNOR
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1130 D. YAMIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1131 J. NORTON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1132 C. CAMPBELL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1133 V. SHING
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1134 T. HOLLAND
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1135 J. CANNIFF
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1136 B. FULLER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1137 D. MARCOTTE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1138 G. GIANNOS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1139 P. SCULLY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1140 S. FREEMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1141 E. MANGIACOTTI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1142 D. CELESTIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1143 F. BURNS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1144 J. REYES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1145 S. CAPOBIANCO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1146 W. GOSMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1147 C. ALLISON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1148 C. KNIGHT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1149 C. REDDICK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1150 C. LEIFFER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1151 M. HIGGINS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1152 C. ROBINSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1153 J. ZHOU
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1154 L. SELL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1155 S. BOCCELLI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1156 M. EVANS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1157 K. BELZ
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1158 R. FEXA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1159 R. WINTERS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1160 E. SPERRY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1161 E. SANTIESTEVAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1162 T. OLIVER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1163 P. RIORDAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1164 L. LEAHY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1165 M. GRIESDORF
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1166 A. OLDMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1167 W. LENK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1168 N. FLOOD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1169 M. STAVIS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1170 A. BROWN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1171 C. HATALA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1172 J. TOOMEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1173 A. CALABRESE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1174 J. WOODIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1175 J. STITT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1176 N. KRAMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1177 K. TRUDEL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1178 N. YEN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1179 J. WOLFE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1180 P. MCCARTHY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1181 J. RIDER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1182 O. FIREMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1183 A. BATISTA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1184 A. LEWIS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1185 S. PARTRIDGE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1186 M. DELAROSA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1187 I. YEN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1188 N. OLEARY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1189 C. LIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1190 K. CASTLE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1191 T. MASSIAH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1192 H. THOMAS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1193 J. FRIEDLANDER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1194 R. PEACETREE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1195 K. BROCKBANK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1196 M. BURNS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1197 T. LIEBERMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1198 C. OGILVIE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1199 I. GOTTLEIB
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1200 R. WIDENHOEFER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1201 G. RIVERS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1202 C. SHIVELY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1203 P. SARDELLA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1204 F. FREEMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1205 L. KABBESCH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1206 J. OXENBERG
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1207 R. RICHARDS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1208 J. DABROWSKI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1209 R. MACFARQUHAR
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1210 D. HUDSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1211 J. LIAO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1212 M. SMITH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1213 V. CALLENDER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1214 J. CUSACK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1215 C. WILLIAMS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1216 R. EVEN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1217 M. VADER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1218 D. GABRIEL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1219 J. MOORE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1220 M. WEINTRAUB
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1221 N. RYAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1222 A. PAREJO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1223 T. HENAULT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1224 K. REILEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1225 S. MANGANO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1226 L. MINAVICH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1227 R. WADE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1228 C. DAVIS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1229 D. HUANG
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1230 M. BROOKS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1231 E. POWELL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1232 K. CHAUDHRY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1233 E. ROTH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1234 W. HAMILTON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1235 A. MADDALO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1236 R. HENDERSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1237 W. LEONARD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1238 E. ANGELONE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1239 H. BROWN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1240 C. SALDUTTI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1241 H. CHAO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1242 D. UGRESIC
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1243 T. MCMAHON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1244 G. GARRY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1245 P. BULL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1246 B. SHEE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1247 E. TRAORE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1248 T. KAPLAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1249 M. BARNES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1250 D. BAKER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1251 B. FREEMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1252 L. BOLDEN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1253 B. ELWELL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1254 D. BREINES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1255 M. MAYER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1256 C. STEINER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1257 D. SCANNELL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1258 L. DONOHUE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1259 J. POHAS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1260 M. SOUZA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1261 K. WYLES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1262 C. SORENSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1263 J. MILLER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1264 S. JONES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1265 K. RAFTIS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1266 J. HIGGINS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1267 S. PURDY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1268 D. GIUNTA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1269 D. CLAFFEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1270 E. PLACE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1271 K. WIESNER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1272 B. ANTON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1273 D. KING
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1274 J. DAIGLE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1275 M. HOLLAND
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1276 C. MEYAARD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1277 J. PEDUTO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1278 S. BARRY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1279 D. HERMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1280 S. PALMER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1281 R. WIRTH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1282 J. RUCK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1283 M. CISTERNA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1284 P. LAUB
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1285 L. GARCIA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1286 P. NEFF
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1287 T. RAVENS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1288 R. JOSEPH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1289 G. BERGMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1290 C. LONG
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1291 C. DENNIS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1292 E. SELDIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1293 J. KATZ
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1294 A. PEREIRA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1295 T. SPRAGUE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1296 T. OCONNOR
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1297 D. CORREIA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1298 J. AMARAL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1299 D. DIVECCHIO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1300 G. HOFFMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1301 J. MEDEIROS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1302 U. ARRUDA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1303 J. ANDRADE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1304 M. MCDONALD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1305 A. LUIS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1306 P. SINGH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1307 H. ZHOU
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1308 R. ALBARENGA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1309 G. CORREAI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1310 K. GIBSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1311 J. STURM
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1312 V. VOLCY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1313 F. KILFOYLE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1314 W. VIZARD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1315 D. DIZIO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1316 N. DESROSIERS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1317 B. ARMSTRONG
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1318 M. GHABRIAL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1319 V. WHELAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1320 L. YOUNG
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1321 M. KINBERG
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1322 J. SUN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1323 G. YUNDT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1324 C. KASHNOR
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1325 A. REINERT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1326 E. RUBIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1327 T. SIEFERT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1328 L. SCHONBERGER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1329 R. CONLON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1330 R. NESSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1331 J. TOLLIVER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1332 Y. JIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1333 Z. MESSERSMITH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1334 G. DASILVA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1335 J. SAINTINE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1336 N. RUBIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1337 D. LAM
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1338 K. WHELAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1339 C. TRUESDELL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1340 B. HUME
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1341 A. CHOWDHURY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1342 E. CASCIO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1343 A. JOHNSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1344 D. ASHLEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1345 N. BURGO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1346 E. EDEL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1347 B. HEADLEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1348 J. DARRAH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1349 J. SOHN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1350 R. DEMIDCHUK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1351 A. LAROCCA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1352 T. DENKEWICZ
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1353 K. MENLHA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1354 P. MAHONEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1355 L. BUCHANAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1356 Y. SHIEH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1357 A. CHOU
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1358 R. FLANAGAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1359 L. ACEVEDO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1360 L. LANGNER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1361 L. LANGER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1362 C. DIPIETRANTONIO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1363 M. MCGEE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1364 S. AHAFI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1365 E. GARCIA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1366 S. HALLORAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1367 R. RABOUIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1368 A. PRASAD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1369 A. CANTRELL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1370 A. RIVERA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1371 L. BROWNE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1372 M. OCONNOR
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1373 V. MATHIAS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1374 T. WILLIAMS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1375 L. SMITH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1376 D. MITCHELL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1377 J. ZAHRADNIK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1378 J. DEMANCHE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1379 P. ENDERS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1380 S. MENDELSOHN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1381 J. HAUSER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1382 P. ABERNATHY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1383 R. WEBER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1384 W. INGERSOLL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1385 K. LASSOVSZKY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1386 D. GERVAIS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1387 J. GOMEZ
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1388 I. DEMARCO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1389 A. SUBRAMANIAM
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1390 J. SHEFF
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1391 R. BOUSQUET
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1392 D. HERON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1393 B. GADELHA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1394 L. HARVEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1395 L. DESROCHES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1396 J. GOODSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1397 P. GOODWIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1398 M. MCKENNA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1399 D. SMALL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1400 R. INGRIA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1401 L. CONRAD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1402 F. NYE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1403 A. TELLER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1404 E. BOLDEN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1405 M. BRADSHAW
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1406 C. FOTI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1407 S. TAYCHER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1408 J. CAMERON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1409 J. BRISBANE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1410 O. COWICK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1411 M. NOVESKA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1412 A. ALI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1413 J. SPILEWSKI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1414 C. ROMANSKI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1415 R. MCLEAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1416 E. EDOUARD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1417 C. MULLANE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1418 D. PIERRE-LOUIS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1419 P. BRENNAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1420 M. BUGGS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1421 M. KING
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1422 L. BROCK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1423 B. JOHNSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1424 G. CARPENTER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1425 B. BANKS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1426 J. STACKIEWICZ
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1427 B. SANDERS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1428 S. MISHRA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1429 E. GREGER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1430 M. BAUMANN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1431 J. SANDS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1432 J. ANTOUN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1433 H. WHITE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1434 D. LARABEE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1435 H. MAHONEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1436 K. UKRAINE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1437 S. BUCKLEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1438 C. MANNING
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1439 F. JOHNSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1440 P. LEWIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1441 J. SMYTHE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1442 P. LEVIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1443 A. KILPATRICK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1444 F. GARDINER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1445 D. PANTON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1446 J. MCCLOSKEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1447 D. SMITH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1448 C. CAVALIERE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1449 J. HORAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1450 D. SHANE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1451 L. FLANAGAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1452 B. SAXBERG
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1453 J. FISKE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1454 J. GRAY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1455 G. SAVER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1456 M. DONOVAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1457 J. HALLINAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1458 N. NEWTON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1459 S. DAVIS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1460 L. DAVENPORT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1461 M. HAMER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1462 R. MURPHY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1463 D. LUDLUM
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1464 F. MONKIEWICZ
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1465 K. MACLEAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1466 S. KOSTA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1467 S. HACKETT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1468 K. GUNST
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1469 I. GRINS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1470 J. GREGG
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1471 S. OHMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1472 M. JARVIS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1473 J. LEWIS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1474 J. GORDON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1475 P. MARKOVICH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1476 S. LEE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1477 M. JAMES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1478 E. GLENDON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1479 E. GLASFELD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1480 W. PAYNE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1481 O. HUSSAIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1482 R. PETRELLA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1483 R. SMITH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1484 M. YEATES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1485 D. SPEARMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1486 P. RAFTERY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1487 D. GALLUP
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1488 A. GAER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1489 R. REISS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1490 M. ASANO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1491 S. SPILLERS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1492 S. WOLF
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1493 L. WILLIAMS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1494 M. FIFE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1495 P. ROBERTS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1496 J. EBLES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1497 J. ROCA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1498 R. BAKER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1499 A. BECKETT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1500 K. ROSNER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1501 J. BENDA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1502 L. SHIRLEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1503 D. WALSH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1504 J. VOLPE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1505 A. CRANE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1506 C. BEYCHOK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1507 L. SHIREY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1508 D. SAWHNEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1509 N. SCHNEIDER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1510 J. VARELA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1511 J. BLATCHLEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1512 J. CHARNY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1513 E. CONWAY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1514 M. BLOUNT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1515 M. TOLPIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1516 K. TOBIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1517 D. BORUCHOFF
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1518 C. SWEENEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1519 D. STEFFENS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1520 L. SCRIVEN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1521 A. HAUS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1522 R. NERI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1523 M. GRAHAM
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1524 C. CATANZANO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1525 D. FOLEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1526 J. SMITH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1527 D. GAMMONS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1528 K. WHITTFORD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1529 R. MARKHAM
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1530 K. CASEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1531 D. BINDER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1532 L. KIANSTEN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1533 B. ALDRIDGE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1534 M. MACKIEWICZ
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1535 M. KANE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1536 T. BREWITT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1537 S. WHITE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1538 S. LYONS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1539 A. LESHKOWICH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1540 N. BERGER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1541 R. OYAMA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1542 A. LIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1543 J. SHEA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1544 X. WANG
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1545 K. MAGOON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1546 J. HERRMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1547 L. HOWARD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1548 U. HUERTA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1549 C. SCOTT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1550 W. SCHOPPERLE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1551 G. CARRINGTON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1552 M. VIOLETTE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1553 W. VOLMUT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1554 A. BRECKER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1555 A. CASILLAS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1556 L. GILLIM
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1557 M. PANOFSKY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1558 R. GOLDMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1559 M. HALL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1560 E. ANDERSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1561 C. LANDY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1562 G. ANDREWS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1563 R. CAJINA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1564 E. HARDING
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1565 R. GULDEN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1566 K. BRANLEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1567 A. SHEALS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1568 D. SHAPIRO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1569 E. ZUCKER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1570 C. MCLAUGHLIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1571 F. WHITTLESEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1572 M. MULLICK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1573 J. MCDERMOTT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1574 T. CONNOR
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1575 F. CORNELIO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1576 A. NORMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1577 A. ALASSAAD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1578 K. HERTHER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1579 M. KIRMANI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1580 C. HOLMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1581 D. FICI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1582 M. ALEXANDER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1583 D. SECOR
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1584 D. MCGOWAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1585 M. HOFFMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1586 T. GALLIGANI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1587 P. WHITACRE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1588 B. ONG
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1589 A. HAMMOND
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1590 D. KLIPP
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1591 B. CAMPBELL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1592 M. RANALLI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1593 K. GARRISON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1594 M. WILLARD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1595 P. MURPHY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1596 M. BRAMLEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1597 P. VALLEE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1598 S. ZETES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1599 M. CASIPIT JR
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1600 J. HARPER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1601 D. MACDONALD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1602 H. OLIVERA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1603 A. ANAEBONAM
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1604 M. BAKER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1605 R. DITUCCI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1606 J. LIGHTFOOT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1607 A. WHITAKER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1608 E. SMITH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1609 J. JENDRUCZEK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1610 M. FREAS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1611 K. SHERMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1612 M. CLEMENTE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1613 P. SARACENO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1614 J. FITICCHY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1615 W. WAYNE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1616 J. STRONG
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1617 D. HERBERT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1618 B. THOMSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1619 C. MOGAURO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1620 K. SPILLER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1621 R. SHOATE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1622 S. SWIDERSKI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1623 H. BUTT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1624 D. SULLIVAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1625 H. YAMAMOTO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1626 D. ANDREATTA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1627 J. MILLER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1628 K. KAYEMBA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1629 D. PETRAS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1630 M. EFFAT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1631 G. WISEMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1632 W. TREU
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1633 S. FENNELLY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1634 M. HERZBERG
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1635 T. OUELLETTE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1636 B. DUFFY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1637 L. PATTELENA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1638 J. HAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1639 L. ORGANISAK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1640 L. HAMMOND
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1641 C. PRICE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1642 P. TOWNSEND
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1643 B. RAY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1644 D. PIACITELLI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1645 D. ZANI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1646 V. HATCHER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1647 N. ROESENER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1648 D. HALE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1649 F. WINDOLOSKI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1650 J. FINN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1651 D. SCHEIFLER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1652 D. VITTGLIO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1653 S. LAVOYE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1654 W. CHAO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1655 D. PETZOLDT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1656 J. HANSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1657 P. BOVE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1658 T. TEMPLE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1659 D. CUSHING
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1660 M. BIGELOW
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1661 D. MCNAMARA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1662 F. ALEXANDER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1663 P. MANNIKKO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1664 E. VIEIRA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1665 T. KABASAKALIAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1666 B. KIM
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1667 J. BARNES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1668 J. MCKEARNEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1669 A. SHEIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1670 S. TESTER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1671 A. CAPOSSELA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1672 R. GILSTRAP
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1673 R. BOURA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1674 R. MEHRA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1675 W. KELLEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1676 A. RUDD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1677 S. HATANO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1678 S. WHITTINGTON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1679 J. FULCINITI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1680 S. LALIBERTE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1681 L. BATTAGLINI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1682 M. MITCHELL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1683 G. MONTEMAYOR
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1684 L. RICCIO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1685 J. HAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1686 K. BETTENCOURT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1687 M. DEFILIPPO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1688 N. SHAH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1689 K. REDDEN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1690 S. SEEREERAM
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1691 G. ALLEN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1692 M. TEAL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1693 P. MULLALLY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1694 P. HALFELDER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1695 N. SHAFI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1696 M. KAREEM
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1697 M. CHRISTIANSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1698 B. GORDON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1699 T. BAILOT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1700 J. SWANSTROM
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1701 M. SZETO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1702 B. LARKIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1703 T. WILGA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1704 K. TIGGES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1705 S. STEC
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1706 E. WEISS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1707 S. COLE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1708 J. POISSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1709 A. GINDY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1710 C. SPLETE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1711 C. FASO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1712 J. OSTLER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1713 R. HAYES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1714 P. WINSLOW
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1715 J. SMITH JR
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1716 A. KRISHNAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1717 K. GIBBONS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1718 F. GOLDSTEIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1719 L. GAGNE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1720 K. SORBER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1721 P. KRAUSE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1722 A. RINALDI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1723 D. LYNCH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1724 C. BLOUNT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1725 D. GRIMMITT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1726 A. STEVENSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1727 M. FRANZ
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1728 J. MACKINNON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1729 J. BARRETT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1730 R. SIVAKUMARAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1731 L. GAGNON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1732 R. ENGLAND
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1733 B. DOLLARD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1734 P. LANG
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1735 R. BALLARD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1736 I. MICHELSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1737 V. JAYAASHREE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1738 M. HAYS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1739 G. CHAUNCEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1740 A. WHEATON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1741 M. MCCLOUD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1742 R. BOYD. II
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1743 H. FERGUSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1744 P. STRAIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1745 B. GLADDEN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1746 L. HENRY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1747 T. BOILEAU
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1748 T. MCCAULEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1749 R. GRAF
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1750 D. GREENWALD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1751 D. MCCAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1752 D. HAYDUK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1753 R. LAGOS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1754 J. DELANCEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1755 B. ROBINSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1756 C. ULLOA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1757 D. STEELE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1758 M. SMITH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1759 L. VIENS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1760 J. GINSBURG
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1761 O. PINEDA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1762 M. MCINNIS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1763 J. APPLEYARD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1764 J. ZORRILLA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1765 D. MORIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1766 E. KAYE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1767 J. MALDONADO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1768 I. HAGANCOPELAND
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1769 M. SOVANSKY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1770 J. PALLAIS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1771 D. WRIGHT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1772 R. MCCULLEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1773 L. SHEA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1774 S. GRIFFITH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1775 S. GLOTT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1776 R. BURCHILL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1777 W. GLASSHUSAIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1778 W. DOCKERY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1779 M. AZURDIA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1780 F. MOREL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1781 I. GEVIRTZ
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1782 J. HALLISEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1783 A. HOFFMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1784 E. BELOSTOCK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1785 A. FERRIS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1786 J. RIDDICK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1787 J. REINART
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1788 B. LEAHY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1789 E. THEODOSIOU
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1790 L. FARRIS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1791 A. PELLETIER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1792 T. LOFGREN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1793 W. RAILA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1794 N. HASELBACHER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1795 J. PERLMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1796 L. WEBB
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1797 K. MCCARTHY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1798 P. SANTOS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1799 A. CORMIER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1800 T. DINH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1801 M. RICARDO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1802 N. LINARES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1803 J. COUTO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1804 C. JOHNSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1805 A. MANGANIELLO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1806 E. DONNER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1807 D. DEFRANCISCO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1808 N. ENOS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1809 J. BROWN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1810 S. HERSCOVICI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1811 T. BARE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1812 E. BUTT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1813 M. MEYERS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1814 J. CROLL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1815 L. DUNN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1816 C. CORCIONE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1817 M. PEREIRA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1818 D. BUDGELL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1819 S. CHRISTY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1820 A. KAZLOWSKI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1821 H. POCIUS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1822 P. CARREIRO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1823 A. BRAZ
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1824 S. LEMONT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1825 M. MACDOLALD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1826 M. CARDOSO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1827 I. NETO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1828 C. OLIVEIRA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1829 M. LEVINE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1830 T. BOUDREAU
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1831 A. WOODWARD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1832 A. DRAPER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1833 R. GRAHAM
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1834 S. PAIVA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1835 L. VISCO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1836 F. BERNARD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1837 R. KULIKOVSKY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1838 A. CAZEAU
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1839 S. LEPERA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1840 K. KEEGAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1841 R. MCCARTER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1842 P. MARCUS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1843 C. PEREZ
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1844 F. CABRAL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1845 E. COUTO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1846 J. RESENDES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1847 J. DASILVA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1848 H. DORICENT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1849 A. HILAIRE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1850 L. LAMBERT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1851 R. PRATT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1852 J. SOLOMON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1853 C. CHEN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1854 N. HOPKINS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1855 D. HENRY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1856 J. THOMPSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1857 J. SOLOMON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1858 A. MELLO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1859 R. SCOTT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1860 R. VALCIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1861 J. DORCUES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1862 C. RODENE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1863 H. GARCIA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1864 J. PONTES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1865 L. CARREIRO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1866 F. CAPPUCCI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1867 A. FONTES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1868 C. OLIVEIRA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1869 E. DACOSTA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1870 D. CABRAL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1871 J. CABRAL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1872 A. DACOSTA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1873 T. SIEBER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1874 S. NICHOLAS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1875 A. CARREIRA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1876 M. BITTENCOURT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1877 M. RIVERA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1878 S. PROSTERMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1879 H. HSU
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1880 A. MELO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1881 A. RAPOSO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1882 P. MEDEIROS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1883 M. PAIVA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1884 O. SOUSA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1885 B. RODRIGUES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1886 J. CORREIA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1887 E. MILLARD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1888 M. FIGUEIREDO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1889 R. SMITH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1890 A. RIBEIRO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1891 R. WARFIELD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1892 J. SOUZA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1893 J. RIBERIO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1894 M. RIBEIRO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1895 F. ROMEREIRO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1896 V. NEIMERCK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1897 C. EATON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1898 K. SUN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1899 G. BROWN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1900 D. ROBINSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1901 E. BURKE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1902 V. JONES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1903 T. JONES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1904 P. JONES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1905 S. HAMM
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1906 M. AURELIEN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1907 M. ACUELIAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1908 J. HERNADEZ
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1909 S. MARTIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1910 D. RIBEIRO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1911 J. HUTCHINGS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1912 W. ROOT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1913 D. YOUNG
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1914 H. KELLEHER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1915 J. REED
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1916 S. KELLER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1917 C. MYERS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1918 G. YANCEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1919 Q. JAY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1920 M. SEAWELL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1921 M. KEUMURIAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1922 O. THOMPSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1923 T. BROWNE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1924 M. LEWIS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1925 R. BORDON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1926 J. SENAT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1927 A. JEANLOUIS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1928 L. GERMAIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1929 M. BERLUS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1930 K. KOSIENSKI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1931 J. DELANEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1932 D. PALLADINO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1933 M. GREGORY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1934 M. RANSLEM
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1935 A. BACHELLER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1936 B. HUI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1937 P. MATTHEWS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1938 V. CARINELLI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1939 N. MARQUEZ
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1940 M. TSETSEN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1941 A. LITTLE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1942 F. BARTON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1943 L. MACLELLAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1944 I. BOUGHTON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1945 H. AUGUSTIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1946 D. KELLAR
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1947 D. BUFANO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1948 L. NELSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1949 C. LAURENT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1950 M. LENNON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1951 J. JANOTA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1952 C. KAYLOR
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1953 R. BOHLIG
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1954 D. GEORGE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1955 D. MURPHY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1956 B. DAVIS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1957 W. MCCARTHY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1958 E. LEVIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1959 K. STAPLETON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1960 T. COHEN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1961 J. SMITH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1962 A. JANKAUSKAS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1963 R. HESS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1964 F. VALENTE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1965 D. DYER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1966 G. MORRISON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1967 R. MURRY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1968 E. COSTA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1969 S. SAUTER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1970 K. BRANCO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1971 A. MBUVI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1972 L. TRAVASSOS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1973 M. MAHONEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1974 L. WHALEN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1975 W. KILBRETH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1976 C. MOSCOWITZ
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1977 B. NEUBAUER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1978 J. CASWELL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1979 G. FRANCOIS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1980 R. BERNARD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1981 J. GERWIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1982 A. IOCAVAZZI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1983 N. FRESCO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1984 M. JACKSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1985 D. SLANEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1986 J. SOLINSKY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1987 C. SANTOS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1988 J. MCCAUGHEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1989 E. DIFRANZA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1990 V. TALLAND
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1991 C. BENT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1992 J. TRIPLETT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1993 T. MINOTTI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1994 O. SMITH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1995 A. GALOWITZ
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1996 K. PANHORST
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1997 W. SCHULZ
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1998 R. HASSAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         1999 B. DUMAS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2000 M. KAPOPOULOS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2001 C. PIERCE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2002 C. BRUNO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2003 M. CARLSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2004 H. SCHIFFMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2005 S. TURBAK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2006 S. MULLEN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2007 S. MULLIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2008 B. TURK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2009 E. FITCH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2010 D. STRAIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2011 S. PADGETT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2012 M. FERRER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2013 J. OREGAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2014 B. NOLTE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2015 H. CATALDO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2016 N. LAWRENCE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2017 A. MOTCH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2018 D. LABENSKI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2019 A. KACZUR
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2020 J. ROGERS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2021 D. CROWLEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2022 R. FAAS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2023 C. MCMAHON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2024 P. RILEY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2025 J. MANN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2026 W. FITZGERALD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2027 M. KILCOMMONS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2028 M. SPERA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2029 F. BORGES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2030 C. LEAL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2031 F. BISBEE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2032 L. TORRES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2033 K. GREGORY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2034 J. PAVIDIS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2035 D. LASSITER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2036 C. SOUSA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2037 W. FALTER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2038 A. AIGUIER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2039 A. GALLINARO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2040 A. MATSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2041 A. KRAZESKY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2042 J. WOLK
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2043 A. MEUCCI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2044 J. VICENTE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2045 M. DIAS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2046 R. SOUZA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2047 W. MELLO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2048 M. FERNENDEZ
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2049 A. DEJESUS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2050 M. CONCEISON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2051 J. TORRES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2052 M. GARCIA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2053 A. MENDONCA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2054 R. FORD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2055 J. REMY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2056 R. BOONE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2057 A. HUGHES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2058 E. FERRY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2059 M. SILVA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2060 I. KONEFAL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2061 L. MCKENNA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2062 M. BURNETTE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2063 B. EDWARD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2064 P. NJUE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2065 D. CHILONGOZI
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2066 K. GILSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2067 D. LOCKWOOD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2068 C. PARDODEZELA
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2069 C. CARLETON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2070 F. GRIEM
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2071 P. MATZ
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2072 A. VENO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2073 D. GROUT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2074 M. RUTZ
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2075 A. TRICHARD
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2076 R. HARDWAY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2077 S. ROTH
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2078 D. HANIG
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2079 R. HAMILTON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2080 N. NELSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2081 A. FOSTER
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2082 M. ZAPF
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2083 G. RAHAL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2084 M. WERTELET
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2085 H. HUGHES
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2086 D. GEORGOPULOS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2087 J. STEIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2088 P. TRUNNELL
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2089 J. FRANZEN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2090 A. MOORE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2091 D. WOODS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2092 L. FRIEDMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2093 M. ROY
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2094 J. KELSO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2095 M. BUSSE
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2096 M. JOHNSON
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2097 P. NEWPORT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2098 J. ALBERT
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2099 J. BERZ
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2100 S. DOULAS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2101 R. COLMAN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2102 E. ABRAMS
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2103 A. MARTIN
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2104 S. LIU
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2105 G. ROMANO
+
+Kliento kodas Kliento vardas
+------------- ------------------------------
+         2106 A. ROCKWELL
+
+    Amount
+----------
+  4.402,02
+  2.812,98
+ 23.504,59
+ 11.756,67
+ 15.126,78
+  1.829,50
+  6.337,38
+  4.104,00
+    251,26
+    771,59
+  3.990,23
+ 10.288,58
+  5.267,67
+    487,59
+  4.603,72
+    342,00
+  1.024,99
+ 14.530,46
+    981,60
+ 19.108,20
+    688,37
+  4.807,68
+  2.002,74
+  5.841,40
+  4.586,99
+  3.450,34
+    518,74
+  5.655,20
+    496,61
+  7.108,09
+  5.721,46
+  2.747,30
+  6.633,60
+  4.835,33
+  6.091,48
+    492,25
+  3.069,04
+  1.886,68
+  6.981,83
+  3.115,23
+  3.668,92
+  7.886,92
+    472,45
+  6.517,91
+  1.012,00
+ 29.762,58
+ 11.397,99
+  6.428,08
+  7.051,19
+    446,09
+  3.110,99
+  7.535,42
+  2.610,89
+  4.377,05
+  9.510,21
+    435,87
+  4.090,13
+  3.234,55
+  3.621,32
+  1.351,61
+  5.200,38
+ 17.502,95
+ 11.217,96
+ 26.912,81
+  4.193,10
+ 36.587,69
+    650,31
+  1.005,00
+ 14.513,86
+  8.668,27
+  6.050,70
+  5.638,75
+    569,80
+  1.550,79
+    950,40
+  4.329,98
+  4.803,08
+    184,00
+ 34.707,84
+  8.187,39
+  4.502,45
+  1.471,14
+ 11.975,88
+  4.975,62
+  3.824,11
+  3.727,24
+  5.084,64
+  5.658,34
+  2.072,63
+  7.166,87
+  8.704,73
+  2.906,87
+  4.977,34
+  4.928,73
+ 18.053,00
+  4.285,93
+  3.076,93
+  9.911,25
+    380,67
+  5.597,71
+    319,60
+  9.721,35
+  5.725,56
+  5.413,10
+    259,87
+  3.727,75
+  8.609,73
+ 10.866,06
+    241,55
+  3.389,44
+  2.420,80
+  4.742,60
+  4.038,31
+ 40.439,43
+  2.590,76
+ 19.075,61
+  2.952,42
+ 22.266,26
+  3.523,51
+  6.604,32
+    180,81
+    687,00
+  3.678,77
+  2.669,86
+     68,55
+  5.511,94
+ 10.055,51
+  2.850,73
+    117,81
+  9.146,38
+  3.365,70
+    541,75
+  1.367,35
+ 15.147,81
+  3.345,69
+  1.133,11
+  4.664,57
+ 14.780,25
+  5.489,02
+  6.677,82
+ 25.236,78
+    292,95
+  5.531,85
+ 23.947,60
+  4.953,75
+  4.605,91
+  6.302,15
+----------
+948.760,93 Visa
+ 40.439,43 Didziausia
+     68,55 Maziausia
