@@ -1,0 +1,5 @@
+Užduotis 04
+
+Savarankiškai: Student Guide, Lesson 3
+
+Užduotis: Naudojant Student Guide 2 Appendix D parašyti ataskaitą kuri išvestų į failą visų klientų sąskaitas grupuojant pagal klientą. Sąskaitos turi būti išvestos nuo seniausios iki naujausios. Turi būti parodyta sąskaitos didžiausia, mažiausia ir tiksli suma pagal klientą ir bendrai visų klientų. Datos turi būti suformatuotos lietuviškai (YYYY-MM-DD), Išvedant kliento pavadinimą rodome kodą, vardo raidę (su tašku) ir pavardę didžiosiomis raidėmis (visą pavadinimą kaip vieną lauką). Sąskaitoms išvedame data, numerį, sumą. Visi stulpeliai turi būti pavadinti lietuviškai (gali būti šveplai). Programa ir rezultatas turi būti įrašyti į GIT.
