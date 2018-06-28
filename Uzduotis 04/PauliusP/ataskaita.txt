@@ -1,0 +1,5195 @@
+
+Kliento ID Klientas
+---------- ------------------------------
+         1 G. SHEPLEY
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-09-28            36     492.25
+1997-11-22            79  34'707.84
+1998-02-12             6   1'829.50
+1998-03-03           146   4'605.91
+                         ----------
+                          41'635.50 Suma
+                          34'707.84 Didžiausias
+                             492.25 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+         2 U. LEPPAKOSKI
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-10-05            94   4'928.73
+1997-12-21           124   2'669.86
+                         ----------
+                           7'598.59 Suma
+                           4'928.73 Didžiausias
+                           2'669.86 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+         3 M. TRAITSER
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-09-23            55   9'510.21
+                         ----------
+                           9'510.21 Suma
+                           9'510.21 Didžiausias
+                           9'510.21 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+         4 A. FROGBROOK
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1998-02-09            21     688.37
+                         ----------
+                             688.37 Suma
+                             688.37 Didžiausias
+                             688.37 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+         5 R. DORR
+
+Kliento ID Klientas
+---------- ------------------------------
+         6 A. STRONG
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-11-26           132     541.75
+1997-12-03           145   4'953.75
+1997-12-25            59   3'621.32
+                         ----------
+                           9'116.82 Suma
+                           4'953.75 Didžiausias
+                             541.75 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+         7 E. ILMANEN
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-11-15           137   4'664.57
+1997-11-23           117   2'952.42
+                         ----------
+                           7'616.99 Suma
+                           4'664.57 Didžiausias
+                           2'952.42 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+         8 T. BREAK
+
+Kliento ID Klientas
+---------- ------------------------------
+         9 M. VENTOLINEN
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-09-15            48   6'428.08
+1997-10-08            99     380.67
+1997-11-30           108  10'866.06
+1998-02-28            75     950.40
+1998-03-05            90   7'166.87
+                         ----------
+                          25'792.08 Suma
+                          10'866.06 Didžiausias
+                             380.67 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        10 G. LACEY
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-10-11            25   4'586.99
+                         ----------
+                           4'586.99 Suma
+                           4'586.99 Didžiausias
+                           4'586.99 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        11 R. HAMMERMAKI
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-11-10            16     342.00
+1998-01-03            56     435.87
+1998-01-22            10     771.59
+                         ----------
+                           1'549.46 Suma
+                             771.59 Didžiausias
+                             342.00 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        12 V. LEHTISOINI
+
+Kliento ID Klientas
+---------- ------------------------------
+        13 T. A.T. MATTINEN
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1998-02-22            68   1'005.00
+                         ----------
+                           1'005.00 Suma
+                           1'005.00 Didžiausias
+                           1'005.00 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        14 P. DASGIL
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-10-26           101     319.60
+1997-11-25            20  19'108.20
+                         ----------
+                          19'427.80 Suma
+                          19'108.20 Didžiausias
+                             319.60 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        15 R. JOHNS
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1998-01-27            58   3'234.55
+                         ----------
+                           3'234.55 Suma
+                           3'234.55 Didžiausias
+                           3'234.55 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        16 F. HORAN
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1998-01-26           131   3'365.70
+1998-01-30            23   2'002.74
+1998-02-25            41   3'668.92
+                         ----------
+                           9'037.36 Suma
+                           3'668.92 Didžiausias
+                           2'002.74 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        17 A. TACKLE
+
+Kliento ID Klientas
+---------- ------------------------------
+        18 A. OYRINMETSA
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1998-01-02           112   4'742.60
+                         ----------
+                           4'742.60 Suma
+                           4'742.60 Didžiausias
+                           4'742.60 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        19 G. BUITKUS
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-11-02           111   2'420.80
+1997-12-15           141  25'236.78
+                         ----------
+                          27'657.58 Suma
+                          25'236.78 Didžiausias
+                           2'420.80 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        20 P. MAUKAJARVI
+
+Kliento ID Klientas
+---------- ------------------------------
+        21 A. PRIMES
+
+Kliento ID Klientas
+---------- ------------------------------
+        22 P. KOSKINEN
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1998-01-31           128   2'850.73
+                         ----------
+                           2'850.73 Suma
+                           2'850.73 Didžiausias
+                           2'850.73 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        24 M. YLA-LIEDEOJA
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-10-03           134  15'147.81
+1998-02-01            88   5'658.34
+                         ----------
+                          20'806.15 Suma
+                          15'147.81 Didžiausias
+                           5'658.34 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        25 M. ROULEMOUSSE
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-11-07            96   4'285.93
+1998-01-02            54   4'377.05
+                         ----------
+                           8'662.98 Suma
+                           4'377.05 Didžiausias
+                           4'285.93 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        26 K. BATTER
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-11-05            45   1'012.00
+1997-12-06            42   7'886.92
+1997-12-22            98   9'911.25
+                         ----------
+                          18'810.17 Suma
+                           9'911.25 Didžiausias
+                           1'012.00 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        27 H. BALLERER
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-11-07            43     472.45
+1997-12-07           116  19'075.61
+1998-02-03            95  18'053.00
+1998-02-04           121     180.81
+1998-02-11            52   7'535.42
+                         ----------
+                          45'317.29 Suma
+                          19'075.61 Didžiausias
+                             180.81 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        28 J. J. SCOTT
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-12-04            87   5'084.64
+1998-01-08            37   3'069.04
+1998-01-29            11   3'990.23
+1998-02-09           102   9'721.35
+                         ----------
+                          21'865.26 Suma
+                           9'721.35 Didžiausias
+                           3'069.04 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        29 C. CLARK
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-10-13            82   1'471.14
+                         ----------
+                           1'471.14 Suma
+                           1'471.14 Didžiausias
+                           1'471.14 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        30 S. PEACOCK
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-09-18           113   4'038.31
+1997-12-06            40   3'115.23
+1998-01-25           120   6'604.32
+1998-02-23            18  14'530.46
+                         ----------
+                          28'288.32 Suma
+                          14'530.46 Didžiausias
+                           3'115.23 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        31 H. WALJAKKALA
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-09-19            51   3'110.99
+1998-02-12            84   4'975.62
+                         ----------
+                           8'086.61 Suma
+                           4'975.62 Didžiausias
+                           3'110.99 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        32 I. ALATASANKO
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1998-01-26            34   4'835.33
+1998-02-28            28   5'655.20
+                         ----------
+                          10'490.53 Suma
+                           5'655.20 Didžiausias
+                           4'835.33 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        33 J. JANKAKOLI
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-10-03           143   5'531.85
+1997-10-22            53   2'610.89
+1997-11-06           129     117.81
+1998-01-19            86   3'727.24
+                         ----------
+                          11'987.79 Suma
+                           5'531.85 Didžiausias
+                             117.81 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        34 S. RICCIO
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-10-07            70   8'668.27
+1997-10-07           140   6'677.82
+1997-11-25           110   3'389.44
+1998-02-08            62  17'502.95
+                         ----------
+                          36'238.48 Suma
+                          17'502.95 Didžiausias
+                           3'389.44 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        35 P. ALA-JULKKU
+
+Kliento ID Klientas
+---------- ------------------------------
+        36 M. BREIZ
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1998-01-06           115   2'590.76
+                         ----------
+                           2'590.76 Suma
+                           2'590.76 Didžiausias
+                           2'590.76 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        37 H. GASGEB
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-10-02            60   1'351.61
+1997-12-03            12  10'288.58
+                         ----------
+                          11'640.19 Suma
+                          10'288.58 Didžiausias
+                           1'351.61 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        38 R. PAUKKU
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-09-19             8   4'104.00
+                         ----------
+                           4'104.00 Suma
+                           4'104.00 Didžiausias
+                           4'104.00 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        39 A. RASTIO
+
+Kliento ID Klientas
+---------- ------------------------------
+        40 H. NIEMELAINEN
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-10-04            30   7'108.09
+1997-10-25            31   5'721.46
+1997-11-10            64  26'912.81
+1997-11-29           136   1'133.11
+                         ----------
+                          40'875.47 Suma
+                          26'912.81 Didžiausias
+                           1'133.11 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        41 M. LITTLE
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1998-03-03            78     184.00
+1998-03-06            63  11'217.96
+                         ----------
+                          11'401.96 Suma
+                          11'217.96 Didžiausias
+                             184.00 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        42 N. TRAINER
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-09-11            72   5'638.75
+1997-12-04           135   3'345.69
+1998-01-04            89   2'072.63
+                         ----------
+                          11'057.07 Suma
+                           5'638.75 Didžiausias
+                           2'072.63 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        43 I. NIGRINI
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-10-13           126   5'511.94
+1997-12-05            97   3'076.93
+1998-01-08           100   5'597.71
+1998-01-12           139   5'489.02
+                         ----------
+                          19'675.60 Suma
+                           5'597.71 Didžiausias
+                           3'076.93 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        44 B. ELDRIDGE
+
+Kliento ID Klientas
+---------- ------------------------------
+        45 R. TRIMMER
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1998-02-18           127  10'055.51
+                         ----------
+                          10'055.51 Suma
+                          10'055.51 Didžiausias
+                          10'055.51 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        46 D. PAPIN
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-10-16           118  22'266.26
+1997-10-24           142     292.95
+1997-12-28            91   8'704.73
+1998-02-25           133   1'367.35
+1998-03-06            67     650.31
+                         ----------
+                          33'281.60 Suma
+                          22'266.26 Didžiausias
+                             292.95 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        47 B. MOSS
+
+Kliento ID Klientas
+---------- ------------------------------
+        48 P. PEKANMAA
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1998-01-10            17   1'024.99
+                         ----------
+                           1'024.99 Suma
+                           1'024.99 Didžiausias
+                           1'024.99 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        49 J. SALOMAKI
+
+Kliento ID Klientas
+---------- ------------------------------
+        50 K. KOPPEL
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-09-15            44   6'517.91
+1998-01-20           104   5'413.10
+                         ----------
+                          11'931.01 Suma
+                           6'517.91 Didžiausias
+                           5'413.10 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        51 Q. TRAN
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1998-02-10            83  11'975.88
+1998-02-23             9     251.26
+1998-03-07             7   6'337.38
+                         ----------
+                          18'564.52 Suma
+                          11'975.88 Didžiausias
+                             251.26 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        52 K. KULMIAINEN
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-11-13            50     446.09
+1998-01-09           119   3'523.51
+                         ----------
+                           3'969.60 Suma
+                           3'523.51 Didžiausias
+                             446.09 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        53 S. TUMBA
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-12-09            26   3'450.34
+1998-01-27             1   4'402.02
+                         ----------
+                           7'852.36 Suma
+                           4'402.02 Didžiausias
+                           3'450.34 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        54 N. WALKER
+
+Kliento ID Klientas
+---------- ------------------------------
+        55 J. BORGES
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1998-01-16           105     259.87
+                         ----------
+                             259.87 Suma
+                             259.87 Didžiausias
+                             259.87 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        56 J. KAUPPALAINEN
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-10-19            65   4'193.10
+                         ----------
+                           4'193.10 Suma
+                           4'193.10 Didžiausias
+                           4'193.10 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        57 H. HOEDJES
+
+Kliento ID Klientas
+---------- ------------------------------
+        58 E. KROL
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-11-29            19     981.60
+1997-12-22            33   6'633.60
+                         ----------
+                           7'615.20 Suma
+                           6'633.60 Didžiausias
+                             981.60 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        59 K. JOKINEN
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-10-28            27     518.74
+                         ----------
+                             518.74 Suma
+                             518.74 Didžiausias
+                             518.74 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        60 S. VOLLEY
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-10-17            29     496.61
+                         ----------
+                             496.61 Suma
+                             496.61 Didžiausias
+                             496.61 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        61 H. YLI-MOIJONEN
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-11-10            61   5'200.38
+1997-11-13           147   6'302.15
+1997-11-23            74   1'550.79
+1997-12-26            15   4'603.72
+                         ----------
+                          17'657.04 Suma
+                           6'302.15 Didžiausias
+                           1'550.79 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        62 A. JOHNSON
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-11-30            47  11'397.99
+                         ----------
+                          11'397.99 Suma
+                          11'397.99 Didžiausias
+                          11'397.99 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        63 E. KIRJAVAINEN
+
+Kliento ID Klientas
+---------- ------------------------------
+        64 M. KANTOKOSKI
+
+Kliento ID Klientas
+---------- ------------------------------
+        65 K. SYNARE
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-12-21           114  40'439.43
+                         ----------
+                          40'439.43 Suma
+                          40'439.43 Didžiausias
+                          40'439.43 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        66 M. SHIRKEY
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-09-24             3  23'504.59
+1997-10-18            66  36'587.69
+1997-10-27            80   8'187.39
+                         ----------
+                          68'279.67 Suma
+                          36'587.69 Didžiausias
+                           8'187.39 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        67 K. DOHERTY
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-11-15           103   5'725.56
+1998-01-15            38   1'886.68
+1998-01-29            76   4'329.98
+1998-02-02           125      68.55
+1998-02-03            73     569.80
+                         ----------
+                          12'580.57 Suma
+                           5'725.56 Didžiausias
+                              68.55 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        68 H. D'AMATO
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-09-28            49   7'051.19
+                         ----------
+                           7'051.19 Suma
+                           7'051.19 Didžiausias
+                           7'051.19 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        69 P. SAVUJOKI
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-10-01            81   4'502.45
+1998-01-16            13   5'267.67
+                         ----------
+                           9'770.12 Suma
+                           5'267.67 Didžiausias
+                           4'502.45 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        70 W. B SCAREY
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-11-24            32   2'747.30
+1998-01-03            22   4'807.68
+1998-03-10            85   3'824.11
+                         ----------
+                          11'379.09 Suma
+                           4'807.68 Didžiausias
+                           2'747.30 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        71 L. AIDA
+
+Kliento ID Klientas
+---------- ------------------------------
+        72 O. MEAGHER
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1998-01-29            77   4'803.08
+1998-02-13             5  15'126.78
+                         ----------
+                          19'929.86 Suma
+                          15'126.78 Didžiausias
+                           4'803.08 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        73 F. ABSEILER
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-12-04            24   5'841.40
+1998-01-12            35   6'091.48
+                         ----------
+                          11'932.88 Suma
+                           6'091.48 Didžiausias
+                           5'841.40 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        74 R. KAMMER
+
+Kliento ID Klientas
+---------- ------------------------------
+        75 C. LYNN
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-09-17            71   6'050.70
+1997-11-06           138  14'780.25
+1998-03-07            39   6'981.83
+                         ----------
+                          27'812.78 Suma
+                          14'780.25 Didžiausias
+                           6'050.70 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        76 P. HEIKINMAKI
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-10-02           107   8'609.73
+1997-10-07            92   2'906.87
+                         ----------
+                          11'516.60 Suma
+                           8'609.73 Didžiausias
+                           2'906.87 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        77 A. VERSE
+
+Kliento ID Klientas
+---------- ------------------------------
+        78 C. ZUGRULOW
+
+Kliento ID Klientas
+---------- ------------------------------
+        79 P. BUFFLE
+
+Kliento ID Klientas
+---------- ------------------------------
+        80 D. SCHWEITZER
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-11-21           106   3'727.75
+                         ----------
+                           3'727.75 Suma
+                           3'727.75 Didžiausias
+                           3'727.75 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        81 N. BELLER
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-10-06             2   2'812.98
+1997-10-13           109     241.55
+1997-12-24           122     687.00
+                         ----------
+                           3'741.53 Suma
+                           2'812.98 Didžiausias
+                             241.55 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        82 R. FERRANTE
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-12-07            14     487.59
+1998-03-04           123   3'678.77
+1998-03-07           144  23'947.60
+                         ----------
+                          28'113.96 Suma
+                          23'947.60 Didžiausias
+                             487.59 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        83 K. MALLONE
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-11-08            46  29'762.58
+1997-11-17            69  14'513.86
+1997-12-25           130   9'146.38
+1998-01-18             4  11'756.67
+                         ----------
+                          65'179.49 Suma
+                          29'762.58 Didžiausias
+                           9'146.38 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+        84 C. ELEAZER
+
+Data       Sąskaitos nr.       Suma
+---------- ------------- ----------
+1997-10-23            93   4'977.34
+1998-03-07            57   4'090.13
+                         ----------
+                           9'067.47 Suma
+                           4'977.34 Didžiausias
+                           4'090.13 Mažiausias
+
+Kliento ID Klientas
+---------- ------------------------------
+      1005 J. SMITH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1015 J. SANDERS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1020 S. FEINSTEIN
+Second parameter of REPLACE must have non-zero length. (2918)
+Second parameter of REPLACE must have non-zero length. (2918)
+Second parameter of REPLACE must have non-zero length. (2918)
+Second parameter of REPLACE must have non-zero length. (2918)
+Second parameter of REPLACE must have non-zero length. (2918)
+
+Kliento ID Klientas
+---------- ------------------------------
+      1061 H. BINTON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1062 D. STUARTS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1063 J. ARMSTRONG
+
+Kliento ID Klientas
+---------- ------------------------------
+      1064 J. HEGGARTY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1065 P. GATE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1066 S. WINTERS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1067 J. HARRISON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1068 H. MILLER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1069 J. MYERS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1070 M. PLASTONE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1071 S. JEFFERIES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1072 D. FORTISS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1073 A. INCOLONE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1074 A. JEFFERIES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1075 T. BIGELOW
+
+Kliento ID Klientas
+---------- ------------------------------
+      1076 P. FARIGNY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1077 B. HENDERSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1078 D. KOSLOWSKI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1079 R. MOORE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1080 G. PICCOLO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1081 S. DIGRASSO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1102 E. ROSA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1103 J. ESPINOL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1104 E. MASON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1105 G. WHITTEMORE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1106 J. MARGOLIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1107 E. RAMOS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1108 P. KELSEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1109 M. FISHMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1110 J. VASSILIADES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1111 K. CARNEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1112 L. WARD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1113 B. BAUER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1114 K. CONROY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1115 A. VARGAS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1116 S. KWONG
+
+Kliento ID Klientas
+---------- ------------------------------
+      1117 L. DANKNER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1118 C. FERNANDES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1119 R. BURKE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1120 K. JACKSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1121 P. JOHNSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1122 K. MCCONARTY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1123 S. BRUCE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1124 K. HART
+
+Kliento ID Klientas
+---------- ------------------------------
+      1125 C. FERREIRA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1126 T. SOUSA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1127 P. MURPHY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1128 P. NICHOLS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1129 A. OCONNOR
+
+Kliento ID Klientas
+---------- ------------------------------
+      1130 D. YAMIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1131 J. NORTON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1132 C. CAMPBELL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1133 V. SHING
+
+Kliento ID Klientas
+---------- ------------------------------
+      1134 T. HOLLAND
+
+Kliento ID Klientas
+---------- ------------------------------
+      1135 J. CANNIFF
+
+Kliento ID Klientas
+---------- ------------------------------
+      1136 B. FULLER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1137 D. MARCOTTE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1138 G. GIANNOS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1139 P. SCULLY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1140 S. FREEMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1141 E. MANGIACOTTI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1142 D. CELESTIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1143 F. BURNS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1144 J. REYES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1145 S. CAPOBIANCO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1146 W. GOSMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1147 C. ALLISON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1148 C. KNIGHT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1149 C. REDDICK
+
+Kliento ID Klientas
+---------- ------------------------------
+      1150 C. LEIFFER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1151 M. HIGGINS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1152 C. ROBINSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1153 J. ZHOU
+
+Kliento ID Klientas
+---------- ------------------------------
+      1154 L. SELL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1155 S. BOCCELLI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1156 M. EVANS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1157 K. BELZ
+
+Kliento ID Klientas
+---------- ------------------------------
+      1158 R. FEXA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1159 R. WINTERS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1160 E. SPERRY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1161 E. SANTIESTEVAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1162 T. OLIVER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1163 P. RIORDAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1164 L. LEAHY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1165 M. GRIESDORF
+
+Kliento ID Klientas
+---------- ------------------------------
+      1166 A. OLDMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1167 W. LENK
+
+Kliento ID Klientas
+---------- ------------------------------
+      1168 N. FLOOD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1169 M. STAVIS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1170 A. BROWN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1171 C. HATALA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1172 J. TOOMEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1173 A. CALABRESE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1174 J. WOODIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1175 J. STITT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1176 N. KRAMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1177 K. TRUDEL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1178 N. YEN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1179 J. WOLFE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1180 P. MCCARTHY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1181 J. RIDER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1182 O. FIREMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1183 A. BATISTA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1184 A. LEWIS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1185 S. PARTRIDGE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1186 M. DELAROSA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1187 I. YEN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1188 N. OLEARY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1189 C. LIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1190 K. CASTLE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1191 T. MASSIAH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1192 H. THOMAS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1193 J. FRIEDLANDER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1194 R. PEACETREE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1195 K. BROCKBANK
+
+Kliento ID Klientas
+---------- ------------------------------
+      1196 M. BURNS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1197 T. LIEBERMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1198 C. OGILVIE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1199 I. GOTTLEIB
+
+Kliento ID Klientas
+---------- ------------------------------
+      1200 R. WIDENHOEFER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1201 G. RIVERS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1202 C. SHIVELY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1203 P. SARDELLA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1204 F. FREEMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1205 L. KABBESCH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1206 J. OXENBERG
+
+Kliento ID Klientas
+---------- ------------------------------
+      1207 R. RICHARDS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1208 J. DABROWSKI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1209 R. MACFARQUHAR
+
+Kliento ID Klientas
+---------- ------------------------------
+      1210 D. HUDSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1211 J. LIAO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1212 M. SMITH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1213 V. CALLENDER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1214 J. CUSACK
+
+Kliento ID Klientas
+---------- ------------------------------
+      1215 C. WILLIAMS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1216 R. EVEN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1217 M. VADER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1218 D. GABRIEL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1219 J. MOORE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1220 M. WEINTRAUB
+
+Kliento ID Klientas
+---------- ------------------------------
+      1221 N. RYAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1222 A. PAREJO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1223 T. HENAULT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1224 K. REILEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1225 S. MANGANO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1226 L. MINAVICH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1227 R. WADE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1228 C. DAVIS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1229 D. HUANG
+
+Kliento ID Klientas
+---------- ------------------------------
+      1230 M. BROOKS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1231 E. POWELL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1232 K. CHAUDHRY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1233 E. ROTH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1234 W. HAMILTON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1235 A. MADDALO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1236 R. HENDERSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1237 W. LEONARD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1238 E. ANGELONE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1239 H. BROWN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1240 C. SALDUTTI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1241 H. CHAO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1242 D. UGRESIC
+
+Kliento ID Klientas
+---------- ------------------------------
+      1243 T. MCMAHON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1244 G. GARRY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1245 P. BULL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1246 B. SHEE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1247 E. TRAORE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1248 T. KAPLAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1249 M. BARNES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1250 D. BAKER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1251 B. FREEMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1252 L. BOLDEN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1253 B. ELWELL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1254 D. BREINES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1255 M. MAYER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1256 C. STEINER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1257 D. SCANNELL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1258 L. DONOHUE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1259 J. POHAS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1260 M. SOUZA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1261 K. WYLES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1262 C. SORENSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1263 J. MILLER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1264 S. JONES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1265 K. RAFTIS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1266 J. HIGGINS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1267 S. PURDY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1268 D. GIUNTA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1269 D. CLAFFEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1270 E. PLACE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1271 K. WIESNER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1272 B. ANTON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1273 D. KING
+
+Kliento ID Klientas
+---------- ------------------------------
+      1274 J. DAIGLE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1275 M. HOLLAND
+
+Kliento ID Klientas
+---------- ------------------------------
+      1276 C. MEYAARD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1277 J. PEDUTO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1278 S. BARRY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1279 D. HERMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1280 S. PALMER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1281 R. WIRTH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1282 J. RUCK
+
+Kliento ID Klientas
+---------- ------------------------------
+      1283 M. CISTERNA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1284 P. LAUB
+
+Kliento ID Klientas
+---------- ------------------------------
+      1285 L. GARCIA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1286 P. NEFF
+
+Kliento ID Klientas
+---------- ------------------------------
+      1287 T. RAVENS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1288 R. JOSEPH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1289 G. BERGMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1290 C. LONG
+
+Kliento ID Klientas
+---------- ------------------------------
+      1291 C. DENNIS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1292 E. SELDIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1293 J. KATZ
+
+Kliento ID Klientas
+---------- ------------------------------
+      1294 A. PEREIRA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1295 T. SPRAGUE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1296 T. OCONNOR
+
+Kliento ID Klientas
+---------- ------------------------------
+      1297 D. CORREIA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1298 J. AMARAL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1299 D. DIVECCHIO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1300 G. HOFFMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1301 J. MEDEIROS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1302 U. ARRUDA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1303 J. ANDRADE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1304 M. MCDONALD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1305 A. LUIS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1306 P. SINGH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1307 H. ZHOU
+
+Kliento ID Klientas
+---------- ------------------------------
+      1308 R. ALBARENGA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1309 G. CORREAI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1310 K. GIBSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1311 J. STURM
+
+Kliento ID Klientas
+---------- ------------------------------
+      1312 V. VOLCY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1313 F. KILFOYLE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1314 W. VIZARD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1315 D. DIZIO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1316 N. DESROSIERS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1317 B. ARMSTRONG
+
+Kliento ID Klientas
+---------- ------------------------------
+      1318 M. GHABRIAL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1319 V. WHELAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1320 L. YOUNG
+
+Kliento ID Klientas
+---------- ------------------------------
+      1321 M. KINBERG
+
+Kliento ID Klientas
+---------- ------------------------------
+      1322 J. SUN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1323 G. YUNDT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1324 C. KASHNOR
+
+Kliento ID Klientas
+---------- ------------------------------
+      1325 A. REINERT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1326 E. RUBIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1327 T. SIEFERT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1328 L. SCHONBERGER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1329 R. CONLON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1330 R. NESSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1331 J. TOLLIVER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1332 Y. JIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1333 Z. MESSERSMITH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1334 G. DASILVA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1335 J. SAINTINE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1336 N. RUBIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1337 D. LAM
+
+Kliento ID Klientas
+---------- ------------------------------
+      1338 K. WHELAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1339 C. TRUESDELL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1340 B. HUME
+
+Kliento ID Klientas
+---------- ------------------------------
+      1341 A. CHOWDHURY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1342 E. CASCIO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1343 A. JOHNSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1344 D. ASHLEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1345 N. BURGO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1346 E. EDEL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1347 B. HEADLEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1348 J. DARRAH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1349 J. SOHN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1350 R. DEMIDCHUK
+
+Kliento ID Klientas
+---------- ------------------------------
+      1351 A. LAROCCA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1352 T. DENKEWICZ
+
+Kliento ID Klientas
+---------- ------------------------------
+      1353 K. MENLHA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1354 P. MAHONEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1355 L. BUCHANAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1356 Y. SHIEH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1357 A. CHOU
+
+Kliento ID Klientas
+---------- ------------------------------
+      1358 R. FLANAGAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1359 L. ACEVEDO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1360 L. LANGNER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1361 L. LANGER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1362 C. DIPIETRANTONIO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1363 M. MCGEE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1364 S. AHAFI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1365 E. GARCIA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1366 S. HALLORAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1367 R. RABOUIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1368 A. PRASAD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1369 A. CANTRELL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1370 A. RIVERA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1371 L. BROWNE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1372 M. OCONNOR
+
+Kliento ID Klientas
+---------- ------------------------------
+      1373 V. MATHIAS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1374 T. WILLIAMS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1375 L. SMITH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1376 D. MITCHELL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1377 J. ZAHRADNIK
+
+Kliento ID Klientas
+---------- ------------------------------
+      1378 J. DEMANCHE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1379 P. ENDERS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1380 S. MENDELSOHN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1381 J. HAUSER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1382 P. ABERNATHY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1383 R. WEBER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1384 W. INGERSOLL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1385 K. LASSOVSZKY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1386 D. GERVAIS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1387 J. GOMEZ
+
+Kliento ID Klientas
+---------- ------------------------------
+      1388 I. DEMARCO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1389 A. SUBRAMANIAM
+
+Kliento ID Klientas
+---------- ------------------------------
+      1390 J. SHEFF
+
+Kliento ID Klientas
+---------- ------------------------------
+      1391 R. BOUSQUET
+
+Kliento ID Klientas
+---------- ------------------------------
+      1392 D. HERON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1393 B. GADELHA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1394 L. HARVEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1395 L. DESROCHES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1396 J. GOODSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1397 P. GOODWIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1398 M. MCKENNA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1399 D. SMALL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1400 R. INGRIA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1401 L. CONRAD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1402 F. NYE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1403 A. TELLER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1404 E. BOLDEN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1405 M. BRADSHAW
+
+Kliento ID Klientas
+---------- ------------------------------
+      1406 C. FOTI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1407 S. TAYCHER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1408 J. CAMERON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1409 J. BRISBANE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1410 O. COWICK
+
+Kliento ID Klientas
+---------- ------------------------------
+      1411 M. NOVESKA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1412 A. ALI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1413 J. SPILEWSKI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1414 C. ROMANSKI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1415 R. MCLEAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1416 E. EDOUARD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1417 C. MULLANE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1418 D. PIERRE-LOUIS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1419 P. BRENNAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1420 M. BUGGS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1421 M. KING
+
+Kliento ID Klientas
+---------- ------------------------------
+      1422 L. BROCK
+
+Kliento ID Klientas
+---------- ------------------------------
+      1423 B. JOHNSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1424 G. CARPENTER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1425 B. BANKS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1426 J. STACKIEWICZ
+
+Kliento ID Klientas
+---------- ------------------------------
+      1427 B. SANDERS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1428 S. MISHRA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1429 E. GREGER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1430 M. BAUMANN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1431 J. SANDS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1432 J. ANTOUN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1433 H. WHITE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1434 D. LARABEE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1435 H. MAHONEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1436 K. UKRAINE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1437 S. BUCKLEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1438 C. MANNING
+
+Kliento ID Klientas
+---------- ------------------------------
+      1439 F. JOHNSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1440 P. LEWIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1441 J. SMYTHE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1442 P. LEVIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1443 A. KILPATRICK
+
+Kliento ID Klientas
+---------- ------------------------------
+      1444 F. GARDINER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1445 D. PANTON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1446 J. MCCLOSKEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1447 D. SMITH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1448 C. CAVALIERE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1449 J. HORAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1450 D. SHANE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1451 L. FLANAGAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1452 B. SAXBERG
+
+Kliento ID Klientas
+---------- ------------------------------
+      1453 J. FISKE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1454 J. GRAY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1455 G. SAVER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1456 M. DONOVAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1457 J. HALLINAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1458 N. NEWTON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1459 S. DAVIS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1460 L. DAVENPORT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1461 M. HAMER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1462 R. MURPHY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1463 D. LUDLUM
+
+Kliento ID Klientas
+---------- ------------------------------
+      1464 F. MONKIEWICZ
+
+Kliento ID Klientas
+---------- ------------------------------
+      1465 K. MACLEAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1466 S. KOSTA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1467 S. HACKETT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1468 K. GUNST
+
+Kliento ID Klientas
+---------- ------------------------------
+      1469 I. GRINS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1470 J. GREGG
+
+Kliento ID Klientas
+---------- ------------------------------
+      1471 S. OHMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1472 M. JARVIS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1473 J. LEWIS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1474 J. GORDON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1475 P. MARKOVICH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1476 S. LEE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1477 M. JAMES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1478 E. GLENDON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1479 E. GLASFELD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1480 W. PAYNE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1481 O. HUSSAIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1482 R. PETRELLA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1483 R. SMITH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1484 M. YEATES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1485 D. SPEARMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1486 P. RAFTERY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1487 D. GALLUP
+
+Kliento ID Klientas
+---------- ------------------------------
+      1488 A. GAER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1489 R. REISS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1490 M. ASANO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1491 S. SPILLERS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1492 S. WOLF
+
+Kliento ID Klientas
+---------- ------------------------------
+      1493 L. WILLIAMS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1494 M. FIFE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1495 P. ROBERTS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1496 J. EBLES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1497 J. ROCA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1498 R. BAKER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1499 A. BECKETT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1500 K. ROSNER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1501 J. BENDA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1502 L. SHIRLEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1503 D. WALSH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1504 J. VOLPE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1505 A. CRANE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1506 C. BEYCHOK
+
+Kliento ID Klientas
+---------- ------------------------------
+      1507 L. SHIREY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1508 D. SAWHNEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1509 N. SCHNEIDER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1510 J. VARELA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1511 J. BLATCHLEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1512 J. CHARNY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1513 E. CONWAY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1514 M. BLOUNT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1515 M. TOLPIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1516 K. TOBIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1517 D. BORUCHOFF
+
+Kliento ID Klientas
+---------- ------------------------------
+      1518 C. SWEENEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1519 D. STEFFENS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1520 L. SCRIVEN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1521 A. HAUS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1522 R. NERI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1523 M. GRAHAM
+
+Kliento ID Klientas
+---------- ------------------------------
+      1524 C. CATANZANO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1525 D. FOLEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1526 J. SMITH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1527 D. GAMMONS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1528 K. WHITTFORD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1529 R. MARKHAM
+
+Kliento ID Klientas
+---------- ------------------------------
+      1530 K. CASEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1531 D. BINDER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1532 L. KIANSTEN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1533 B. ALDRIDGE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1534 M. MACKIEWICZ
+
+Kliento ID Klientas
+---------- ------------------------------
+      1535 M. KANE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1536 T. BREWITT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1537 S. WHITE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1538 S. LYONS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1539 A. LESHKOWICH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1540 N. BERGER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1541 R. OYAMA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1542 A. LIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1543 J. SHEA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1544 X. WANG
+
+Kliento ID Klientas
+---------- ------------------------------
+      1545 K. MAGOON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1546 J. HERRMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1547 L. HOWARD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1548 U. HUERTA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1549 C. SCOTT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1550 W. SCHOPPERLE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1551 G. CARRINGTON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1552 M. VIOLETTE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1553 W. VOLMUT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1554 A. BRECKER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1555 A. CASILLAS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1556 L. GILLIM
+
+Kliento ID Klientas
+---------- ------------------------------
+      1557 M. PANOFSKY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1558 R. GOLDMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1559 M. HALL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1560 E. ANDERSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1561 C. LANDY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1562 G. ANDREWS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1563 R. CAJINA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1564 E. HARDING
+
+Kliento ID Klientas
+---------- ------------------------------
+      1565 R. GULDEN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1566 K. BRANLEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1567 A. SHEALS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1568 D. SHAPIRO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1569 E. ZUCKER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1570 C. MCLAUGHLIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1571 F. WHITTLESEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1572 M. MULLICK
+
+Kliento ID Klientas
+---------- ------------------------------
+      1573 J. MCDERMOTT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1574 T. CONNOR
+
+Kliento ID Klientas
+---------- ------------------------------
+      1575 F. CORNELIO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1576 A. NORMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1577 A. ALASSAAD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1578 K. HERTHER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1579 M. KIRMANI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1580 C. HOLMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1581 D. FICI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1582 M. ALEXANDER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1583 D. SECOR
+
+Kliento ID Klientas
+---------- ------------------------------
+      1584 D. MCGOWAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1585 M. HOFFMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1586 T. GALLIGANI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1587 P. WHITACRE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1588 B. ONG
+
+Kliento ID Klientas
+---------- ------------------------------
+      1589 A. HAMMOND
+
+Kliento ID Klientas
+---------- ------------------------------
+      1590 D. KLIPP
+
+Kliento ID Klientas
+---------- ------------------------------
+      1591 B. CAMPBELL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1592 M. RANALLI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1593 K. GARRISON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1594 M. WILLARD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1595 P. MURPHY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1596 M. BRAMLEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1597 P. VALLEE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1598 S. ZETES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1599 M. CASIPIT JR
+
+Kliento ID Klientas
+---------- ------------------------------
+      1600 J. HARPER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1601 D. MACDONALD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1602 H. OLIVERA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1603 A. ANAEBONAM
+
+Kliento ID Klientas
+---------- ------------------------------
+      1604 M. BAKER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1605 R. DITUCCI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1606 J. LIGHTFOOT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1607 A. WHITAKER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1608 E. SMITH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1609 J. JENDRUCZEK
+
+Kliento ID Klientas
+---------- ------------------------------
+      1610 M. FREAS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1611 K. SHERMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1612 M. CLEMENTE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1613 P. SARACENO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1614 J. FITICCHY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1615 W. WAYNE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1616 J. STRONG
+
+Kliento ID Klientas
+---------- ------------------------------
+      1617 D. HERBERT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1618 B. THOMSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1619 C. MOGAURO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1620 K. SPILLER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1621 R. SHOATE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1622 S. SWIDERSKI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1623 H. BUTT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1624 D. SULLIVAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1625 H. YAMAMOTO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1626 D. ANDREATTA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1627 J. MILLER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1628 K. KAYEMBA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1629 D. PETRAS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1630 M. EFFAT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1631 G. WISEMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1632 W. TREU
+
+Kliento ID Klientas
+---------- ------------------------------
+      1633 S. FENNELLY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1634 M. HERZBERG
+
+Kliento ID Klientas
+---------- ------------------------------
+      1635 T. OUELLETTE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1636 B. DUFFY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1637 L. PATTELENA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1638 J. HAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1639 L. ORGANISAK
+
+Kliento ID Klientas
+---------- ------------------------------
+      1640 L. HAMMOND
+
+Kliento ID Klientas
+---------- ------------------------------
+      1641 C. PRICE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1642 P. TOWNSEND
+
+Kliento ID Klientas
+---------- ------------------------------
+      1643 B. RAY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1644 D. PIACITELLI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1645 D. ZANI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1646 V. HATCHER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1647 N. ROESENER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1648 D. HALE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1649 F. WINDOLOSKI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1650 J. FINN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1651 D. SCHEIFLER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1652 D. VITTGLIO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1653 S. LAVOYE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1654 W. CHAO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1655 D. PETZOLDT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1656 J. HANSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1657 P. BOVE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1658 T. TEMPLE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1659 D. CUSHING
+
+Kliento ID Klientas
+---------- ------------------------------
+      1660 M. BIGELOW
+
+Kliento ID Klientas
+---------- ------------------------------
+      1661 D. MCNAMARA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1662 F. ALEXANDER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1663 P. MANNIKKO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1664 E. VIEIRA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1665 T. KABASAKALIAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1666 B. KIM
+
+Kliento ID Klientas
+---------- ------------------------------
+      1667 J. BARNES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1668 J. MCKEARNEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1669 A. SHEIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1670 S. TESTER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1671 A. CAPOSSELA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1672 R. GILSTRAP
+
+Kliento ID Klientas
+---------- ------------------------------
+      1673 R. BOURA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1674 R. MEHRA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1675 W. KELLEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1676 A. RUDD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1677 S. HATANO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1678 S. WHITTINGTON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1679 J. FULCINITI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1680 S. LALIBERTE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1681 L. BATTAGLINI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1682 M. MITCHELL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1683 G. MONTEMAYOR
+
+Kliento ID Klientas
+---------- ------------------------------
+      1684 L. RICCIO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1685 J. HAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1686 K. BETTENCOURT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1687 M. DEFILIPPO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1688 N. SHAH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1689 K. REDDEN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1690 S. SEEREERAM
+
+Kliento ID Klientas
+---------- ------------------------------
+      1691 G. ALLEN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1692 M. TEAL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1693 P. MULLALLY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1694 P. HALFELDER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1695 N. SHAFI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1696 M. KAREEM
+
+Kliento ID Klientas
+---------- ------------------------------
+      1697 M. CHRISTIANSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1698 B. GORDON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1699 T. BAILOT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1700 J. SWANSTROM
+
+Kliento ID Klientas
+---------- ------------------------------
+      1701 M. SZETO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1702 B. LARKIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1703 T. WILGA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1704 K. TIGGES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1705 S. STEC
+
+Kliento ID Klientas
+---------- ------------------------------
+      1706 E. WEISS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1707 S. COLE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1708 J. POISSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1709 A. GINDY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1710 C. SPLETE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1711 C. FASO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1712 J. OSTLER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1713 R. HAYES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1714 P. WINSLOW
+
+Kliento ID Klientas
+---------- ------------------------------
+      1715 J. SMITH JR
+
+Kliento ID Klientas
+---------- ------------------------------
+      1716 A. KRISHNAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1717 K. GIBBONS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1718 F. GOLDSTEIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1719 L. GAGNE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1720 K. SORBER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1721 P. KRAUSE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1722 A. RINALDI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1723 D. LYNCH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1724 C. BLOUNT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1725 D. GRIMMITT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1726 A. STEVENSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1727 M. FRANZ
+
+Kliento ID Klientas
+---------- ------------------------------
+      1728 J. MACKINNON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1729 J. BARRETT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1730 R. SIVAKUMARAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1731 L. GAGNON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1732 R. ENGLAND
+
+Kliento ID Klientas
+---------- ------------------------------
+      1733 B. DOLLARD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1734 P. LANG
+
+Kliento ID Klientas
+---------- ------------------------------
+      1735 R. BALLARD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1736 I. MICHELSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1737 V. JAYAASHREE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1738 M. HAYS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1739 G. CHAUNCEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1740 A. WHEATON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1741 M. MCCLOUD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1742 R. BOYD. II
+
+Kliento ID Klientas
+---------- ------------------------------
+      1743 H. FERGUSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1744 P. STRAIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1745 B. GLADDEN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1746 L. HENRY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1747 T. BOILEAU
+
+Kliento ID Klientas
+---------- ------------------------------
+      1748 T. MCCAULEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1749 R. GRAF
+
+Kliento ID Klientas
+---------- ------------------------------
+      1750 D. GREENWALD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1751 D. MCCAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1752 D. HAYDUK
+
+Kliento ID Klientas
+---------- ------------------------------
+      1753 R. LAGOS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1754 J. DELANCEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1755 B. ROBINSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1756 C. ULLOA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1757 D. STEELE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1758 M. SMITH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1759 L. VIENS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1760 J. GINSBURG
+
+Kliento ID Klientas
+---------- ------------------------------
+      1761 O. PINEDA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1762 M. MCINNIS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1763 J. APPLEYARD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1764 J. ZORRILLA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1765 D. MORIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1766 E. KAYE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1767 J. MALDONADO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1768 I. HAGANCOPELAND
+
+Kliento ID Klientas
+---------- ------------------------------
+      1769 M. SOVANSKY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1770 J. PALLAIS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1771 D. WRIGHT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1772 R. MCCULLEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1773 L. SHEA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1774 S. GRIFFITH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1775 S. GLOTT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1776 R. BURCHILL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1777 W. GLASSHUSAIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1778 W. DOCKERY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1779 M. AZURDIA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1780 F. MOREL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1781 I. GEVIRTZ
+
+Kliento ID Klientas
+---------- ------------------------------
+      1782 J. HALLISEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1783 A. HOFFMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1784 E. BELOSTOCK
+
+Kliento ID Klientas
+---------- ------------------------------
+      1785 A. FERRIS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1786 J. RIDDICK
+
+Kliento ID Klientas
+---------- ------------------------------
+      1787 J. REINART
+
+Kliento ID Klientas
+---------- ------------------------------
+      1788 B. LEAHY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1789 E. THEODOSIOU
+
+Kliento ID Klientas
+---------- ------------------------------
+      1790 L. FARRIS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1791 A. PELLETIER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1792 T. LOFGREN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1793 W. RAILA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1794 N. HASELBACHER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1795 J. PERLMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1796 L. WEBB
+
+Kliento ID Klientas
+---------- ------------------------------
+      1797 K. MCCARTHY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1798 P. SANTOS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1799 A. CORMIER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1800 T. DINH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1801 M. RICARDO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1802 N. LINARES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1803 J. COUTO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1804 C. JOHNSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1805 A. MANGANIELLO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1806 E. DONNER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1807 D. DEFRANCISCO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1808 N. ENOS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1809 J. BROWN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1810 S. HERSCOVICI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1811 T. BARE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1812 E. BUTT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1813 M. MEYERS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1814 J. CROLL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1815 L. DUNN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1816 C. CORCIONE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1817 M. PEREIRA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1818 D. BUDGELL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1819 S. CHRISTY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1820 A. KAZLOWSKI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1821 H. POCIUS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1822 P. CARREIRO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1823 A. BRAZ
+
+Kliento ID Klientas
+---------- ------------------------------
+      1824 S. LEMONT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1825 M. MACDOLALD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1826 M. CARDOSO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1827 I. NETO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1828 C. OLIVEIRA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1829 M. LEVINE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1830 T. BOUDREAU
+
+Kliento ID Klientas
+---------- ------------------------------
+      1831 A. WOODWARD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1832 A. DRAPER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1833 R. GRAHAM
+
+Kliento ID Klientas
+---------- ------------------------------
+      1834 S. PAIVA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1835 L. VISCO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1836 F. BERNARD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1837 R. KULIKOVSKY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1838 A. CAZEAU
+
+Kliento ID Klientas
+---------- ------------------------------
+      1839 S. LEPERA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1840 K. KEEGAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1841 R. MCCARTER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1842 P. MARCUS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1843 C. PEREZ
+
+Kliento ID Klientas
+---------- ------------------------------
+      1844 F. CABRAL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1845 E. COUTO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1846 J. RESENDES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1847 J. DASILVA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1848 H. DORICENT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1849 A. HILAIRE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1850 L. LAMBERT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1851 R. PRATT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1852 J. SOLOMON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1853 C. CHEN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1854 N. HOPKINS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1855 D. HENRY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1856 J. THOMPSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1857 J. SOLOMON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1858 A. MELLO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1859 R. SCOTT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1860 R. VALCIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1861 J. DORCUES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1862 C. RODENE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1863 H. GARCIA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1864 J. PONTES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1865 L. CARREIRO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1866 F. CAPPUCCI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1867 A. FONTES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1868 C. OLIVEIRA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1869 E. DACOSTA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1870 D. CABRAL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1871 J. CABRAL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1872 A. DACOSTA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1873 T. SIEBER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1874 S. NICHOLAS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1875 A. CARREIRA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1876 M. BITTENCOURT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1877 M. RIVERA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1878 S. PROSTERMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1879 H. HSU
+
+Kliento ID Klientas
+---------- ------------------------------
+      1880 A. MELO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1881 A. RAPOSO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1882 P. MEDEIROS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1883 M. PAIVA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1884 O. SOUSA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1885 B. RODRIGUES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1886 J. CORREIA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1887 E. MILLARD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1888 M. FIGUEIREDO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1889 R. SMITH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1890 A. RIBEIRO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1891 R. WARFIELD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1892 J. SOUZA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1893 J. RIBERIO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1894 M. RIBEIRO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1895 F. ROMEREIRO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1896 V. NEIMERCK
+
+Kliento ID Klientas
+---------- ------------------------------
+      1897 C. EATON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1898 K. SUN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1899 G. BROWN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1900 D. ROBINSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1901 E. BURKE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1902 V. JONES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1903 T. JONES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1904 P. JONES
+
+Kliento ID Klientas
+---------- ------------------------------
+      1905 S. HAMM
+
+Kliento ID Klientas
+---------- ------------------------------
+      1906 M. AURELIEN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1907 M. ACUELIAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1908 J. HERNADEZ
+
+Kliento ID Klientas
+---------- ------------------------------
+      1909 S. MARTIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1910 D. RIBEIRO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1911 J. HUTCHINGS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1912 W. ROOT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1913 D. YOUNG
+
+Kliento ID Klientas
+---------- ------------------------------
+      1914 H. KELLEHER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1915 J. REED
+
+Kliento ID Klientas
+---------- ------------------------------
+      1916 S. KELLER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1917 C. MYERS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1918 G. YANCEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1919 Q. JAY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1920 M. SEAWELL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1921 M. KEUMURIAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1922 O. THOMPSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1923 T. BROWNE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1924 M. LEWIS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1925 R. BORDON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1926 J. SENAT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1927 A. JEANLOUIS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1928 L. GERMAIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1929 M. BERLUS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1930 K. KOSIENSKI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1931 J. DELANEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1932 D. PALLADINO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1933 M. GREGORY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1934 M. RANSLEM
+
+Kliento ID Klientas
+---------- ------------------------------
+      1935 A. BACHELLER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1936 B. HUI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1937 P. MATTHEWS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1938 V. CARINELLI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1939 N. MARQUEZ
+
+Kliento ID Klientas
+---------- ------------------------------
+      1940 M. TSETSEN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1941 A. LITTLE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1942 F. BARTON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1943 L. MACLELLAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1944 I. BOUGHTON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1945 H. AUGUSTIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1946 D. KELLAR
+
+Kliento ID Klientas
+---------- ------------------------------
+      1947 D. BUFANO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1948 L. NELSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1949 C. LAURENT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1950 M. LENNON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1951 J. JANOTA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1952 C. KAYLOR
+
+Kliento ID Klientas
+---------- ------------------------------
+      1953 R. BOHLIG
+
+Kliento ID Klientas
+---------- ------------------------------
+      1954 D. GEORGE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1955 D. MURPHY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1956 B. DAVIS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1957 W. MCCARTHY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1958 E. LEVIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1959 K. STAPLETON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1960 T. COHEN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1961 J. SMITH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1962 A. JANKAUSKAS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1963 R. HESS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1964 F. VALENTE
+
+Kliento ID Klientas
+---------- ------------------------------
+      1965 D. DYER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1966 G. MORRISON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1967 R. MURRY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1968 E. COSTA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1969 S. SAUTER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1970 K. BRANCO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1971 A. MBUVI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1972 L. TRAVASSOS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1973 M. MAHONEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1974 L. WHALEN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1975 W. KILBRETH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1976 C. MOSCOWITZ
+
+Kliento ID Klientas
+---------- ------------------------------
+      1977 B. NEUBAUER
+
+Kliento ID Klientas
+---------- ------------------------------
+      1978 J. CASWELL
+
+Kliento ID Klientas
+---------- ------------------------------
+      1979 G. FRANCOIS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1980 R. BERNARD
+
+Kliento ID Klientas
+---------- ------------------------------
+      1981 J. GERWIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1982 A. IOCAVAZZI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1983 N. FRESCO
+
+Kliento ID Klientas
+---------- ------------------------------
+      1984 M. JACKSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      1985 D. SLANEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1986 J. SOLINSKY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1987 C. SANTOS
+
+Kliento ID Klientas
+---------- ------------------------------
+      1988 J. MCCAUGHEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      1989 E. DIFRANZA
+
+Kliento ID Klientas
+---------- ------------------------------
+      1990 V. TALLAND
+
+Kliento ID Klientas
+---------- ------------------------------
+      1991 C. BENT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1992 J. TRIPLETT
+
+Kliento ID Klientas
+---------- ------------------------------
+      1993 T. MINOTTI
+
+Kliento ID Klientas
+---------- ------------------------------
+      1994 O. SMITH
+
+Kliento ID Klientas
+---------- ------------------------------
+      1995 A. GALOWITZ
+
+Kliento ID Klientas
+---------- ------------------------------
+      1996 K. PANHORST
+
+Kliento ID Klientas
+---------- ------------------------------
+      1997 W. SCHULZ
+
+Kliento ID Klientas
+---------- ------------------------------
+      1998 R. HASSAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      1999 B. DUMAS
+
+Kliento ID Klientas
+---------- ------------------------------
+      2000 M. KAPOPOULOS
+
+Kliento ID Klientas
+---------- ------------------------------
+      2001 C. PIERCE
+
+Kliento ID Klientas
+---------- ------------------------------
+      2002 C. BRUNO
+
+Kliento ID Klientas
+---------- ------------------------------
+      2003 M. CARLSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      2004 H. SCHIFFMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      2005 S. TURBAK
+
+Kliento ID Klientas
+---------- ------------------------------
+      2006 S. MULLEN
+
+Kliento ID Klientas
+---------- ------------------------------
+      2007 S. MULLIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      2008 B. TURK
+
+Kliento ID Klientas
+---------- ------------------------------
+      2009 E. FITCH
+
+Kliento ID Klientas
+---------- ------------------------------
+      2010 D. STRAIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      2011 S. PADGETT
+
+Kliento ID Klientas
+---------- ------------------------------
+      2012 M. FERRER
+
+Kliento ID Klientas
+---------- ------------------------------
+      2013 J. OREGAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      2014 B. NOLTE
+
+Kliento ID Klientas
+---------- ------------------------------
+      2015 H. CATALDO
+
+Kliento ID Klientas
+---------- ------------------------------
+      2016 N. LAWRENCE
+
+Kliento ID Klientas
+---------- ------------------------------
+      2017 A. MOTCH
+
+Kliento ID Klientas
+---------- ------------------------------
+      2018 D. LABENSKI
+
+Kliento ID Klientas
+---------- ------------------------------
+      2019 A. KACZUR
+
+Kliento ID Klientas
+---------- ------------------------------
+      2020 J. ROGERS
+
+Kliento ID Klientas
+---------- ------------------------------
+      2021 D. CROWLEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      2022 R. FAAS
+
+Kliento ID Klientas
+---------- ------------------------------
+      2023 C. MCMAHON
+
+Kliento ID Klientas
+---------- ------------------------------
+      2024 P. RILEY
+
+Kliento ID Klientas
+---------- ------------------------------
+      2025 J. MANN
+
+Kliento ID Klientas
+---------- ------------------------------
+      2026 W. FITZGERALD
+
+Kliento ID Klientas
+---------- ------------------------------
+      2027 M. KILCOMMONS
+
+Kliento ID Klientas
+---------- ------------------------------
+      2028 M. SPERA
+
+Kliento ID Klientas
+---------- ------------------------------
+      2029 F. BORGES
+
+Kliento ID Klientas
+---------- ------------------------------
+      2030 C. LEAL
+
+Kliento ID Klientas
+---------- ------------------------------
+      2031 F. BISBEE
+
+Kliento ID Klientas
+---------- ------------------------------
+      2032 L. TORRES
+
+Kliento ID Klientas
+---------- ------------------------------
+      2033 K. GREGORY
+
+Kliento ID Klientas
+---------- ------------------------------
+      2034 J. PAVIDIS
+
+Kliento ID Klientas
+---------- ------------------------------
+      2035 D. LASSITER
+
+Kliento ID Klientas
+---------- ------------------------------
+      2036 C. SOUSA
+
+Kliento ID Klientas
+---------- ------------------------------
+      2037 W. FALTER
+
+Kliento ID Klientas
+---------- ------------------------------
+      2038 A. AIGUIER
+
+Kliento ID Klientas
+---------- ------------------------------
+      2039 A. GALLINARO
+
+Kliento ID Klientas
+---------- ------------------------------
+      2040 A. MATSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      2041 A. KRAZESKY
+
+Kliento ID Klientas
+---------- ------------------------------
+      2042 J. WOLK
+
+Kliento ID Klientas
+---------- ------------------------------
+      2043 A. MEUCCI
+
+Kliento ID Klientas
+---------- ------------------------------
+      2044 J. VICENTE
+
+Kliento ID Klientas
+---------- ------------------------------
+      2045 M. DIAS
+
+Kliento ID Klientas
+---------- ------------------------------
+      2046 R. SOUZA
+
+Kliento ID Klientas
+---------- ------------------------------
+      2047 W. MELLO
+
+Kliento ID Klientas
+---------- ------------------------------
+      2048 M. FERNENDEZ
+
+Kliento ID Klientas
+---------- ------------------------------
+      2049 A. DEJESUS
+
+Kliento ID Klientas
+---------- ------------------------------
+      2050 M. CONCEISON
+
+Kliento ID Klientas
+---------- ------------------------------
+      2051 J. TORRES
+
+Kliento ID Klientas
+---------- ------------------------------
+      2052 M. GARCIA
+
+Kliento ID Klientas
+---------- ------------------------------
+      2053 A. MENDONCA
+
+Kliento ID Klientas
+---------- ------------------------------
+      2054 R. FORD
+
+Kliento ID Klientas
+---------- ------------------------------
+      2055 J. REMY
+
+Kliento ID Klientas
+---------- ------------------------------
+      2056 R. BOONE
+
+Kliento ID Klientas
+---------- ------------------------------
+      2057 A. HUGHES
+
+Kliento ID Klientas
+---------- ------------------------------
+      2058 E. FERRY
+
+Kliento ID Klientas
+---------- ------------------------------
+      2059 M. SILVA
+
+Kliento ID Klientas
+---------- ------------------------------
+      2060 I. KONEFAL
+
+Kliento ID Klientas
+---------- ------------------------------
+      2061 L. MCKENNA
+
+Kliento ID Klientas
+---------- ------------------------------
+      2062 M. BURNETTE
+
+Kliento ID Klientas
+---------- ------------------------------
+      2063 B. EDWARD
+
+Kliento ID Klientas
+---------- ------------------------------
+      2064 P. NJUE
+
+Kliento ID Klientas
+---------- ------------------------------
+      2065 D. CHILONGOZI
+
+Kliento ID Klientas
+---------- ------------------------------
+      2066 K. GILSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      2067 D. LOCKWOOD
+
+Kliento ID Klientas
+---------- ------------------------------
+      2068 C. PARDODEZELA
+
+Kliento ID Klientas
+---------- ------------------------------
+      2069 C. CARLETON
+
+Kliento ID Klientas
+---------- ------------------------------
+      2070 F. GRIEM
+
+Kliento ID Klientas
+---------- ------------------------------
+      2071 P. MATZ
+
+Kliento ID Klientas
+---------- ------------------------------
+      2072 A. VENO
+
+Kliento ID Klientas
+---------- ------------------------------
+      2073 D. GROUT
+
+Kliento ID Klientas
+---------- ------------------------------
+      2074 M. RUTZ
+
+Kliento ID Klientas
+---------- ------------------------------
+      2075 A. TRICHARD
+
+Kliento ID Klientas
+---------- ------------------------------
+      2076 R. HARDWAY
+
+Kliento ID Klientas
+---------- ------------------------------
+      2077 S. ROTH
+
+Kliento ID Klientas
+---------- ------------------------------
+      2078 D. HANIG
+
+Kliento ID Klientas
+---------- ------------------------------
+      2079 R. HAMILTON
+
+Kliento ID Klientas
+---------- ------------------------------
+      2080 N. NELSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      2081 A. FOSTER
+
+Kliento ID Klientas
+---------- ------------------------------
+      2082 M. ZAPF
+
+Kliento ID Klientas
+---------- ------------------------------
+      2083 G. RAHAL
+
+Kliento ID Klientas
+---------- ------------------------------
+      2084 M. WERTELET
+
+Kliento ID Klientas
+---------- ------------------------------
+      2085 H. HUGHES
+
+Kliento ID Klientas
+---------- ------------------------------
+      2086 D. GEORGOPULOS
+
+Kliento ID Klientas
+---------- ------------------------------
+      2087 J. STEIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      2088 P. TRUNNELL
+
+Kliento ID Klientas
+---------- ------------------------------
+      2089 J. FRANZEN
+
+Kliento ID Klientas
+---------- ------------------------------
+      2090 A. MOORE
+
+Kliento ID Klientas
+---------- ------------------------------
+      2091 D. WOODS
+
+Kliento ID Klientas
+---------- ------------------------------
+      2092 L. FRIEDMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      2093 M. ROY
+
+Kliento ID Klientas
+---------- ------------------------------
+      2094 J. KELSO
+
+Kliento ID Klientas
+---------- ------------------------------
+      2095 M. BUSSE
+
+Kliento ID Klientas
+---------- ------------------------------
+      2096 M. JOHNSON
+
+Kliento ID Klientas
+---------- ------------------------------
+      2097 P. NEWPORT
+
+Kliento ID Klientas
+---------- ------------------------------
+      2098 J. ALBERT
+
+Kliento ID Klientas
+---------- ------------------------------
+      2099 J. BERZ
+
+Kliento ID Klientas
+---------- ------------------------------
+      2100 S. DOULAS
+
+Kliento ID Klientas
+---------- ------------------------------
+      2101 R. COLMAN
+
+Kliento ID Klientas
+---------- ------------------------------
+      2102 E. ABRAMS
+
+Kliento ID Klientas
+---------- ------------------------------
+      2103 A. MARTIN
+
+Kliento ID Klientas
+---------- ------------------------------
+      2104 S. LIU
+
+Kliento ID Klientas
+---------- ------------------------------
+      2105 G. ROMANO
+
+Kliento ID Klientas
+---------- ------------------------------
+      2106 A. ROCKWELL
+
+-------Amount
+
+  4'402.02
+  2'812.98
+ 23'504.59
+ 11'756.67
+ 15'126.78
+  1'829.50
+  6'337.38
+  4'104.00
+    251.26
+    771.59
+  3'990.23
+ 10'288.58
+  5'267.67
+    487.59
+  4'603.72
+    342.00
+  1'024.99
+ 14'530.46
+    981.60
+ 19'108.20
+    688.37
+  4'807.68
+  2'002.74
+  5'841.40
+  4'586.99
+  3'450.34
+    518.74
+  5'655.20
+    496.61
+  7'108.09
+  5'721.46
+  2'747.30
+  6'633.60
+  4'835.33
+  6'091.48
+    492.25
+  3'069.04
+  1'886.68
+  6'981.83
+  3'115.23
+  3'668.92
+  7'886.92
+    472.45
+  6'517.91
+  1'012.00
+ 29'762.58
+ 11'397.99
+  6'428.08
+  7'051.19
+    446.09
+  3'110.99
+  7'535.42
+  2'610.89
+  4'377.05
+  9'510.21
+    435.87
+  4'090.13
+  3'234.55
+  3'621.32
+  1'351.61
+  5'200.38
+ 17'502.95
+ 11'217.96
+ 26'912.81
+  4'193.10
+ 36'587.69
+    650.31
+  1'005.00
+ 14'513.86
+  8'668.27
+  6'050.70
+  5'638.75
+    569.80
+  1'550.79
+    950.40
+  4'329.98
+  4'803.08
+    184.00
+ 34'707.84
+  8'187.39
+  4'502.45
+  1'471.14
+ 11'975.88
+  4'975.62
+  3'824.11
+  3'727.24
+  5'084.64
+  5'658.34
+  2'072.63
+  7'166.87
+  8'704.73
+  2'906.87
+  4'977.34
+  4'928.73
+ 18'053.00
+  4'285.93
+  3'076.93
+  9'911.25
+    380.67
+  5'597.71
+    319.60
+  9'721.35
+  5'725.56
+  5'413.10
+    259.87
+  3'727.75
+  8'609.73
+ 10'866.06
+    241.55
+  3'389.44
+  2'420.80
+  4'742.60
+  4'038.31
+ 40'439.43
+  2'590.76
+ 19'075.61
+  2'952.42
+ 22'266.26
+  3'523.51
+  6'604.32
+    180.81
+    687.00
+  3'678.77
+  2'669.86
+     68.55
+  5'511.94
+ 10'055.51
+  2'850.73
+    117.81
+  9'146.38
+  3'365.70
+    541.75
+  1'367.35
+ 15'147.81
+  3'345.69
+  1'133.11
+  4'664.57
+ 14'780.25
+  5'489.02
+  6'677.82
+ 25'236.78
+    292.95
+  5'531.85
+ 23'947.60
+  4'953.75
+  4'605.91
+  6'302.15
+----------
+948'760.93    Suma
+ 40'439.43    Didžiausias
+     68.55    Mažiausias
