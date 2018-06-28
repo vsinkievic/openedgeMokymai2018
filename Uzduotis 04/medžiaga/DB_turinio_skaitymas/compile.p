@@ -1,0 +1,1 @@
+compile DB_turinio_skaitymas/find_unique.p  xref xref.txt.
