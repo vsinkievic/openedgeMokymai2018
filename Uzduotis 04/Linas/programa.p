@@ -1,7 +1,7 @@
 define variable cVardas as character no-undo.
 
 define stream saskaitos.
-output stream saskaitos to saskaitos.txt.
+output stream saskaitos to saskaitos.txt convert target "utf-8".
 
 for each Customer no-lock:
     
