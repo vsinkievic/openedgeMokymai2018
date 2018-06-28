@@ -17,17 +17,31 @@ input from names.txt.
 
 repeat:
     import unformatted cNameRecord.
+	cNameRecord = trim(cNameRecord).
+	do while index(cNameRecord, "  ") > 0:
+		cNameRecord = replace(cNameRecord, "  ", " ").
+	end.
+	isDoubleName = num-entries(cNameRecord, " ") > 1.
     if (substring(cNameRecord, LENGTH(cNameRecord))="s") then do:
         iMenCount = iMenCount + 1.
         export stream men cNameRecord.
-        if index(cNameRecord," ") > 0 then iMenNameCount = iMenNameCount + 1.
+        if isDoubleName then iMenNameCount = iMenNameCount + 1.
     end.
     else do:
         iWomenCount = iWomenCount + 1.
         export stream women cNameRecord.
-        if index(cNameRecord, " ") > 0 then iWomenNameCount = iWomenNameCount + 1.
+        if isDoubleName then iWomenNameCount = iWomenNameCount + 1.
     end.
     
+	do i = 1 to num-entries(cNameRecord,  " "):
+	    cFixedName = "".
+		cName = entry(i, cNameRecord, " ").
+		if cName = "va" then cFixedName = "vardas".
+		else if ...
+		
+		if cFixedName > ""
+		then entry(i, cNameRecord, " ") = cName.
+	end.
    cNameRecord = replace (cNameRecord, "Zigis", "Zigmantas").
    cNameRecord = replace (cNameRecord, "Ula", "Ûla").
    cNameRecord = replace (cNameRecord, "Azuolas", "Àþuolas").
