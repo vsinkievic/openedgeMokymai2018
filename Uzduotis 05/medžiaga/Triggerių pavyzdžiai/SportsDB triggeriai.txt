@@ -1,0 +1,4 @@
+Sports DB triggerius galima rasti kataloguose:
+C:\Progressx86\OpenEdge\sports2000trgs
+arba
+C:\Progress\OpenEdge\sports2000trgs
