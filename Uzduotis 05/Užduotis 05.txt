@@ -1,0 +1,8 @@
+Užduotis 05
+
+Savarankiškai:
+
+Student guide 1, Lesson 6, Creating, updating and deleting records
+Student guide 2, Appendix B, manging databases.
+
+Užduotis: sukurti tuščią DB, joje sukurti dvi lentelės: klientas (kodas, pavadinimas, bendra užsakymų suma, bendras užsakymų kiekis) ir užsakymas (numeris, data, pavadinimas, suma). Parašyti kelias programas kurios leistų įvesti naują klientą, išvestų visų klientų duomenis pradedant nuo tų, kurių užsakymų sumos didžiausios ir visus jų užsakymus; programą naujo užsakymo įvedimui, programa užsakymo keitimui, programą užsakymo trynimui. Atlikus bet kokius pakeitimus, klientų ataskaitą turi rodyti teisingus (vientisus) duomenis. Kliento kodą reikia įvesti pačiam, užsakymo numeris generuojamas sekvencijos (create trigger). Kliento bendra užsakymų suma turi būti perskaičiuojama iš triggerių. Programų kodą ir DB DF patalpinti į GIT.
