@@ -1,0 +1,115 @@
+ADD SEQUENCE "Id"
+  INITIAL 0
+  INCREMENT 1
+  CYCLE-ON-LIMIT no
+
+ADD TABLE "Customer"
+  AREA "Schema Area"
+  DUMP-NAME "customer"
+  TABLE-TRIGGER "CREATE" NO-OVERRIDE PROCEDURE "tr_customer_create" CRC "?" 
+
+ADD FIELD "Id" OF "Customer" AS integer 
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  LABEL "Kliento Nr."
+  POSITION 2
+  MAX-WIDTH 4
+  COLUMN-LABEL "Kliento Nr."
+  ORDER 10
+  MANDATORY
+  FIELD-TRIGGER "ASSIGN" NO-OVERRIDE PROCEDURE "tr_customerid" CRC "?" 
+
+ADD FIELD "Name" OF "Customer" AS character 
+  FORMAT "x(64)"
+  INITIAL ""
+  LABEL "Pavadinimas"
+  POSITION 3
+  MAX-WIDTH 128
+  COLUMN-LABEL "Pavadinimas"
+  ORDER 20
+  MANDATORY
+  FIELD-TRIGGER "ASSIGN" NO-OVERRIDE PROCEDURE "tr_customername" CRC "?" 
+
+ADD FIELD "OrdersCount" OF "Customer" AS integer 
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  LABEL "Uþsakymø skaièius"
+  POSITION 4
+  MAX-WIDTH 4
+  COLUMN-LABEL "Uþsakymø skaièius"
+  ORDER 30
+  FIELD-TRIGGER "ASSIGN" NO-OVERRIDE PROCEDURE "tr_customerorderscount" CRC "?" 
+
+ADD FIELD "OrdersTotal" OF "Customer" AS decimal 
+  FORMAT "->>,>>9.99"
+  INITIAL "0"
+  LABEL "Uþsakymø suma"
+  POSITION 6
+  MAX-WIDTH 17
+  COLUMN-LABEL "Uþsakymø suma"
+  DECIMALS 2
+  ORDER 40
+  FIELD-TRIGGER "ASSIGN" NO-OVERRIDE PROCEDURE "tr_customer.orderstotal" CRC "?" 
+
+ADD INDEX "Id" ON "Customer" 
+  AREA "Schema Area"
+  UNIQUE
+  PRIMARY
+  INDEX-FIELD "Id" ASCENDING 
+
+ADD TABLE "Order"
+  AREA "Schema Area"
+  DUMP-NAME "order"
+  TABLE-TRIGGER "CREATE" NO-OVERRIDE PROCEDURE "tr_order_id" CRC "?" 
+  TABLE-TRIGGER "DELETE" NO-OVERRIDE PROCEDURE "tr_order_del.p" CRC "?" 
+  TABLE-TRIGGER "WRITE" NO-OVERRIDE PROCEDURE "tr_customer_update.p" CRC "?" 
+
+ADD FIELD "Id" OF "Order" AS integer 
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  LABEL "Nr."
+  POSITION 2
+  MAX-WIDTH 4
+  COLUMN-LABEL "Nr."
+  ORDER 10
+  MANDATORY
+
+ADD FIELD "Date" OF "Order" AS datetime 
+  FORMAT "9999-99-99"
+  INITIAL ?
+  LABEL "Data"
+  POSITION 3
+  MAX-WIDTH 8
+  COLUMN-LABEL "Data"
+  ORDER 20
+
+ADD FIELD "CustomerId" OF "Order" AS integer 
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  LABEL "Uþsakovo Nr."
+  POSITION 4
+  MAX-WIDTH 4
+  COLUMN-LABEL "Uþsakovo Nr."
+  ORDER 30
+
+ADD FIELD "Amount" OF "Order" AS decimal 
+  FORMAT "->>,>>9.99"
+  INITIAL "0"
+  LABEL "Suma"
+  POSITION 6
+  MAX-WIDTH 17
+  COLUMN-LABEL "Suma"
+  DECIMALS 2
+  ORDER 40
+
+ADD INDEX "Id" ON "Order" 
+  AREA "Schema Area"
+  UNIQUE
+  PRIMARY
+  INDEX-FIELD "Id" ASCENDING 
+
+.
+PSC
+cpstream=1257
+.
+0000002503
