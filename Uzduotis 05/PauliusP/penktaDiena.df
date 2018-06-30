@@ -1,0 +1,86 @@
+ADD SEQUENCE "uzsakymoNr"
+  INITIAL 0
+  INCREMENT 1
+  CYCLE-ON-LIMIT no
+
+ADD TABLE "klientas"
+  AREA "Schema Area"
+  DUMP-NAME "klientas"
+
+ADD FIELD "kodas" OF "klientas" AS int64 
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  POSITION 2
+  MAX-WIDTH 8
+  ORDER 10
+
+ADD FIELD "pavadinimas" OF "klientas" AS character 
+  FORMAT "x(8)"
+  INITIAL ""
+  POSITION 3
+  MAX-WIDTH 16
+  ORDER 20
+
+ADD FIELD "uzsakymuSuma" OF "klientas" AS decimal 
+  FORMAT "->>,>>9.99"
+  INITIAL "0"
+  POSITION 4
+  MAX-WIDTH 17
+  DECIMALS 2
+  ORDER 30
+
+ADD FIELD "uzsakymuKiekis" OF "klientas" AS int64 
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  POSITION 5
+  MAX-WIDTH 8
+  ORDER 40
+
+ADD TABLE "uzsakymas"
+  AREA "Schema Area"
+  DUMP-NAME "uzsakymas"
+  TABLE-TRIGGER "CREATE" NO-OVERRIDE PROCEDURE "C:\Users\Studentas1\Progress\Developer Studio 4.3.1\workspac" CRC "?" 
+  TABLE-TRIGGER "DELETE" NO-OVERRIDE PROCEDURE "C:\mokymai\db\databases\trig_salinimas.p" CRC "?" 
+
+ADD FIELD "numeris" OF "uzsakymas" AS int64 
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  POSITION 2
+  MAX-WIDTH 8
+  ORDER 10
+
+ADD FIELD "pavadinimas" OF "uzsakymas" AS character 
+  FORMAT "x(8)"
+  INITIAL ""
+  POSITION 4
+  MAX-WIDTH 16
+  ORDER 30
+
+ADD FIELD "suma" OF "uzsakymas" AS decimal 
+  FORMAT "->>,>>9.99"
+  INITIAL "0"
+  POSITION 5
+  MAX-WIDTH 17
+  DECIMALS 2
+  ORDER 40
+  FIELD-TRIGGER "ASSIGN" NO-OVERRIDE PROCEDURE "C:\mokymai\db\databases\trig_sum.p" CRC "?" 
+
+ADD FIELD "kodas" OF "uzsakymas" AS int64 
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  POSITION 6
+  MAX-WIDTH 8
+  ORDER 50
+
+ADD FIELD "data" OF "uzsakymas" AS datetime 
+  FORMAT "9999-99-99 HH:MM:SS.SSS"
+  INITIAL ?
+  POSITION 7
+  MAX-WIDTH 8
+  ORDER 60
+
+.
+PSC
+cpstream=1257
+.
+0000001730
