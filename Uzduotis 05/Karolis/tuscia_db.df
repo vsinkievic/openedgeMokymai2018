@@ -1,0 +1,107 @@
+ADD SEQUENCE "KitasKlientoKodas"
+  INITIAL 0
+  INCREMENT 1
+  CYCLE-ON-LIMIT no
+
+ADD SEQUENCE "KitasUzsakymoNumeris"
+  INITIAL 1000
+  INCREMENT 1
+  CYCLE-ON-LIMIT no
+
+ADD TABLE "Klientas"
+  AREA "Schema Area"
+  DESCRIPTION "Kliento informacija"
+  DUMP-NAME "klientas"
+  TABLE-TRIGGER "CREATE" NO-OVERRIDE PROCEDURE "C:\Progress\OpenEdge\sports2000trgs\tr_cr_kl.p" CRC "?" 
+  TABLE-TRIGGER "DELETE" NO-OVERRIDE PROCEDURE "C:\Progress\OpenEdge\sports2000trgs\tr_dl_kl.p" CRC "?" 
+
+ADD FIELD "KlientoKodas" OF "Klientas" AS integer 
+  DESCRIPTION "Kliento kodas"
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  POSITION 2
+  MAX-WIDTH 4
+  ORDER 10
+
+ADD FIELD "KlientoVardas" OF "Klientas" AS character 
+  DESCRIPTION "Kliento vardas"
+  FORMAT "x(8)"
+  INITIAL ""
+  POSITION 3
+  MAX-WIDTH 16
+  ORDER 20
+
+ADD FIELD "BendraUzsakymuSuma" OF "Klientas" AS integer 
+  DESCRIPTION "Uþsakymø suma"
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  POSITION 4
+  MAX-WIDTH 4
+  ORDER 30
+
+ADD FIELD "BendrasUzsakymuKiekis" OF "Klientas" AS integer 
+  DESCRIPTION "Uþsakymø kiekis"
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  POSITION 5
+  MAX-WIDTH 4
+  ORDER 40
+
+ADD INDEX "KlientoKodas" ON "Klientas" 
+  AREA "Schema Area"
+  PRIMARY
+  INDEX-FIELD "KlientoKodas" ASCENDING 
+
+ADD INDEX "BendraUzsakymuSuma" ON "Klientas" 
+  AREA "Schema Area"
+  INDEX-FIELD "BendraUzsakymuSuma" ASCENDING 
+
+ADD TABLE "Uzsakymas"
+  AREA "Schema Area"
+  DESCRIPTION "Uzsakymo info"
+  DUMP-NAME "uzsakymas"
+  TABLE-TRIGGER "CREATE" NO-OVERRIDE PROCEDURE "C:\Progress\OpenEdge\sports2000trgs\tr_cr_uz.p" CRC "?" 
+  TABLE-TRIGGER "WRITE" NO-OVERRIDE PROCEDURE "C:\Progress\OpenEdge\sports2000trgs\tr_kl_upde.p" CRC "25297" 
+
+ADD FIELD "UzsakymoNr" OF "Uzsakymas" AS integer 
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  POSITION 2
+  MAX-WIDTH 4
+  ORDER 10
+
+ADD FIELD "KlientoKodas" OF "Uzsakymas" AS integer 
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  POSITION 3
+  MAX-WIDTH 4
+  ORDER 20
+
+ADD FIELD "Data" OF "Uzsakymas" AS date 
+  FORMAT "99/99/99"
+  INITIAL ?
+  POSITION 4
+  MAX-WIDTH 4
+  ORDER 30
+
+ADD FIELD "Suma" OF "Uzsakymas" AS integer 
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  POSITION 6
+  MAX-WIDTH 4
+  ORDER 40
+
+ADD INDEX "KlientoKodas" ON "Uzsakymas" 
+  AREA "Schema Area"
+  PRIMARY
+  INDEX-FIELD "KlientoKodas" ASCENDING 
+
+ADD INDEX "UzsakymoNr" ON "Uzsakymas" 
+  AREA "Schema Area"
+  INDEX-FIELD "UzsakymoNr" ASCENDING 
+
+.
+PSC
+cpstream=1257
+.
+0000002456
