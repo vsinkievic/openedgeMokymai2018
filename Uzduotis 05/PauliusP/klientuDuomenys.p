@@ -1,6 +1,5 @@
 define frame esamiKlientai with centered title  "Informacija apie esamà klientà"  side-labels 2 col width 50 stream-io.
 
-output to "ataskaita.txt".
 for each klientas no-lock with frame esamiKlientai by uzsakymuSuma descending:
     display kodas label "ID" pavadinimas format "x(20)" label "Klientas" uzsakymuSuma label "Uþsakymø suma" uzsakymuKiekis label "Uþsakymø kiekis".
     
@@ -16,4 +15,3 @@ for each klientas no-lock with frame esamiKlientai by uzsakymuSuma descending:
             display "Klientas neturi uþsakymø" with side-labels 2 col width 50.
     end.
 end.
-output close.
