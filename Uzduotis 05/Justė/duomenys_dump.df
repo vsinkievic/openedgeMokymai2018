@@ -89,7 +89,6 @@ ADD FIELD "Suma" OF "Uzsakymas" AS decimal
   COLUMN-LABEL "Suma"
   DECIMALS 2
   ORDER 40
-  FIELD-TRIGGER "ASSIGN" NO-OVERRIDE PROCEDURE "as-uzsakymo-suma.p" CRC "33318" 
 
 ADD FIELD "Kodas" OF "Uzsakymas" AS character 
   FORMAT "x(30)"
@@ -105,4 +104,4 @@ ADD FIELD "Kodas" OF "Uzsakymas" AS character
 PSC
 cpstream=1257
 .
-0000002276
+0000002194

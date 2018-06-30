@@ -8,7 +8,7 @@ define frame fKeistas Uzsakymas.Nr skip Uzsakymas.Data skip
 keitimas:
 do while i <> 0:
     update tempNr label "Uþsakymo nr." help "Iveskite keièiamo uþsakymo numerá.".
-    find first Uzsakymas where Uzsakymas.Nr = tempNr no-error.
+    find first Uzsakymas exclusive-lock where Uzsakymas.Nr = tempNr no-error.
     if available Uzsakymas then do transaction:
         update Uzsakymas.Data help "Áveskite uþsakymo datà."
                Uzsakymas.Pavadinimas  help "Áveskite uþsakymo pavadinimà."
