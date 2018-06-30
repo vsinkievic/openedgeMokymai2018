@@ -1,16 +1,32 @@
-define variable i as integer no-undo.
+define variable id as integer no-undo.
+define variable dcAmount as decimal no-undo.
 
 define frame uzs-ivedimas
-    Order.Customerid skip
-    Order.Amount
+    id label "Uþsakovo kodas:" skip
+    dcAmount label "Suma:"
     with side-labels 1 col width 100.
 
-create Order.
+define frame uzs-apzvalga
+    Order.Id skip
+    Order.Date skip
+    Order.Customerid Customer.Name skip
+    Order.amount
+    with side-labels 1 col width 100.
 
 display "Naujas uþsakymas" skip with stream-io.
 display "Data: " now format "9999-99-99" skip with stream-io.
-update Order.Customerid Order.Amount
+
+update id dcAmount
     with frame uzs-ivedimas.  
 
-if Order.Id <> 0 then
-    display Order with side-labels 1 col width 100 with stream-io.
+find Customer where Customer.Id = id no-lock no-error.
+if not available Customer then 
+    message "Tokio uþsakovo nëra!" view-as alert-box.
+else do:
+    create Order.
+    Order.Amount = dcAmount.
+    Order.CustomerId = id.
+    display Order.Id Order.Date Order.CustomerId Customer.Name Order.Amount
+        with frame uzs-apzvalga.
+end.
+   

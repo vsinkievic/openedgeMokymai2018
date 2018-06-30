@@ -10,7 +10,8 @@ update id cName
     with frame kl-ivedimas.  
 
 find Customer where Customer.id = id no-error.
-if available Customer then message "Klientas su tokiu kodu jau yra, áveskite ið naujo.".
+if available Customer then 
+    message "Klientas su tokiu kodu jau yra, áveskite ið naujo." view-as alert-box.
 else do:
     create Customer.
     Customer.Id = id.
