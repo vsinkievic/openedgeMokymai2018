@@ -1,0 +1,108 @@
+ADD SEQUENCE "UzsakymoNrSeq"
+  INITIAL 0
+  INCREMENT 1
+  CYCLE-ON-LIMIT no
+
+ADD TABLE "Klientas"
+  AREA "Schema Area"
+  LABEL "Klientas"
+  DUMP-NAME "klientas"
+
+ADD FIELD "Kodas" OF "Klientas" AS character 
+  FORMAT "x(30)"
+  INITIAL ""
+  LABEL "Kodas"
+  POSITION 2
+  MAX-WIDTH 16
+  COLUMN-LABEL "Kodas"
+  ORDER 10
+
+ADD FIELD "Pavadinimas" OF "Klientas" AS character 
+  FORMAT "x(30)"
+  INITIAL ""
+  LABEL "Pavadinimas"
+  POSITION 3
+  MAX-WIDTH 16
+  COLUMN-LABEL "Pavadinimas"
+  ORDER 20
+
+ADD FIELD "UzsakymuSuma" OF "Klientas" AS decimal 
+  FORMAT "->>>,>>>,>>>,>>>,>>9.99"
+  INITIAL "0"
+  LABEL "Uþsakymø suma"
+  POSITION 4
+  MAX-WIDTH 17
+  COLUMN-LABEL "Uþsakymø suma"
+  DECIMALS 2
+  ORDER 30
+
+ADD FIELD "UzsakymuKiekis" OF "Klientas" AS integer 
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  LABEL "Uþsakymø kiekis"
+  POSITION 5
+  MAX-WIDTH 4
+  COLUMN-LABEL "Uþsakymø kiekis"
+  ORDER 40
+
+ADD TABLE "Uzsakymas"
+  AREA "Schema Area"
+  LABEL "Uþsakymas"
+  DUMP-NAME "uzsakymas"
+  TABLE-TRIGGER "CREATE" NO-OVERRIDE PROCEDURE "cr-uzsakymas.p" CRC "?" 
+  TABLE-TRIGGER "DELETE" NO-OVERRIDE PROCEDURE "del-uzsakymas.p" CRC "?" 
+  TABLE-TRIGGER "WRITE" NO-OVERRIDE PROCEDURE "wr-uzsakymas.p" CRC "?" 
+
+ADD FIELD "Nr" OF "Uzsakymas" AS integer 
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  LABEL "Nr."
+  POSITION 2
+  MAX-WIDTH 4
+  COLUMN-LABEL "Nr."
+  ORDER 10
+
+ADD FIELD "Data" OF "Uzsakymas" AS date 
+  FORMAT "9999-99-99"
+  INITIAL ?
+  LABEL "Data"
+  POSITION 3
+  MAX-WIDTH 4
+  COLUMN-LABEL "Data"
+  ORDER 20
+
+ADD FIELD "Pavadinimas" OF "Uzsakymas" AS character 
+  FORMAT "x(30)"
+  INITIAL ""
+  LABEL "Pavadinimas"
+  POSITION 4
+  MAX-WIDTH 16
+  COLUMN-LABEL "Pavadinimas"
+  ORDER 30
+
+ADD FIELD "Suma" OF "Uzsakymas" AS decimal 
+  FORMAT "->>,>>>,>>9.99"
+  INITIAL "0"
+  LABEL "Suma"
+  POSITION 5
+  MAX-WIDTH 17
+  COLUMN-LABEL "Suma"
+  DECIMALS 2
+  ORDER 40
+  FIELD-TRIGGER "ASSIGN" NO-OVERRIDE PROCEDURE "as-uzsakymo-suma.p" CRC "33318" 
+
+ADD FIELD "Kodas" OF "Uzsakymas" AS character 
+  FORMAT "x(30)"
+  INITIAL ""
+  LABEL "Kliento kodas"
+  POSITION 6
+  MAX-WIDTH 16
+  COLUMN-LABEL "Kliento kodas"
+  ORDER 50
+  FIELD-TRIGGER "ASSIGN" OVERRIDE PROCEDURE "as-uzsakymo-kodas.p" CRC "?" 
+
+.
+PSC
+cpstream=1257
+.
+0000002276
