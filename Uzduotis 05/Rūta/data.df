@@ -1,0 +1,85 @@
+ADD SEQUENCE "Numeris"
+  INITIAL 1
+  INCREMENT 1
+  CYCLE-ON-LIMIT no
+
+ADD TABLE "Klientas"
+  AREA "Schema Area"
+  DUMP-NAME "klientas"
+
+ADD FIELD "Vardas" OF "Klientas" AS character 
+  FORMAT "x(8)"
+  INITIAL ""
+  POSITION 3
+  MAX-WIDTH 16
+  ORDER 20
+
+ADD FIELD "Kodas" OF "Klientas" AS integer 
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  POSITION 6
+  MAX-WIDTH 4
+  ORDER 50
+
+ADD FIELD "UzSuma" OF "Klientas" AS integer 
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  POSITION 7
+  MAX-WIDTH 4
+  ORDER 60
+
+ADD FIELD "UzKiekis" OF "Klientas" AS integer 
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  POSITION 8
+  MAX-WIDTH 4
+  ORDER 70
+
+ADD TABLE "Uzsakymas"
+  AREA "Schema Area"
+  DUMP-NAME "uzsakymas"
+  TABLE-TRIGGER "CREATE" NO-OVERRIDE PROCEDURE "C:\mokymai\db\uzd5\tr-createorder.p" CRC "?" 
+  TABLE-TRIGGER "DELETE" NO-OVERRIDE PROCEDURE "C:\mokymai\db\uzd5\tr-deleteorder.p" CRC "?" 
+  TABLE-TRIGGER "WRITE" NO-OVERRIDE PROCEDURE "C:\mokymai\db\uzd5\tr-writeorder.p" CRC "49273" 
+
+ADD FIELD "Pavadinimas" OF "Uzsakymas" AS character 
+  FORMAT "x(8)"
+  INITIAL ""
+  POSITION 4
+  MAX-WIDTH 16
+  ORDER 30
+
+ADD FIELD "Numeris" OF "Uzsakymas" AS integer 
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  POSITION 6
+  MAX-WIDTH 4
+  ORDER 50
+
+ADD FIELD "Data" OF "Uzsakymas" AS date 
+  FORMAT "9999-99-99"
+  INITIAL ?
+  POSITION 7
+  MAX-WIDTH 4
+  ORDER 60
+
+ADD FIELD "Suma" OF "Uzsakymas" AS integer 
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  POSITION 8
+  MAX-WIDTH 4
+  ORDER 70
+
+ADD FIELD "Kodas" OF "Uzsakymas" AS integer 
+  FORMAT "->,>>>,>>9"
+  INITIAL "0"
+  POSITION 9
+  MAX-WIDTH 4
+  ORDER 80
+  FIELD-TRIGGER "ASSIGN" NO-OVERRIDE PROCEDURE "C:\mokymai\db\uzd5\tr-order.p" CRC "48071" 
+
+.
+PSC
+cpstream=1257
+.
+0000001737
