@@ -13,7 +13,7 @@ update id cOrderName dOrderAmount with frame orderFr.
 order_creation:
 do transaction:
 
-    find Customer where Customer.CustId = id no-lock no-error.
+    find Customer where Customer.CustId = id exclusive-lock no-error.
     
     if available Customer then do:
         

@@ -5,7 +5,7 @@ update orderId label "Uþsakymo nr." help "Áveskite numerá uþsakymo, kurá norëtum
 deletion:
 do transaction:
 
-    find Orders EXCLUSIVE-LOCK where Orders.OrderNr = orderId  no-error.
+    find Orders where Orders.OrderNr = orderId exclusive-lock no-error.
     
     if available Orders then do:
         

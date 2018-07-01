@@ -1,0 +1,56 @@
+
+-------------------------------
+          CustId: 1
+            Name: LUKAS
+      OrderTotal: 500.00
+     TotalOrders: 1
+
+Customer's orders:
+
+         OrderNr: 4
+          CustId: 1
+       OrderDate: 2018-07-02
+       OrderName: Lova
+     OrderAmount: 500.00
+
+-------------------------------
+          CustId: 2
+            Name: PETRAS
+      OrderTotal: 150.00
+     TotalOrders: 1
+
+Customer's orders:
+
+         OrderNr: 6
+          CustId: 2
+       OrderDate: 2018-07-02
+       OrderName: Spinta
+     OrderAmount: 150.00
+
+-------------------------------
+          CustId: 3
+            Name: JONAS
+      OrderTotal: 50.00
+     TotalOrders: 1
+
+Customer's orders:
+
+         OrderNr: 5
+          CustId: 3
+       OrderDate: 2018-07-02
+       OrderName: Fotelis
+     OrderAmount: 50.00
+
+-------------------------------
+          CustId: 10
+            Name: ANTANËLIS
+      OrderTotal: 30.00
+     TotalOrders: 1
+
+Customer's orders:
+
+         OrderNr: 7
+          CustId: 10
+       OrderDate: 2018-07-02
+       OrderName: Kavinukas
+     OrderAmount: 30.00
