@@ -14,7 +14,6 @@ if oldorder.id <> 0 then do:
     end.
     else do:
         find customer where customer.id = order.customerid.
-        customer.orderscount = customer.orderscount + 1.
         customer.orderstotal = customer.orderstotal - oldorder.amount + order.amount.
     end.
 end.

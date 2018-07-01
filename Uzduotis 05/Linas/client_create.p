@@ -9,7 +9,7 @@ define frame kl-ivedimas
 update id cName 
     with frame kl-ivedimas.  
 
-find Customer where Customer.id = id no-error.
+find Customer where Customer.id = id no-lock no-error.
 if available Customer then 
     message "Klientas su tokiu kodu jau yra, áveskite ið naujo." view-as alert-box.
 else do:
