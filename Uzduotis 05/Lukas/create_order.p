@@ -34,5 +34,3 @@ do transaction:
     end.
     
 end.
-
-//Neveikia ir neásivaizduoju kodël, prieð tai veikë (ERROR MSG: ** Customer record not on file (138))
