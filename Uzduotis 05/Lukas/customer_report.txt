@@ -2,16 +2,44 @@
 -------------------------------
           CustId: 1
             Name: LUKAS
-      OrderTotal: 500.00
-     TotalOrders: 1
+      OrderTotal: 515.00
+     TotalOrders: 2
 
 Customer's orders:
 
          OrderNr: 4
           CustId: 1
        OrderDate: 2018-07-02
-       OrderName: Lova
-     OrderAmount: 500.00
+       OrderName: Dvigulë lova
+     OrderAmount: 510.00
+
+         OrderNr: 22
+          CustId: 1
+       OrderDate: 2018-07-02
+       OrderName: Puodelis
+     OrderAmount: 5.00
+
+
+-------------------------------
+          CustId: 20
+            Name: KÆSTUTIS
+      OrderTotal: 257.00
+     TotalOrders: 2
+
+Customer's orders:
+
+         OrderNr: 11
+          CustId: 20
+       OrderDate: 2018-07-02
+       OrderName: Sofa
+     OrderAmount: 210.00
+
+         OrderNr: 21
+          CustId: 20
+       OrderDate: 2018-07-02
+       OrderName: Uþuolaidos
+     OrderAmount: 47.00
+
 
 -------------------------------
           CustId: 2
@@ -27,6 +55,28 @@ Customer's orders:
        OrderName: Spinta
      OrderAmount: 150.00
 
+
+-------------------------------
+          CustId: 10
+            Name: ANTANËLIS
+      OrderTotal: 63.00
+     TotalOrders: 2
+
+Customer's orders:
+
+         OrderNr: 7
+          CustId: 10
+       OrderDate: 2018-07-02
+       OrderName: Kavinukas
+     OrderAmount: 30.00
+
+         OrderNr: 19
+          CustId: 10
+       OrderDate: 2018-07-02
+       OrderName: Pufas
+     OrderAmount: 33.00
+
+
 -------------------------------
           CustId: 3
             Name: JONAS
@@ -41,16 +91,3 @@ Customer's orders:
        OrderName: Fotelis
      OrderAmount: 50.00
 
--------------------------------
-          CustId: 10
-            Name: ANTANËLIS
-      OrderTotal: 30.00
-     TotalOrders: 1
-
-Customer's orders:
-
-         OrderNr: 7
-          CustId: 10
-       OrderDate: 2018-07-02
-       OrderName: Kavinukas
-     OrderAmount: 30.00

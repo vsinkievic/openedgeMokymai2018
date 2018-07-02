@@ -10,7 +10,6 @@ do transaction:
     if available Orders then do:
         
         delete Orders.
-        message "Uþsakymas iðtrintas" view-as alert-box.
         
     end.
     else do:
