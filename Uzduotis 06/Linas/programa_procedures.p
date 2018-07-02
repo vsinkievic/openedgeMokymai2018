@@ -9,8 +9,11 @@ procedure new_window:
         with 15 down no-assign expandable title "Klientai".
     
     define button buttonCustCreate label "Naujas Uþsakovas".
+    define button buttonNewOrder label "Naujas uþsakymas".
+    define button buttonLeave label "Baigti darbà".
    
     define frame fCust 
+        buttonCustCreate buttonLeave buttonNewOrder
         skip (1) space (8) bCust skip(1) space (8) buttonCustCreate
         with no-box width 300.
         
@@ -22,6 +25,16 @@ procedure new_window:
     on choose of buttonCustCreate do:
         hide all.
         run create_customer.
+    end.
+    
+    on choose of buttonLeave do:
+        hide all.
+        leave.
+    end.
+    
+    on choose of buttonNewOrder do:
+        hide all.
+        run order_create (input Customer.id).
     end.
                 
     open query qCust for each Customer.
@@ -59,6 +72,8 @@ procedure create_customer:
         Customer.Id = id.
         Customer.Name = cName.
     end.
+    hide all.
+    run new_window.
 end.
 
 
@@ -70,8 +85,25 @@ end.
 procedure order_window:
 
     define input parameter id as integer no-undo.
+    define variable orderId as integer no-undo.
     
-    find Customer where Customer.Id = id.
+    find Customer where Customer.Id = id no-lock.
+    
+    define menu orderMenu menubar
+        menu-item menu_order_create label "Naujas uþsakymas (ins)"
+        menu-item menu_order_delete label "Iðtrinti uþsakymà (del)"
+        menu-item menu_order_escape label "Gráþti (esc)".
+        
+    on choose of menu-item menu_order_create 
+        run order_create (input 0).
+    on choose of menu-item menu_order_delete
+        run order_delete (input 0).
+    on choose of menu-item menu_order_escape do:
+        hide all.
+        run new_window.
+    end.
+    assign current-window:menubar = menu orderMenu:handle.
+    
     
     define query qOrd for Order scrolling.
     define browse bOrd query qOrd no-lock
@@ -79,7 +111,7 @@ procedure order_window:
         with 6 down no-assign expandable title "Uþsakymai".
     define frame fOrd
         skip (1) space (8) bOrd skip(1) space (8)
-        with no-box width 300.
+        with no-box width 150.
         
     on default-action of browse bOrd do:
         if available Order then do:
@@ -93,12 +125,18 @@ procedure order_window:
         enable all with frame fOrd.
         display "Ins - naujas uþsakymas. Del - iðtrinti uþsakymà. Enter - keisti uþsakymà".
         
+        if can-find(first Order) then do:
+            find current Order no-lock.
+            if not available Order then orderId = 0.
+            end.
+        else orderId = Order.Id.
+        
          readkey.
-        if lastkey = 127 then run order_delete.
+        if lastkey = 127 then run order_delete (input orderId).
         if lastkey = 510 then run order_create (input Customer.id).
         if lastkey = 13 then run order_update.
         if lastkey = 27 then do:
-
+            hide all.
             leave listener.
             end.
     end.
@@ -164,7 +202,7 @@ end.
 
 procedure order_delete:
 
-    define variable iOrdNum as integer no-undo.
+    define input parameter iOrdNum as integer no-undo.
     
     update iOrdNum 
        label "Uþsakymo numeris" 
@@ -178,6 +216,7 @@ procedure order_delete:
         delete Order.
         message "Uþsakymas" iOrdNum "iðtrintas".
     end.
+    hide all.
 
 end.
 
@@ -219,6 +258,7 @@ procedure order_create:
             with frame uzs-apzvalga.
     end.
     hide all.
+    leave.
     
 end.
 
