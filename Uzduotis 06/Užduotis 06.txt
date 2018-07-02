@@ -1,0 +1,11 @@
+Savarankiškai susipažinti su:
+Student guide 2, Lesson 10, developing modular procedures
+https://dzone.com/articles/java-encapsulation-for-adults?edition=223181&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=dd%202016-10-11
+Getting started, ABL Essentials. Skyrius Running ABL procedures.
+https://community.progress.com/community_groups/openedge_architecture/w/openedgecloudarcade/999.autoedgethefactory-oeri-coding-conventions (kiekvienoje įmonėje ar komandoje gali būti priimti kitokie susitarimai, dėl to tik susipažinti).
+Peržiūrėti straipsnį ir DOC failą: https://community.progress.com/community_groups/openedge_architecture/w/openedgecloudarcade/866.introduction-to-the-openedge-reference-architecture
+OERA (OpenEdge Reference Arcitecture) nuorodos: https://knowledgebase.progress.com/articles/Article/000029933?q=OERA&l=en_US&fs=Search&pn=1
+
+
+Užduotis:
+Užduotis: kas neužbaigė, užbaigti praeitą užduotį. Perdaryti praeitą programą taip, kad ji visa būtų viename faile. Paleidus programą turi būti rodomas klientų sąrašas (browse). Turi būti mygtukas naujo kliento įvedimui. Browse paspaudus enter turi būti atidaromas kliento užsakymų peržiūros ekranas (kliento info kaip ataskaitoje ir browse su užsakymų info). Tame ekrane su CTRL-N, CTRL-D (arba Insert, Delete) turi būti galima įvesti naują užsakymą arba ištrinti tą, ant kurio stovime. Turi būti galima taisyti užsakymą. Naudotojo sąsajoje panaudoti BUTTON ir/ar MENU. 
