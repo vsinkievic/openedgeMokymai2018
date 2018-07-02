@@ -26,7 +26,7 @@ do transaction:
     find Customer where Customer.CustId = id no-lock no-error.
 
     if available Customer then do:
-        message "A customer with this id already exists" view-as alert-box.
+        message "Klientas su tokiu kodu jau egzsituoja" view-as alert-box.
         undo, leave creation.
     end.
     else do:
@@ -34,7 +34,7 @@ do transaction:
         find Customer where Customer.Name = customerName no-lock no-error.
         
         if available Customer then do:
-            message "A customer with this name already exists" view-as alert-box.
+            message "Klientas su tokiu pavadinimu jau egzsituoja" view-as alert-box.
             undo, leave creation.
         end.
         else do:

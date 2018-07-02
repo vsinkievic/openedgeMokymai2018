@@ -11,6 +11,7 @@ for each Customer no-lock by Customer.OrderTotal descending:
     for each Orders no-lock where Orders.CustId = Customer.CustId by Orders.OrderDate:
         
         display Orders with side-labels 1 col stream-io.
+        display "".
         
     end.
     
