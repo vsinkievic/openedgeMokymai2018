@@ -1,6 +1,6 @@
 //MAIN WINDOW:
 
-procedure new_window:
+procedure customers_browse:
     
     define query qCust for Customer scrolling.
     define browse bCust query qCust no-lock 
@@ -10,16 +10,16 @@ procedure new_window:
     
     define button buttonCustCreate label "Naujas Uþsakovas".
     define button buttonNewOrder label "Naujas uþsakymas".
-    define button buttonLeave label "Baigti darbà".
+    define button buttonLeave label "Baigti darbà" auto-endkey.
    
     define frame fCust 
-        buttonCustCreate buttonLeave buttonNewOrder
+        buttonCustCreate buttonNewOrder buttonLeave 
         skip (1) space (8) bCust skip(1) space (8) buttonCustCreate
         with no-box width 300.
         
     on default-action of browse bCust do:
         hide all.
-        run order_window (input Customer.id).
+        run orders_by_customer (input Customer.id).
     end.
         
     on choose of buttonCustCreate do:
@@ -29,7 +29,7 @@ procedure new_window:
     
     on choose of buttonLeave do:
         hide all.
-        leave.
+        quit.
     end.
     
     on choose of buttonNewOrder do:
@@ -65,7 +65,7 @@ procedure create_customer:
         message "Klientas su tokiu kodu jau yra, áveskite ið naujo." 
             view-as alert-box.
         hide all.
-        run new_window.
+        run customers_browse.
         end.
     else do:
         create Customer.
@@ -73,7 +73,7 @@ procedure create_customer:
         Customer.Name = cName.
     end.
     hide all.
-    run new_window.
+    run customers_browse.
 end.
 
 
@@ -82,27 +82,28 @@ end.
 
 // ORDERS BY CUSTOMER:
 
-procedure order_window:
+procedure orders_by_customer:
 
     define input parameter id as integer no-undo.
     define variable orderId as integer no-undo.
     
     find Customer where Customer.Id = id no-lock.
     
-    define menu orderMenu menubar
-        menu-item menu_order_create label "Naujas uþsakymas (ins)"
-        menu-item menu_order_delete label "Iðtrinti uþsakymà (del)"
-        menu-item menu_order_escape label "Gráþti (esc)".
-        
-    on choose of menu-item menu_order_create 
-        run order_create (input 0).
-    on choose of menu-item menu_order_delete
-        run order_delete (input 0).
-    on choose of menu-item menu_order_escape do:
-        hide all.
-        run new_window.
-    end.
-    assign current-window:menubar = menu orderMenu:handle.
+/*    define menu orderMenu menubar                                  */
+/*        menu-item menu_order_create label "Naujas uþsakymas (ins)" */
+/*        menu-item menu_order_delete label "Iðtrinti uþsakymà (del)"*/
+/*        menu-item menu_order_escape label "Gráþti (esc)".          */
+/*                                                                   */
+/*    on choose of menu-item menu_order_create do:                   */
+/*        run order_create (input 0).                                */
+/*        end.                                                       */
+/*    on choose of menu-item menu_order_delete                       */
+/*        run order_delete (input 0).                                */
+/*    on choose of menu-item menu_order_escape do:                   */
+/*        hide all.                                                  */
+/*        run customers_browse.                                      */
+/*    end.                                                           */
+/*    assign current-window:menubar = menu orderMenu:handle.         */
     
     
     define query qOrd for Order scrolling.
@@ -123,15 +124,15 @@ procedure order_window:
     repeat:
         open query qOrd for each Order where Order.CustomerId = Customer.Id.
         enable all with frame fOrd.
-        display "Ins - naujas uþsakymas. Del - iðtrinti uþsakymà. Enter - keisti uþsakymà".
+        display "Ins - naujas uþsakymas. Del - iðtrinti uþsakymà." skip 
+        "Enter - keisti uþsakymà. Ecs - gráþti".
         
-        if can-find(first Order) then do:
+        if can-find(first Order where Order.CustomerId = Customer.Id) then do:
             find current Order no-lock.
-            if not available Order then orderId = 0.
             end.
-        else orderId = Order.Id.
+        else orderId = 0.
         
-         readkey.
+        readkey.
         if lastkey = 127 then run order_delete (input orderId).
         if lastkey = 510 then run order_create (input Customer.id).
         if lastkey = 13 then run order_update.
@@ -141,12 +142,9 @@ procedure order_window:
             end.
     end.
     hide all.
-    run new_window.
+    run customers_browse.
     
 end.
-
-
-
 
 
 // ORDER UPDATE:
@@ -172,7 +170,11 @@ define frame uzs-apzvalga
     with side-labels 1 col width 100.
 
 
-    if not available Order then message "Tokio uþsakymo nëra" view-as alert-box.
+    if not available Order then do:
+        message "Tokio uþsakymo nëra" view-as alert-box.
+        hide all.
+        run customers_browse.
+    end.
     else do:
     
         find current Order exclusive-lock no-error.
@@ -193,6 +195,8 @@ define frame uzs-apzvalga
             display Order.Id Order.Date Order.CustomerId Customer.Name Order.Amount
             with frame uzs-apzvalga.
         end.
+        hide all.
+        run orders_by_customer (iCust).
     end.
 end.
 
@@ -203,11 +207,15 @@ end.
 procedure order_delete:
 
     define input parameter iOrdNum as integer no-undo.
+    define variable id as integer no-undo.
     
     update iOrdNum 
        label "Uþsakymo numeris" 
        help "Áveskite uþsakymo numerá"
        with side-labels. 
+    
+    find current Customer no-lock.
+    id = Customer.Id.
     
     find Order exclusive-lock where Order.id = iOrdNum no-error. 
     if not available Order then 
@@ -217,7 +225,7 @@ procedure order_delete:
         message "Uþsakymas" iOrdNum "iðtrintas".
     end.
     hide all.
-
+    run orders_by_customer (id).
 end.
 
 
@@ -248,8 +256,11 @@ procedure order_create:
         with frame uzs-ivedimas.  
     
     find Customer where Customer.Id = id no-lock no-error.
-    if not available Customer then 
+    if not available Customer then do:
         message "Tokio uþsakovo nëra!" view-as alert-box.
+        hide all.
+        run order_create (0).
+    end.
     else do:
         create Order.
         Order.Amount = dcAmount.
@@ -258,7 +269,7 @@ procedure order_create:
             with frame uzs-apzvalga.
     end.
     hide all.
-    leave.
+    run orders_by_customer (id).
     
 end.
 
