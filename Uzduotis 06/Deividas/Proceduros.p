@@ -45,7 +45,7 @@ procedure pagrindinis_langas:
 end.
 
 procedure uzsakymu_langas:
-
+define variable isOk as log no-undo.
     define input parameter pavadinimas as character no-undo.
     
     define query QUzsakymas for uzsakymas scrolling.
@@ -64,37 +64,43 @@ procedure uzsakymu_langas:
         do:
             if available uzsakymas 
             then do:
-                run redaguoti_uzsakyma.
+                run redaguoti_uzsakyma. 
             end.
         end.
+        
+       on "Ctrl-n" of BUzsakymas do:  
+            
+            message "Naujas Uzsakymas" view-as alert-box.
+            run sukurti_uzsakyma.
+        end.
+        
+        on "Ctrl-D" of BUzsakymas do:  
+            run naikinti_uzsakyma.
+           
+           
+        end.
+                
         
         find klientas where klientas.pavadinimas = pavadinimas.
         
         display klientas.
-        MENIU:
-            repeat:
+        
+           
             open query QUzsakymas for each uzsakymas 
             where uzsakymas.pavadinimas = klientas.pavadinimas.
             enable all with frame FUzsakymas.
+            apply "value-changed" to browse BUzsakymas.
+            wait-for window-close of current-window.
             
-            readkey.
+   
             
-            case lastkey:
-  /*iðsiaiðkint*/when keycode("CTRL+N") then run sukurti_uzsakyma.
-            when keycode("CTRL+D") then run naikinti_uzsakyma.
-            
-            end.
-            leave MENIU.
-            end.
         end procedure.
-    
-    
-    
-
 
 //NAUJO KLIENTO KURIMAS
-procedure sukurti_klienta: 
-    
+procedure sukurti_klienta:
+     
+        
+        
         define variable kodas as integer no-undo.
         define variable pavadinimas as character format "x(30)" no-undo.
         
@@ -125,7 +131,8 @@ end procedure.
 
 //VEIKSMAI SUSIJÆ SU UÞSAKYMAIS
 procedure sukurti_uzsakyma:
-    
+           
+            
             define variable kodas as integer no-undo.
         define variable suma as decimal  no-undo.
          
@@ -149,11 +156,13 @@ procedure sukurti_uzsakyma:
              message "Tokio kliento nëra" view-as alert-box.
              end. 
         hide all.
+        
+         run uzsakymu_langas (input klientas.pavadinimas).
     end procedure.
     
     
 procedure naikinti_uzsakyma:
-    
+            
             define variable numeris as integer no-undo.
         
         define frame ivedimas
@@ -173,13 +182,15 @@ procedure naikinti_uzsakyma:
                 do:
                     delete uzsakymas. 
                     message "Uþsakymas iðtrintas!" view-as alert-box.
+                    
                 end.
             end.
-            
+             
  end procedure.
  
  procedure redaguoti_uzsakyma:
      
+ 
 define variable suma as decimal  no-undo.
 define variable data as date no-undo.
 define variable oldnumeris as integer no-undo.
@@ -213,7 +224,6 @@ define frame apzvalga
                 
                display uzsakymas
                with frame apzvalga.
-    
-                end.
-    
+                                end.
+     run uzsakymu_langas (input uzsakymas.pavadinimas).
  end procedure.
