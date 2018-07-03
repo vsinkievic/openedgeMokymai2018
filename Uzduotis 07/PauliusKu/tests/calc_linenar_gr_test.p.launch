@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="ablunit.launchType">
+<stringAttribute key="ATTR_ABLUNIT_TESTCASE_NAME" value="C:/Users/Studentas1/Progress/Developer Studio 4.3.1/workspace/7uzduotis/tests/calc_linenar_gr_test.p"/>
+<booleanAttribute key="ATTR_ABLUNIT_TEST_CASE_SELECTION" value="true"/>
+<stringAttribute key="abl.client.PROVERSION" value="11.6"/>
+<booleanAttribute key="abl.client.USE_TTY" value="false"/>
+<stringAttribute key="abl.debug.ABL_PROGRAM" value="ABLUnitCore.r"/>
+<stringAttribute key="abl.debug.ATTR_ABL_PROJECT_NAME" value="7uzduotis"/>
+<stringAttribute key="abl.startup.WORKING_DIRECTORY" value="C:/Users/Studentas1/Progress/Developer Studio 4.3.1/workspace/7uzduotis"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/7uzduotis/tests/calc_linenar_gr_test.p"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<mapAttribute key="org.eclipse.debug.core.environmentVariables"/>
+</launchConfiguration>
