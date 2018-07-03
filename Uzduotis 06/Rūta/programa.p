@@ -1,6 +1,7 @@
-
 define variable custBrowse      as handle    no-undo.
+define variable ordBrowse       as handle    no-undo.
 define variable custQuery       as handle    no-undo.
+define variable ordQuery        as handle    no-undo.
 define variable customerBuffer  as handle    no-undo.
 define variable orderBuffer     as handle    no-undo.
 define variable addCustomer     as handle    no-undo.
@@ -11,24 +12,26 @@ define variable iOrderNum       as integer   no-undo.
 
 run userInterface.
 
-// naudotojo sasaja
+/*naudotojo sasaja*/
 
 procedure userInterface:
 
-form with frame x width 100 title "BROWSE" 40 down.
+form with frame ui width 80 title "BROWSE" 0 down.
 
 create buffer customerBuffer for table "Klientas".
+create buffer orderBuffer for table "Uzsakymas".
 create query custQuery.
+create query ordQuery.
  
 custQuery:set-buffers(customerBuffer).
 custQuery:query-prepare("for each Klientas no-lock").
 custQuery:query-open.
 
 create browse custBrowse
-    assign width     = 80
+    assign width     = 60
            down      = 10
            query     = custQuery
-           frame     = frame x:handle
+           frame     = frame ui:handle
            read-only = false
            sensitive = true.
            
@@ -37,11 +40,26 @@ custBrowse:add-like-column("Klientas.Vardas").
 custBrowse:add-like-column("Klientas.UzSuma").
 custBrowse:add-like-column("Klientas.UzKiekis").
 
+ordQuery:set-buffers(orderBuffer).
+
+create browse ordBrowse
+    assign y         = 200
+           width     = 60
+           down      = 10
+           query     = ordQuery
+           frame     = frame ui:handle
+           read-only = false
+           sensitive = true.
+           
+ordBrowse:add-like-column("Uzsakymas.Numeris").                                                                                        
+ordBrowse:add-like-column("Uzsakymas.Pavadinimas").                                                                                    
+ordBrowse:add-like-column("Uzsakymas.Data").
+
 create button addCustomer
-    assign x         = 30
-           y         = 250
+    assign x         = 10
+           y         = 400
            width     = 20
-           frame     = frame x:handle
+           frame     = frame ui:handle
            sensitive = true
            visible   = true
            label     = "Naujas klientas"  
@@ -49,14 +67,16 @@ create button addCustomer
         on choose
             do:
                 run addCustomer.
+                custQuery:query-prepare("for each Klientas no-lock").
+                custQuery:query-open.
             end.
     end triggers.
     
 create button updateOrder
-    assign x         = 30
-           y         = 250
+    assign x         = 150
+           y         = 400
            width     = 20
-           frame     = frame x:handle
+           frame     = frame ui:handle
            sensitive = true
            visible   = false
            label     = "Taisyti uzsakyma"  
@@ -68,15 +88,14 @@ create button updateOrder
     end triggers.
            
 on enter of custBrowse do:
-    addCustomer:visible = false.
     updateOrder:visible = true.
     run custOrders.
     readkey.
     if lastkey = keycode("Del") then run deleteOrder.
-    if lastkey = keycode("Insert") then run createOrder.
+    if lastkey = keycode("Insert") then run createOrder.   
 end.
       
-view frame x.
+view frame ui.
  
 wait-for close of this-procedure.
  
@@ -87,23 +106,14 @@ delete object orderBuffer.
 
 end procedure.
 
-// kliento uzsakymu perziura
+/*kliento uzsakymu perziura*/
 
-procedure custOrders:
-    create buffer orderBuffer for table "Uzsakymas".
-
-    custQuery:query-close().
-    custQuery:set-buffers(orderBuffer).
-    custQuery:query-prepare(substitute("for each Uzsakymas where Uzsakymas.Kodas = &1", customerBuffer:buffer-field("Kodas"):buffer-value)).
-    custQuery:query-open.
-
-    custBrowse:query = custQuery.
-    custBrowse:add-like-column("Uzsakymas.Numeris").
-    custBrowse:add-like-column("Uzsakymas.Pavadinimas").
-    custBrowse:add-like-column("Uzsakymas.Data").
+procedure custOrders: 
+ordQuery:query-prepare(substitute("for each Uzsakymas where Uzsakymas.Kodas = &1", customerBuffer:buffer-field("Kodas"):buffer-value)).
+ordQuery:query-open.
 end procedure.
 
-// prideti nauja klienta
+/*prideti nauja klienta*/
 
 procedure addCustomer:
     update custNum label "Kliento kodas" help "Iveskite kliento koda!" 
@@ -118,16 +128,10 @@ procedure addCustomer:
     end.
 end procedure.
 
-// taisyti uzsakyma
+/*taisyti uzsakyma*/
 
 procedure updateOrder:
-    update iOrderNum 
-        label "Uzsakymo numeris" 
-        help "Iveskite ieskomo uzsakymo numeri."
-        with side-labels 1 col. 
-    message iOrderNum.
-
-    find first Uzsakymas where Uzsakymas.Numeris = iOrderNum no-error.
+    find first Uzsakymas where Uzsakymas.Numeris = orderBuffer:buffer-field("Numeris"):buffer-value.
     if not available Uzsakymas then message "Toks uzsakymas neegzistuoja." view-as alert-box error. 
     else do transaction:
         display Uzsakymas.Data Uzsakymas.Pavadinimas Uzsakymas.Suma. 
@@ -135,30 +139,25 @@ procedure updateOrder:
                Uzsakymas.Pavadinimas help "Iveskite uzsakymo pavadinima."
                Uzsakymas.Suma help "Iveskite uzsakymo suma.".
     end.
+    ordQuery:query-open.
 end procedure.
 
-// istrinti uzsakyma
+/*istrinti uzsakyma*/
 
 procedure deleteOrder:
-    update iOrderNum 
-        label "Uzsakymo numeris" 
-        help "Iveskite ieskomo uzsakymo numeri."
-        with side-labels 1 col. 
-    message iOrderNum.
-
-    find first Uzsakymas where Uzsakymas.Numeris = iOrderNum no-error.
+    find first Uzsakymas where Uzsakymas.Numeris = orderBuffer:buffer-field("Numeris"):buffer-value.
     if not available Uzsakymas then message "Toks uzsakymas neegzistuoja." view-as alert-box error.
     else do transaction:
         display Uzsakymas.Data Uzsakymas.Pavadinimas Uzsakymas.Suma. 
         delete Uzsakymas.
     end.
+    ordQuery:query-open.
 end procedure.
 
-// ivesti nauja uzsakyma
+/*ivesti nauja uzsakyma*/
 
 procedure createOrder:
-    update custNum label "Kliento kodas" help "Iveskite kliento koda!".
-    find first Klientas where Klientas.Kodas = custNum no-error.
+    find first Klientas where Klientas.Kodas = customerBuffer:buffer-field("Kodas"):buffer-value.
     if not available Klientas then message "Toks klientas neegzistuoja." view-as alert-box error.
     else do transaction:
         create Uzsakymas.
@@ -168,4 +167,5 @@ procedure createOrder:
         Uzsakymas.Kodas = Klientas.Kodas.
         display Uzsakymas.Numeris Uzsakymas.Data Uzsakymas.Pavadinimas Uzsakymas.Suma.
     end.
+    ordQuery:query-open.
 end procedure.
