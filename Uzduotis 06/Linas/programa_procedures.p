@@ -1,48 +1,3 @@
-//MAIN WINDOW:
-
-procedure customers_browse:
-    
-    define query qCust for Customer scrolling.
-    define browse bCust query qCust no-lock 
-        display Customer.Id Customer.Name Customer.OrdersCount 
-        Customer.OrdersTotal 
-        with 15 down no-assign expandable title "Klientai".
-    
-    define button buttonCustCreate label "Naujas Uþsakovas".
-    define button buttonNewOrder label "Naujas uþsakymas".
-    define button buttonLeave label "Baigti darbà" auto-endkey.
-   
-    define frame fCust 
-        buttonCustCreate buttonNewOrder buttonLeave 
-        skip (1) space (8) bCust skip(1) space (8) buttonCustCreate
-        with no-box width 300.
-        
-    on default-action of browse bCust do:
-        hide all.
-        run orders_by_customer (input Customer.id).
-    end.
-        
-    on choose of buttonCustCreate do:
-        hide all.
-        run create_customer.
-    end.
-    
-    on choose of buttonLeave do:
-        hide all.
-        quit.
-    end.
-    
-    on choose of buttonNewOrder do:
-        hide all.
-        run order_create (input Customer.id).
-    end.
-                
-    open query qCust for each Customer.
-    enable all with frame fCust.
-    apply "value-changed" to browse bCust.
-    wait-for window-close of current-window.
-    
-end.
 
 
 //CREATE CUSTOMER:
@@ -65,19 +20,31 @@ procedure create_customer:
         message "Klientas su tokiu kodu jau yra, áveskite ið naujo." 
             view-as alert-box.
         hide all.
-        run customers_browse.
         end.
     else do:
         create Customer.
         Customer.Id = id.
         Customer.Name = cName.
     end.
-    hide all.
-    run customers_browse.
+    hide frame kl-ivedimas.
 end.
 
 
-
+// DELETE CUSTOMER:
+    
+procedure delete_customer:
+    
+    define output parameter isOk as log init false no-undo.
+    
+    define variable isConfirmed as log no-undo init false.
+    message "Ar tikrai norite iðtrinti" view-as alert-box question 
+        buttons yes-no update isConfirmed.
+    if isConfirmed then do transaction:
+        find current Customer exclusive-lock.
+        delete Customer.
+        isOK = true.
+    end.
+end.
 
 
 // ORDERS BY CUSTOMER:
@@ -88,24 +55,6 @@ procedure orders_by_customer:
     define variable orderId as integer no-undo.
     
     find Customer where Customer.Id = id no-lock.
-    
-/*    define menu orderMenu menubar                                  */
-/*        menu-item menu_order_create label "Naujas uþsakymas (ins)" */
-/*        menu-item menu_order_delete label "Iðtrinti uþsakymà (del)"*/
-/*        menu-item menu_order_escape label "Gráþti (esc)".          */
-/*                                                                   */
-/*    on choose of menu-item menu_order_create do:                   */
-/*        run order_create (input 0).                                */
-/*        end.                                                       */
-/*    on choose of menu-item menu_order_delete                       */
-/*        run order_delete (input 0).                                */
-/*    on choose of menu-item menu_order_escape do:                   */
-/*        hide all.                                                  */
-/*        run customers_browse.                                      */
-/*    end.                                                           */
-/*    assign current-window:menubar = menu orderMenu:handle.         */
-    
-    
     define query qOrd for Order scrolling.
     define browse bOrd query qOrd no-lock
         display Order.Id Order.Date Order.CustomerId Order.amount
@@ -119,32 +68,59 @@ procedure orders_by_customer:
             run order_update.
             end.
     end.
- 
-    listener:
-    repeat:
-        open query qOrd for each Order where Order.CustomerId = Customer.Id.
-        enable all with frame fOrd.
-        display "Ins - naujas uþsakymas. Del - iðtrinti uþsakymà." skip 
-        "Enter - keisti uþsakymà. Ecs - gráþti".
-        
-        if can-find(first Order where Order.CustomerId = Customer.Id) then do:
-            find current Order no-lock.
-            end.
-        else orderId = 0.
-        
-        readkey.
-        if lastkey = 127 then run order_delete (input orderId).
-        if lastkey = 510 then run order_create (input Customer.id).
-        if lastkey = 13 then run order_update.
-        if lastkey = 27 then do:
-            hide all.
-            leave listener.
-            end.
+
+    on "insert" of browse bOrd do:
+        run order_create (input Customer.id).
+        close query qOrd.
+        open query qOrd for each Order no-lock where Order.CustomerId = Customer.Id.
+        browse bOrd:refresh().
     end.
-    hide all.
-    run customers_browse.
+        
+    on "delete" of browse bOrd do:
+        run order_delete.
+        close query qOrd.
+        open query qOrd for each Order no-lock where Order.CustomerId = Customer.Id.
+        browse bOrd:refresh().        
+    end.
     
+    on default-action of browse bOrd do:
+        run order_update.
+        close query qOrd.
+        open query qOrd for each Order no-lock where Order.CustomerId = Customer.Id.
+        browse bOrd:refresh().  
+    end.
+    
+    define menu orderMenu menubar
+        menu-item menu_order_create label "Naujas uþsakymas (ins)"
+        menu-item menu_order_delete label "Iðtrinti uþsakymà (del)"
+        menu-item menu_order_escape label "Gráþti (esc)".
+
+    on choose of menu-item menu_order_create do:
+        run order_create (input Customer.id).
+        close query qOrd.
+        open query qOrd for each Order no-lock where Order.CustomerId = Customer.Id.
+        browse bOrd:refresh().
+    end.
+    on choose of menu-item menu_order_delete do:
+        run order_delete.
+        close query qOrd.
+        open query qOrd for each Order no-lock where Order.CustomerId = Customer.Id.
+        browse bOrd:refresh(). 
+    end.
+    on choose of menu-item menu_order_escape do:
+        hide frame fOrd.
+        quit.
+    end.
+    assign current-window:menubar = menu orderMenu:handle.
+
+    
+    open query qOrd for each Order where Order.CustomerId = Customer.Id.
+    enable all with frame fOrd.
+    display "Ins - naujas uþsakymas. Del - iðtrinti uþsakymà." skip
+        "Enter - keisti uþsakymà. Ecs - gráþti".
+    wait-for window-close of current-window.
 end.
+
 
 
 // ORDER UPDATE:
@@ -156,47 +132,27 @@ define variable iCust as integer no-undo.
 define variable dtDate as datetime no-undo.
 define variable dcAmount as decimal no-undo.
 
-define frame fUzs-keitimas 
-     id label "Uþsakymo numeris" dtDate label "Data" skip
-     iCust label "Uþsakovo kodas:" skip
-     dcAmount label "Suma"
-     with side-labels 1 col width 150.
-
-define frame uzs-apzvalga
-    Order.Id skip
-    Order.Date skip
-    Order.Customerid Customer.Name skip
-    Order.amount
-    with side-labels 1 col width 100.
-
-
     if not available Order then do:
         message "Tokio uþsakymo nëra" view-as alert-box.
-        hide all.
-        run customers_browse.
+        leave.
     end.
     else do:
     
-        find current Order exclusive-lock no-error.
-        
-        find Customer where Customer.Id = Order.CustomerId.
-        iCust = Order.CustomerId.
-        dcAmount = Order.Amount.
-        update  iCust label "Uþsakovo kodas" 
-                dcAmount label "Suma" 
-                dtDate format "9999-99-99" label "Data"
-                with 1 col width 100.
-        find Customer where Customer.Id = iCust no-lock.
-        if not available Customer then message "Tokio uþsakovo nëra" view-as alert-box.
-        else do:
-            Order.Date = dtDate.
-            Order.CustomerId = iCust.
-            Order.Amount = dcAmount.
-            display Order.Id Order.Date Order.CustomerId Customer.Name Order.Amount
-            with frame uzs-apzvalga.
-        end.
-        hide all.
-        run orders_by_customer (iCust).
+    find current Order exclusive-lock no-error.
+    
+    iCust = Order.CustomerId.
+    dcAmount = Order.Amount.
+    update  iCust label "Uþsakovo kodas" 
+            dcAmount label "Suma" 
+            dtDate format "9999-99-99" label "Data"
+            with 1 col width 100.
+    find Customer where Customer.Id = iCust no-lock.
+    if not available Customer then message "Tokio uþsakovo nëra" view-as alert-box.
+    else do:
+        Order.Date = dtDate.
+        Order.CustomerId = iCust.
+        Order.Amount = dcAmount.
+    end.
     end.
 end.
 
@@ -206,52 +162,32 @@ end.
 
 procedure order_delete:
 
-    define input parameter iOrdNum as integer no-undo.
-    define variable id as integer no-undo.
-    
-    update iOrdNum 
-       label "Uþsakymo numeris" 
-       help "Áveskite uþsakymo numerá"
-       with side-labels. 
-    
-    find current Customer no-lock.
-    id = Customer.Id.
-    
-    find Order exclusive-lock where Order.id = iOrdNum no-error. 
-    if not available Order then 
-        message "Tokio uþsakymo nëra".
-    else do:
+    find current Order exclusive-lock no-error.
+    define variable isConfirmed as log no-undo init false.
+    message "Ar tikrai norite iðtrinti uþsakymà Nr." Order.id "?" view-as alert-box question 
+        buttons yes-no update isConfirmed.
+    if isConfirmed then do:    
         delete Order.
-        message "Uþsakymas" iOrdNum "iðtrintas".
+        message "Uþsakymas iðtrintas".
     end.
-    hide all.
-    run orders_by_customer (id).
 end.
 
 
 //ORDER CREATE:
 
-
 procedure order_create:
-    
     define input parameter id as integer no-undo.
     define variable dcAmount as decimal no-undo.
+    define variable dDate as date no-undo.
+    dDate = now.
     
     define frame uzs-ivedimas
+        "Naujas uþsakymas" skip 
+        dDate label "Data:" skip
         id label "Uþsakovo kodas:" skip
         dcAmount label "Suma:"
         with side-labels 1 col width 100.
-    
-    define frame uzs-apzvalga
-        Order.Id skip
-        Order.Date skip
-        Order.Customerid Customer.Name skip
-        Order.amount
-        with side-labels 1 col width 100.
-    
-    display "Naujas uþsakymas" skip with stream-io.
-    display "Data: " now format "9999-99-99" skip with stream-io.
-    
+   
     update id dcAmount
         with frame uzs-ivedimas.  
     
@@ -265,15 +201,15 @@ procedure order_create:
         create Order.
         Order.Amount = dcAmount.
         Order.CustomerId = id.
-        display Order.Id Order.Date Order.CustomerId Customer.Name Order.Amount
-            with frame uzs-apzvalga.
     end.
-    hide all.
-    run orders_by_customer (id).
-    
+    hide frame uzs-ivedimas.
 end.
 
 
-
+/*procedure order_refresh:                                                        */
+/*    close query qOrd.                                                           */
+/*    open query qOrd for each Order no-lock where Order.CustomerId = Customer.Id.*/
+/*    browse bOrd:refresh().                                                      */
+/*end.                                                                            */
 
 
