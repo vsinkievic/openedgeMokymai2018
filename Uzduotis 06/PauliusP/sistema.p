@@ -22,7 +22,11 @@ procedure prog_inicializacija:
     on choose of btn-quit do:
         quit.
     end.
-
+    /*on value-changed of interaktyvusLangas do:*/
+    on "Ctrl" of interaktyvusLangas do:
+        display "ssdsssss".
+    end.
+   /* end.*/
     display "Spauskite RETURN norëdami pamatyti daugiau informacijos apie tam tikrà klientà" 
     with size 70 by 2 centered.
     
@@ -38,6 +42,9 @@ procedure prog_inicializacija:
         
     apply "value-changed" to browse interaktyvusLangas.
     wait-for window-close of current-window.
+    on "Ctrl" of interaktyvusLangas do:
+        message "ssdsssss".
+    end.
 end procedure.
 
 /* ------------------------------------------------------------------------------------------------------------------------------- */
@@ -83,14 +90,17 @@ procedure klientas_uzsakymai:  //Kliento uþsakymø duomenys
         "Spauskite CTRL-SHIFT-D arba CTRL-D norëdami iðtrinti uþsakymà" with size 70 by 5.
         enable all with frame remelis.
         
-        readkey.
-            if lastkey = keycode ("RETURN") then run uzsakymai_atnaujinimas.
-            if lastkey = keycode ("ctrl-shift-n") OR lastkey = keycode ("ctrl-n") then run uzsakymai_kurimas /* (input klientas.kodas)*/ .
-            if lastkey = keycode ("ctrl-shift-d") OR lastkey = keycode ("ctrl-d") then run uzsakymai_trynimas.
-            if lastkey = keycode ("ESC") 
-            then do:
-                QUIT.
-            end.
+        
+        on value-changed of interaktyvusLangas do:
+            readkey.
+                if lastkey = keycode ("RETURN") then run uzsakymai_atnaujinimas.
+                if lastkey = keycode ("ctrl-shift-n") OR lastkey = keycode ("ctrl-n") then run uzsakymai_kurimas /* (input klientas.kodas)*/ .
+                if lastkey = keycode ("ctrl-shift-d") OR lastkey = keycode ("ctrl-d") then run uzsakymai_trynimas.
+                if lastkey = keycode ("ESC") 
+                then do:
+                    QUIT.
+                end.
+        end.
     hide all.
     end.
 end procedure.
