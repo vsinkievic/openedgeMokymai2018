@@ -1,146 +1,135 @@
- run prog_inicializacija.
+    define variable isOk as log no-undo.
 
-procedure prog_inicializacija:
     define button btn-newClient label "Naujas klientas".
-    define button btn-quit label "&Iðjungti programà"  auto-endkey.
 
-    define query uzklausa for klientas scrolling.
-    define browse interaktyvusLangas query uzklausa no-lock
- 
-    display klientas.kodas  klientas.pavadinimas  klientas.uzsakymuSuma  klientas.uzsakymuKiekis
-    with 10 down no-assign expandable title "Klientø sàraðas".
+    define query k-uzklausa for klientas scrolling.
+    define browse k-interaktyvusLangas query k-uzklausa no-lock display klientas.kodas  klientas.pavadinimas  
+        klientas.uzsakymuSuma  klientas.uzsakymuKiekis
+        with 10 down no-assign separators.
+    
+    define query u-uzklausa for uzsakymas scrolling.
+    define browse  u-interaktyvusLangas query u-uzklausa no-lock display uzsakymas.numeris uzsakymas.pavadinimas
+        uzsakymas.data uzsakymas.suma uzsakymas.kodas
+        with 6 down no-assign separators.
  
     define frame remelis
-        skip (1) interaktyvusLangas skip (1)
-        btn-newClient btn-quit
-        with no-box size 200 by 200.
- 
+        skip (1) k-interaktyvusLangas skip (1)
+        u-interaktyvusLangas skip (1)
+        btn-newClient
+        with 1 col title "Klientai" center.
+        
+ define frame f-client
+        klientas.kodas label "Kodas" skip
+        klientas.pavadinimas label "Pavadinimas" skip
+        with 2 col title "Naujas Klientas" centered view-as dialog-box.
+
+ define frame f-uzs
+        uzsakymas.kodas label "Kodas" skip
+        uzsakymas.numeris label "Numeris" skip
+        uzsakymas.pavadinimas label "Pavadinimas" skip
+        uzsakymas.suma label "Suma" skip
+        uzsakymas.data label "Data" skip
+        with 5 col title "Naujas Klientas" centered view-as dialog-box.
+        
     on choose of btn-newClient do:
         run naujas_klientas.
     end.
+    
+on value-changed of k-interaktyvusLangas do:  
+    run atnaujinti_uzsakymus.
+end.
 
-    on choose of btn-quit do:
-        quit.
-    end.
-    /*on value-changed of interaktyvusLangas do:*/
-    on "Ctrl" of interaktyvusLangas do:
-        display "ssdsssss".
-    end.
-   /* end.*/
-    display "Spauskite RETURN norëdami pamatyti daugiau informacijos apie tam tikrà klientà" 
-    with size 70 by 2 centered.
-    
-    open query uzklausa for each klientas by uzsakymuSuma descending.
-    enable all with frame remelis.
-    
-    
-    READKEY.
-    if lastkey = keycode ("RETURN")
-        then do:
-            run klientas_uzsakymai.
-        end.
-        
-    apply "value-changed" to browse interaktyvusLangas.
-    wait-for window-close of current-window.
-    on "Ctrl" of interaktyvusLangas do:
-        message "ssdsssss".
-    end.
-end procedure.
+on "Ctrl-n" of k-interaktyvusLangas do:
+    run naujas_klientas (output isOk).
+    if isOK 
+    then run atnaujinti_klientus.
+    else return no-apply.
+end.
+
+on "Ctrl-n" of u-interaktyvusLangas do:
+    run uzsakymai_kurimas.
+    run atnaujint_uzsakymus.
+end.
+
+on "Ctrl-d" of u-interaktyvusLangas do:  
+    run uzsakymai_trynimas.
+    run atnaujint_uzsakymus.
+end.
+
+on "return" of u-interaktyvusLangas do:
+    run uzsakymai_atnaujinimas.
+    run atnaujinti_uzsakymus.
+end. 
+
+run atnaujinti_klientus.
+enable all with frame remelis.
+wait-for window-close of current-window.
 
 /* ------------------------------------------------------------------------------------------------------------------------------- */
 
-procedure naujas_klientas:  //Naujo kliento ávedimas
-    define frame naujamKlientui with centered title  "Naujo kliento ávedimo programa".
-    define variable uzklausa as log no-undo init true.
-
-    do while uzklausa <> false:
-        do transaction:
-            create klientas.
-            update kodas label "ID" klientas.pavadinimas format "x(20)" label "Klientas" with frame naujamKlientui.
-        end.
-        update uzklausa label "Jûsø pasirinkimas" with centered title "Ávesti dar vienà klientà?".
-    end.
-end procedure.
+procedure atnaujinti_klientus: 
+    close QUERY k-uzklausa.
+    OPEN QUERY k-uzklausa FOR EACH klientas.
+    browse k-interaktyvusLangas:refresh() no-error.
+end.
 
 /* ------------------------------------------------------------------------------------------------------------------------------- */
 
-procedure klientas_uzsakymai:  //Kliento uþsakymø duomenys
-    define frame esamiKlientai with centered title  "Informacija apie esamà klientà" 1 col size 40 by 15 stream-io.
-    define variable klientoNrPasirinkimas as integer no-undo.
-    
-        update klientoNrPasirinkimas label "Pasirinkite kliento numerá" with side-labels centered.   
-        for first klientas no-lock where klientas.kodas = klientoNrPasirinkimas with frame esamiKlientai by uzsakymuSuma descending:
-            display kodas label "ID" pavadinimas format "x(20)" label "Klientas" uzsakymuSuma label "Uþsakymø suma" uzsakymuKiekis label "Uþsakymø kiekis".
-        end.
+procedure atnaujinti_uzsakymus: 
+    close query u-uzklausa.
+    open query u-uzklausa 
+        for each uzsakymas no-lock where uzsakymas.kodas = klientas.kodas.
+    browse k-interaktyvusLangas:refresh() no-error.
+end.
 
-    define query uzklausa for uzsakymas scrolling.
-    define browse interaktyvusLangas query uzklausa no-lock
-        display uzsakymas.numeris uzsakymas.pavadinimas uzsakymas.kodas uzsakymas.data uzsakymas.suma
-        with 10 down no-assign expandable title "Uþsakymai".
-  
-    define frame remelis
-    skip (1) interaktyvusLangas skip(1)
-        with no-box width 80.
+/* ------------------------------------------------------------------------------------------------------------------------------- */
 
-   repeat:
-        hide all.
-        open query uzklausa for each uzsakymas where uzsakymas.kodas =  klientoNrPasirinkimas.
-        display "Spauskite RETURN norëdami atnaujinti uþsakymo informacijà" SKIP
-        "Spauskite CTRL-SHIFT-N arba CTRL-N norëdami sukurti naujà uþsakymà" SKIP
-        "Spauskite CTRL-SHIFT-D arba CTRL-D norëdami iðtrinti uþsakymà" with size 70 by 5.
-        enable all with frame remelis.
-        
-        
-        on value-changed of interaktyvusLangas do:
-            readkey.
-                if lastkey = keycode ("RETURN") then run uzsakymai_atnaujinimas.
-                if lastkey = keycode ("ctrl-shift-n") OR lastkey = keycode ("ctrl-n") then run uzsakymai_kurimas /* (input klientas.kodas)*/ .
-                if lastkey = keycode ("ctrl-shift-d") OR lastkey = keycode ("ctrl-d") then run uzsakymai_trynimas.
-                if lastkey = keycode ("ESC") 
-                then do:
-                    QUIT.
-                end.
-        end.
-    hide all.
+procedure naujas_klientas: 
+ define buffer bKlientas for klientas.
+    define output parameter isOk as log init false no-undo.
+    do transaction:
+        create klientas.
+        update klientas.kodas klientas.pavadinimas 
+            with frame f-client.
+             
+        if can-find(bKlientas where bKlientas.kodas = klientas.kodas 
+                    and rowid(bKlientas) <> rowid(klientas))
+        then do: 
+            message "Klientas su tokiu kodu jau yra" view-as alert-box error.
+            undo, retry.
+        end.              
+        isOK = true.
+    end.
+    hide frame f-client.
+end.
+
+/* ------------------------------------------------------------------------------------------------------------------------------- */
+
+procedure uzsakymai_trynimas:
+    define variable isConfirmed as log no-undo init false.
+    message "Ar tikrai norite iðtrinti" view-as alert-box question 
+        buttons yes-no-cancel update isConfirmed.
+    if isConfirmed then do transaction:
+        find current uzsakymas exclusive-lock.
+        delete uzsakymas.
+        message "Uþsakymas iðtrintas" view-as alert-box.
+        run uzsakymai_atnaujinimas.
     end.
 end procedure.
 
 /* ------------------------------------------------------------------------------------------------------------------------------- */
 
 procedure uzsakymai_atnaujinimas:
-    define variable uzsakymoNumerioKeitimas as integer no-undo.
-    define frame keitimas with centered title  "Uþsakymo informacija"  side-labels 2 col width 50.
-
-    update uzsakymoNumerioKeitimas label "Norimo pakeisti uþsakymo numeris" with centered side-labels.
-    find uzsakymas exclusive-lock where uzsakymas.numeris = uzsakymoNumerioKeitimas no-error.
-        if available uzsakymas 
-            then do with frame keitimas:
-                update pavadinimas format "x(20)" label "Apraðymas" suma label "Suma" kodas label "Kliento ID" data format "9999-99-99" label "Laikas".
-                message "Duomenys teisingi, uþsakymo informacija atnaujinta" view-as alert-box title "Sistemos praneðimas".
-            end.
-        if not available uzsakymas
-        then do:
-            message "Uþsakymo su tokiu numeriu nëra" view-as alert-box title "Sistemos praneðimas".
-        end.
-end procedure.
-
-/* ------------------------------------------------------------------------------------------------------------------------------- */
-
-procedure uzsakymai_trynimas:
-    define variable salinamoUzsakymoNr as integer no-undo.
-
-update salinamoUzsakymoNr label "Norimo paðalinti uþsakymo numeris" with side-labels.
-
-find uzsakymas exclusive-lock where uzsakymas.numeris = salinamoUzsakymoNr no-error.
-if available uzsakymas 
-    then do:
-            DELETE uzsakymas.
-            message "Pasirinktas uþsakymas paðalintas ið sistemos" view-as alert-box title "Sistemos praneðimas".
+    do transaction:
+        find current uzsakymas exclusive-lock.
+        display uzsakymas.kodas with frame f-uzs.
+        display uzsakymas.numeris with frame f-uzs.    
+        update uzsakymas.pavadinimas with frame f-uzs.
+        update uzsakymas.data  with frame f-uzs.
+        update uzsakymas.suma with frame f-uzs.
+        find current uzsakymas no-lock.
     end.
-if not available uzsakymas
-    then do:
-            message "Tokio uþsakymo nëra" view-as alert-box title "Sistemos praneðimas".
-    end.
+    hide frame f-uzs.
 end procedure.
 
 /* ------------------------------------------------------------------------------------------------------------------------------- */
@@ -151,6 +140,6 @@ procedure uzsakymai_kurimas:
     do transaction with 2 col centered title "Naujo uþsakymo duomenys" width 40:
         create uzsakymas. 
             display numeris label "Uþsakymo nr.". 
-            update pavadinimas format "x(20)" label "Apraðymas" suma label "Suma" kodas label "Kliento ID" data format "9999-99-99" label "Laikas".
+            update pavadinimas format "x(20)" label "Apraðymas" suma label "Suma" klientas.kodas label "Kliento ID" data format "9999-99-99" label "Laikas".
     end.
 end procedure.
