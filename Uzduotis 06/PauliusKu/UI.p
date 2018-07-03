@@ -35,6 +35,7 @@ PROCEDURE WINDOW_KLIENTAS:
         ASSIGN CURRENT-WINDOW:MENUBAR = MENU meniu_blank:HANDLE.
         RUN CREATE_KLIENTAS.
         ASSIGN CURRENT-WINDOW:MENUBAR = MENU meniu:HANDLE.
+        OPEN QUERY q-klientas FOR EACH klientas.
         ENABLE ALL WITH FRAME f-klientas.
     END.
     
@@ -91,6 +92,7 @@ PROCEDURE WINDOW_UZSAKYMAS:
     ON CHOOSE OF MENU-ITEM new_uzsakymas DO:
         HIDE ALL.
         RUN CREATE_UZSAKYMAS.
+        OPEN QUERY q-uzsakymas FOR EACH uzsakymas WHERE uzsakymas.kodas = klientas.kodas.
         ENABLE ALL WITH FRAME f-uzsakymas.
     END.
     
@@ -104,6 +106,7 @@ PROCEDURE WINDOW_UZSAKYMAS:
     ON CHOOSE OF MENU-ITEM delete_uzsakymas DO:
         GET CURRENT q-uzsakymas.
         delete uzsakymas.
+        b-uzsakymas:DELETE-CURRENT-ROW () IN FRAME f-uzsakymas.
     END.
     
     ON CHOOSE OF MENU-ITEM exit_uzsakymas DO:
@@ -114,6 +117,7 @@ PROCEDURE WINDOW_UZSAKYMAS:
 /*    ------ Main Body ------*/
     
     OPEN QUERY q-uzsakymas FOR EACH uzsakymas WHERE uzsakymas.kodas = klientas.kodas.
+    
     ENABLE ALL WITH FRAME f-uzsakymas.
     ASSIGN CURRENT-WINDOW:MENUBAR = MENU meniu:HANDLE.
     WAIT-FOR WINDOW-CLOSE OF CURRENT-WINDOW.
@@ -124,7 +128,7 @@ END.
 
 
 PROCEDURE CREATE_KLIENTAS:
-        define variable temp-kodas as integer no-undo.
+    define variable temp-kodas as integer no-undo.
     
     define frame frame1 temp-kodas label "Kodas" skip
         klientas.pavadinimas label "Pavadinimas"
