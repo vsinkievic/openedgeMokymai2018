@@ -1,0 +1,9 @@
+Savarankiškai susipažinti:
+https://community.progress.com/community_groups/openedge_development/m/documents/2260
+Webinaras: https://youtu.be/qkblc5WRn-U
+
+Užduotis:
+Parašyti programą kvadratinės lygties sprendimui. Sprendimas turi būti išneštas į include failą, funkciją: 
+Function solveEquation returns log (pA as dec, pB as de, pC as dec, output x1, output x2). 
+Jei sprendimo nėra, funkcija grąžina false, o x1 ir x2 = ?.
+Turi būti paleidimo UI, veikimas turi būti testuojamas su ABLUnit testais.
