@@ -33,6 +33,6 @@ define frame apzvalga
                display uzsakymas
                with frame apzvalga.
     
-                end.
+            end.
     
     

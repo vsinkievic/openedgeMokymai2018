@@ -11,5 +11,5 @@ for each klientas no-lock
             uzsakymas.pavadinimas  label "Kliento pavadinimas"
             uzsakymas.data  label "Uşsakymo data"
             uzsakymas.suma  label "Uşsakymo suma".
-            end.
-    end.        
+        end.
+end.        
