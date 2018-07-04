@@ -1,0 +1,17 @@
+Savarankiškai:
+susipažinti su PDF iš bendros Progress dokumentacijos (antrame lape yra grupė „Integration and general Business Interfaces“
+  * Application and integration services
+  * Programming interfaces
+  * Messaging and ESB
+  * Working with XML
+  * Working with JSON
+Reikėtų šiuos dokumentus įsiminti. Peržiūrėti pagrindinius skyrius, pasistengti suprasti apie kokius integracijos būdus jose yra kalbama. 
+
+
+Užduotis:
+Pasinaudojant dokumentacija:
+  * OpenEdge Management and OpenEdge Explorer
+  * Progress Developer Studio for OpenEdge, skyrius: AppServer support in Progress....
+  * Developing AppServer applications.
+ir OpenEdge Explorer (http://localhost:9090)
+parašyti paprastą sprendimą kuriame yra naudojama appserveryje veikianti programa. Sprendimas turi susidaryti iš klientinės programos, kuri kviečia appserveryje esančią programą hello.p, jai pateikia character parametrą ir iš jos, kitame parametre, gauna ir parodo kažkaip pakeistą reikšmę (pvz. pridedamas koks nors žodis). Siūlyčiau naudoti appserverio režimą state-reset. 
