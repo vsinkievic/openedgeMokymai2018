@@ -17,6 +17,6 @@ else do:
     klientas.kodas = kodas.
     klientas.pavadinimas = pavadinimas.
     message "Naujas klientas árağytas!" view-as alert-box.
-    end.
+end.
 
 
