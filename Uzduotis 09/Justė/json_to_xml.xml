@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<clients xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <clientsRow>
+    <id>59761c23b30d971669fb42ff</id>
+    <isActive>true</isActive>
+    <age>36</age>
+    <name>Dunlap Hubbard</name>
+    <gender>male</gender>
+    <company>CEDWARD</company>
+    <email>dunlaphubbard@cedward.com</email>
+    <phone>+1 (890) 543-2508</phone>
+    <address>169 Rutledge Street, Konterra, Northern Mariana Islands, 8551</address>
+  </clientsRow>
+  <clientsRow>
+    <id>59761c233d8d0f92a6b0570d</id>
+    <isActive>true</isActive>
+    <age>24</age>
+    <name>Kirsten Sellers</name>
+    <gender>female</gender>
+    <company>EMERGENT</company>
+    <email>kirstensellers@emergent.com</email>
+    <phone>+1 (831) 564-2190</phone>
+    <address>886 Gallatin Place, Fannett, Arkansas, 4656</address>
+  </clientsRow>
+  <clientsRow>
+    <id>59761c23fcb6254b1a06dad5</id>
+    <isActive>true</isActive>
+    <age>30</age>
+    <name>Acosta Robbins</name>
+    <gender>male</gender>
+    <company>ORGANICA</company>
+    <email>acostarobbins@organica.com</email>
+    <phone>+1 (882) 441-3367</phone>
+    <address>697 Linden Boulevard, Sattley, Idaho, 1035</address>
+  </clientsRow>
+</clients>
