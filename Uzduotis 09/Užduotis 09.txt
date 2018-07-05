@@ -1,0 +1,8 @@
+Savarankiškai praeiti iš Student guide: 7 managing transactions ir 8 Managing Record Locking
+
+Susipažinti su PDF iš bendros Progress dokumentacijos (antrame lape yra grupė „Integration and general Business Interfaces“
+  * Working with XML
+  * Working with JSON
+  
+Užduotis: 
+Skaityti apie read-xml, read-json, write-xml, write-json. Surasti internete paprastų JSON ir/ar XML failų pavyzdžius. Parašyti programą, kurį mokėtų tokius failus perskaityti, išvesti turinį su display (jei didelis, tai į failą), įrašyti kitu formatu (pvz XML->JSON). Kartu su sprendimu pateikti nuorodas iš kur buvo paimti pavyzdiniai failai.
