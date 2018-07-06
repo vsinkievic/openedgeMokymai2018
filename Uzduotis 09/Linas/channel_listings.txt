@@ -1,0 +1,76 @@
+
+Time           Title                                              Duration
+-------------- -------------------------------------------------- --------
+17-10-27 05:30 Dienos programa                                    5        min
+17-10-27 05:35 Visatos broliai                                    30       min
+17-10-27 06:05 Kaukë                                              25       min
+17-10-27 06:30 Nepaprastas Gumuliuko gyvenimas                    25       min
+17-10-27 06:55 Volkeris, Teksaso reindþeris                       55       min
+17-10-27 07:50 Volkeris, Teksaso reindþeris                       60       min
+17-10-27 08:50 24 valandos                                        45       min
+17-10-27 09:35 Yra, kaip yra                                      60       min
+17-10-27 10:35 Yra, kaip yra                                      60       min
+17-10-27 11:35 KK2                                                25       min
+17-10-27 12:00 KK2                                                25       min
+17-10-27 12:25 Roþiø karas                                        60       min
+17-10-27 13:25 Dvi ðirdys                                         30       min
+17-10-27 13:55 Dvi ðirdys                                         30       min
+17-10-27 14:25 Dvi ðirdys                                         30       min
+17-10-27 14:55 Dvi ðirdys                                         35       min
+17-10-27 15:30 Labas vakaras, Lietuva                             65       min
+17-10-27 16:35 24 valandos                                        55       min
+17-10-27 17:30 Þinios                                             55       min
+17-10-27 18:25 Sportas                                            3        min
+17-10-27 18:28 Orai                                               2        min
+17-10-27 18:30 KK2 penktadienis                                   90       min
+17-10-27 20:00 SAVAITËS HITAS. '13 valandø. Slaptieji Bengazio ka 175      min
+17-10-27 22:55 Laisvës kirtis                                     105      min
+17-10-28 00:40 Brëkðtanti auðra. 2 dalis                          115      min
+17-10-28 02:35 Programos pabaiga                                  170      min
+17-10-28 05:25 Dienos programa                                    5        min
+17-10-28 05:30 Kaukë                                              25       min
+17-10-28 05:55 Nepaprastas Gumuliuko gyvenimas                    25       min
+17-10-28 06:20 'Nickelodeon' valanda. Þybsnis ir stebuklingos mað 25       min
+17-10-28 06:45 Neramûs ir triukðmingi                             25       min
+17-10-28 07:10 Kempiniukas Plaèiakelnis                           25       min
+17-10-28 07:35 Tomo ir Dþerio pasakos                             25       min
+17-10-28 08:00 Ponas Bynas                                        30       min
+17-10-28 08:30 Tinginiø miestelis                                 30       min
+17-10-28 09:00 Ogis ir tarakonai                                  10       min
+17-10-28 09:10 KINO PUSRYÈIAI. 'Vëþliuko Semio nuotykiai'         105      min
+17-10-28 10:55 Drakono perlo paslaptis                            115      min
+17-10-28 12:50 Pelëdos                                            110      min
+17-10-28 14:40 Policijos akademija 2. Pirmoji uþduotis            110      min
+17-10-28 16:30 Bus visko                                          60       min
+17-10-28 17:30 Þinios                                             55       min
+17-10-28 18:25 Sportas                                            3        min
+17-10-28 18:28 Orai                                               2        min
+17-10-28 18:30 SUPERKINAS. 'Ðrekas Treèiasis'                     105      min
+17-10-28 20:15 Smokingas                                          125      min
+17-10-28 22:20 Ateini èia arba gausi á dûdà!                      140      min
+17-10-29 00:40 Laisvës kirtis                                     165      min
+17-10-29 03:25 Programos pabaiga                                  180      min
+17-10-29 06:25 Dienos programa                                    5        min
+17-10-29 06:30 Kaukë                                              25       min
+17-10-29 06:55 Nepaprastas Gumuliuko gyvenimas                    25       min
+17-10-29 07:20 'Nickelodeon' valanda. Þybsnis ir stebuklingos mað 25       min
+17-10-29 07:45 Neramûs ir triukðmingi                             25       min
+17-10-29 08:10 Kempiniukas Plaèiakelnis                           25       min
+17-10-29 08:35 Tomo ir Dþerio pasakos                             25       min
+17-10-29 09:00 Ponas Bynas                                        25       min
+17-10-29 09:25 Tinginiø miestelis                                 30       min
+17-10-29 09:55 Ogis ir tarakonai                                  10       min
+17-10-29 10:05 KINO PUSRYÈIAI. 'Asteriksas nustebina Cezará'      100      min
+17-10-29 11:45 Neátikëtinos Lemoni Sniketo istorijos              130      min
+17-10-29 13:55 Prièiupom!                                         30       min
+17-10-29 14:25 Laukiniai laukiniai vakarai                        135      min
+17-10-29 16:40 Ne vienas kelyje                                   40       min
+17-10-29 17:20 Teleloto                                           70       min
+17-10-29 18:30 Þinios                                             55       min
+17-10-29 19:25 Sportas                                            3        min
+17-10-29 19:28 Orai                                               2        min
+17-10-29 19:30 Lietuvos balsas                                    160      min
+17-10-29 22:10 Amerikieèiø snaiperis                              160      min
+17-10-30 00:50 Mirties motelis 2. Pirmasis kirtis                 100      min
+17-10-30 02:30 Smokingas                                          105      min
+17-10-30 04:15 Programos pabaiga                                  130      min
