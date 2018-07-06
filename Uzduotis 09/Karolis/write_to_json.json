@@ -1,0 +1,26 @@
+{"part": [
+  {
+    "item": "Motherboard",
+    "manufacturer": "ASUS",
+    "model": "P3B-F",
+    "cost": 123.0
+  },
+  {
+    "item": "Video Card",
+    "manufacturer": "ATI",
+    "model": "All-in-Wonder Pro",
+    "cost": 160.0
+  },
+  {
+    "item": "Sound Card",
+    "manufacturer": "Creative Labs",
+    "model": "Sound Blaster Live",
+    "cost": 80.0
+  },
+  {
+    "item": "inch Monitor",
+    "manufacturer": "LG Electronics",
+    "model": " 995E",
+    "cost": 290.0
+  }
+]}
