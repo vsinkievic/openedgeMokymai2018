@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<colors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <colorsRow>
+    <aliceblue>#f0f8ff</aliceblue>
+    <antiquewhite>#faebd7</antiquewhite>
+    <aqua>#00ffff</aqua>
+    <aquamarine>#7fffd4</aquamarine>
+    <azure>#f0ffff</azure>
+    <beige>#f5f5dc</beige>
+    <bisque>#ffe4c4</bisque>
+    <black>#000000</black>
+    <blanchedalmond>#ffebcd</blanchedalmond>
+    <blue>#0000ff</blue>
+    <blueviolet>#8a2be2</blueviolet>
+    <brown>#a52a2a</brown>
+  </colorsRow>
+</colors>
