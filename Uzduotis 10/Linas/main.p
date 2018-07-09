@@ -14,27 +14,25 @@ define variable kvadratine1 as class kLygtis1 no-undo.
 
 update a b c help "Áveskite tris skaièius".
 
-d = new determinant(2, 1, 2).
 
-display d:val.
 
-/*kvadratine = new kLygtis(a, b, c).        */
-/*                                          */
-/*if kvadratine:sprestina() then do:        */
-/*    display kvadratine:x1 kvadratine:x2.  */
-/*    end.                                  */
-/*else do:                                  */
-/*    display "Sprendimas negalimas".       */
-/*end.                                      */
-/*                                          */
-/*                                          */
-/*                                          */
-/*kvadratine1 = new kLygtis1(a, b, c).      */
-/*                                          */
-/*if kvadratine1:sprestina then do:         */
-/*    display kvadratine1:x1 kvadratine1:x2.*/
-/*    end.                                  */
-/*else do:                                  */
-/*    display "Sprendimas negalimas".       */
-/*end.                                      */
+// pirmas var.
+
+kvadratine = new kLygtis(a, b, c).
+
+if kvadratine:sprestina() then kvadratine:toScreen().
+else display "Sprendimas negalimas".
+
+
+
+// antras var.
+
+kvadratine1 = new kLygtis1(a, b, c).
+
+if kvadratine1:sprestina then do:
+    display kvadratine1:x1 kvadratine1:x2.
+    end.
+else do:
+    display "Sprendimas negalimas".
+end.
 

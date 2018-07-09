@@ -12,8 +12,8 @@ class kLygtis:
     define public property x2 as decimal no-undo get.
     private set.
     
-    constructor public kLygtis (input a as decimal, input b as decimal, 
-        input c as decimal):
+    constructor public kLygtis (a as decimal, b as decimal, 
+        c as decimal):
             
         this-object:a = a.
         this-object:b = b.
@@ -41,5 +41,13 @@ class kLygtis:
     method public decimal det():  // determinantas
         return this-object:b * this-object:b - 4 * this-object:a * this-object:c.
     end.
+    
+    method public void toScreen():  // parodo rezultatus ant ekrano
+        display "Kvadratinës lygties sprendimas" skip.
+        display substitute ("Ávestos reikðmës: a = &1, b = &2, c = &3", 
+        this-object:a, this-object:b, this-object:c) format "x(70)" no-labels skip.
+        display "Sprendimas:" skip "x1 = " x1 "x2 = " x2.
+    end.
+    
         
 end class.    

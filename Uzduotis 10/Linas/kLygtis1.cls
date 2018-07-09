@@ -14,8 +14,8 @@ class kLygtis1:
     define public property sprestina as log no-undo get.
     private set.
     
-    constructor public kLygtis1 (input a as decimal, input b as decimal, 
-        input c as decimal):
+    constructor public kLygtis1 (a as decimal, b as decimal, 
+        c as decimal):
 
         d = new determinant(a, b, c).
     

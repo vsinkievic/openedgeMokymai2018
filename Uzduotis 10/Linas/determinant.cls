@@ -8,8 +8,8 @@ class determinant:
     define public property val as decimal no-undo get.
     private set.
     
-    constructor public determinant (input a as decimal, input b as decimal, 
-        input c as decimal):
+    constructor public determinant (a as decimal, b as decimal, 
+        c as decimal):
             val = b * b - 4 * a * c.
     end.
     
