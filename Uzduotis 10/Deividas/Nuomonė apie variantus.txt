@@ -1,0 +1,4 @@
+Labiau patiko variantas nr.1 dël tos prieþasties, 
+kad norint skaièiuoti vis naujà kvadratinæ lygtá, kuriamas objektas,
+dël to perskiaèiavus 5 lygtis vistiek galima pasiekti pirmosios lygties
+reikðmes, ko negalima padaryti su antruoju atveju.
