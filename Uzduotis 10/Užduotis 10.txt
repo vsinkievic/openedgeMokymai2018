@@ -1,0 +1,12 @@
+Savarankiškai:
+Susipažinti su Progress dokumentacijos PDF: Object-Oriented programming
+
+Medžiaga papildomam skaitymui: 
+Knyga Object thinking, David West, taip pat David West paskaitos YouTube ar kitose šaltiniuose
+Tinklalapis: https://www.yegor256.com, įvairios to paties autoriaus paskaitos, webinarai kitose šaltiniuose. Atsargiai, autorius dėsto gan kraštutinę poziciją.
+
+
+Užduotis:
+Realizuoti kvadratinės lygties sprendimą objektiškai. Sprendime turi būti ir panaudojimo pavyzdžiai (UI ir/ar ABLUnit testai).
+Būtų gerai pabandyti kelis dizaino variantus, pamastyti (užrašyti) kuris variantas labiau prie širties, pateikti argumentus (aptarinėsime per paskaitą).
+
