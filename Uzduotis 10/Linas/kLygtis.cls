@@ -27,9 +27,10 @@ class kLygtis:
             x1 = (- b + sqrt(this-object:det())) / 2 * a.
             x2 = (- b - sqrt(this-object:det())) / 2 * a.
         end.
-        else 
+        else if this-object:det() = 0 then do:
             x1 = (- b) / 2 * a.
             x2 = ?.
+        end.
     end.
     
     method public log sprestina():

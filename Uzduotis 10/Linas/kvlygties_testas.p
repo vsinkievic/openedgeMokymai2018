@@ -10,6 +10,8 @@
 USING Progress.Lang.*.
 USING OpenEdge.Core.Assert FROM PROPATH.
 using kLygtis.*.
+using kLygtis1.*.
+using determinant.*.
 
 BLOCK-LEVEL ON ERROR UNDO, THROW.
 
@@ -20,6 +22,8 @@ define variable determinant as decimal no-undo.
 define variable x1 as decimal no-undo.
 define variable x2 as decimal no-undo.
 define variable kv as class kLygtis no-undo.
+define variable kv1 as class kLygtis1 no-undo.
+define variable d as class determinant no-undo.
 
 
 
@@ -32,10 +36,14 @@ PROCEDURE functionWorks:
     
     //when
         kv = new kLygtis(a, b, c).
+        kv1 = new kLygtis1(a, b, c).
+        d = new determinant(a, b, c).
     
     //then
         Assert:equals(-1, kv:x1).
         Assert:equals(0, kv:det()).
+        Assert:equals(-1, kv1:x1).
+        Assert:equals(0, d:val).
 
 END PROCEDURE.  
 
@@ -48,9 +56,11 @@ PROCEDURE determinantZero:
     
     //when
         kv = new kLygtis(a, b, c).
+        kv1 = new kLygtis1(a, b, c).
     
     //then
         Assert:isTrue(kv:x1 = -4 and kv:x2 = ?).
+        Assert:isTrue(kv1:x1 = -4 and kv1:x2 = ?).
         
 END PROCEDURE.  
 
@@ -63,9 +73,11 @@ PROCEDURE determinantNegativeGivesFalse:
     
     //when
         kv = new kLygtis(a, b, c).
+        kv1 = new kLygtis1(a, b, c).
     
     //then
         Assert:isFalse(kv:sprestina()).
+        Assert:isFalse(kv1:sprestina).
         
 END PROCEDURE.  
 
@@ -78,10 +90,13 @@ PROCEDURE determinantNegativeGivesNullOutputs:
     
     //when
         kv = new kLygtis(a, b, c).
+        kv1 = new kLygtis1(a, b, c).
     
     //then
         Assert:Equals(?, kv:x1).
         Assert:Equals(?, kv:x2).
+        Assert:Equals(?, kv1:x1).
+        Assert:Equals(?, kv1:x2).
         
 END PROCEDURE.  
 
