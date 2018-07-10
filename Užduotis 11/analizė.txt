@@ -1,0 +1,80 @@
+aukðtø mygtukai (viduje)
+liftas
+durys (lifto) 
+durys (aukðto)
+keleivis
+aukðtai
+iðkvietimo mygtukai
+variklis
+ðviesa lifte
+durø uþdarymo/atidarymo mygtukai
+pagalbos iðkvietimo mygtukas
+lifto techninë pagalba (tarnyba)
+lifto ðachta
+pastatas (turi konkretø aukðtø kieká)
+leistinas lifto svoris
+
+
+
+Pagrindiniai scenarijai
+1) keleivio perkelimas tarp aukðtø
+2) lifto iðkvietimas
+    tuðèio lifto atvaþiavimas
+    
+Papildomi scenarijai
+1) keleivis iðkvietë liftà, áëjo ir uþsisvajojo 
+2) liftas paima pakeleivius (nice to have)
+    
+== Scenarijus „Keleivio perkelimas tarp aukðtø“ == 
+Keleivis iðvieèia liftà (þr. scenarijø „lifto iðkvietimas“)
+Keleivis álipa á liftà       
+Spaudþia mygtukà
+Durys uþsidaro
+Patikrina, ar nëra virðijamas leistinas svoris
+liftas juda tarp aukðtø
+liftas pasiekia reikiamà aukðtà
+durys atsidaro
+keleivis iðeina
+durys uþsidaro   
+
+    
+== Scenarijus „Lifto iðkvietimas“ ==
+Keleivis paspaudþia iðkvietimo mygtukà
+Liftas tikrina ar jis nëra uþimtas (?)
+Jei liftas uþimtas, arba liftas yra kitame aukðte, klientas laukia
+Jei liftas buvo kitame aukðte, jis atvaþiuoja
+Durys atsidaro
+
+== Statinis modelis
+
+Klasiø kandidatai:
+liftas
+    bûsena
+    durys 
+    paskirties aukðtas
+    aukðtas (kuriame jis yra)
+    atvaþiuok(aukðtas)
+    atidarykDuris()
+    
+keleivis
+    bûsena
+    svoris
+    tikslas (aukðtas)
+    esamas aukðtas
+    iðkvieskLiftà()
+
+pastatas
+    aukðtø kiekis (konstanta), aukðtis (aukðtais)
+    liftas
+
+Enumeratoriai:
+lifto bûsena
+keleivio bûsena
+durys
+
+
+keleivis turi bûsenà: laukia, yra lifte, yra pastate
+liftas turi bûsenà: laisvas ar uþimtas
+durys turi bûsenà: atidarytos ar uþdarytos
+
+
