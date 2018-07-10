@@ -8,8 +8,7 @@ building = new pastatas().
 elevator = new liftas(building:aukstuSkaicius).
 passenger = new keleivis(building:aukstuSkaicius, building:keliamojiJega).
 
-elevator:atvaziuok(passenger:iskvieskLifta()).
+elevator:atvaziuok(passenger:iskvieskLifta(),passenger:busena).
 passenger:Lifte().
-elevator:atidarykDuris().
-elevator:atvaziuok(passenger:Paukstas).
+elevator:atvaziuok(passenger:Paukstas,passenger:busena).
 passenger:Lifte().

@@ -32,8 +32,10 @@ class liftas:
     end method.
     
     
-    method public void atvaziuok(input PaskirtiesA as integer):
+    method public void atvaziuok(input PaskirtiesA as integer, input suKeleiviu as logical):
        
+        if suKeleiviu 
+            then atidarykDuris().
         
         Paukstas = PaskirtiesA.
         laikas = abs((aukstas - Paukstas)) * 5.             //aukðta nuvaþiuoti reikia 5 sekundziu
@@ -48,10 +50,6 @@ class liftas:
             
         atidarykDuris().
          
-        
-        
-        
-        //atidarykDuris().
     end method.
     
 end class.
