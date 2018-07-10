@@ -1,0 +1,7 @@
+USING Progress.Lang.*.
+
+BLOCK-LEVEL ON ERROR UNDO, THROW.
+
+CLASS Building: 
+
+END CLASS.
