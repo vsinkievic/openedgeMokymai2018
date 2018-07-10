@@ -3,7 +3,7 @@ routine-level on error undo, throw.
 class keleivis:
     
     define public property dabAukstas as integer no-undo get.
-    private set.
+    public set.
     define public property tikslas as integer no-undo get.
     private set.
     define public property lifte as log no-undo get.
@@ -41,11 +41,11 @@ class keleivis:
     
     method public void ilipa():
         this-object:lifte = true.
-        message "Keleivis áëjo á liftà".
+        message "Keleivis áeina á liftà".
     end.
     method public void islipa():
         this-object:lifte = false.
-        message "Keleivis iðlipo ið lifto".
+        message "Keleivis iðlipa ið lifto".
     end.
 
     method public void vaziuoja():

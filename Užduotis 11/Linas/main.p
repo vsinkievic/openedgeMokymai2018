@@ -1,24 +1,12 @@
-using liftas.*.
-using pastatas.*.
-using keleivis.*.
+using kelioneLiftu.*.
 
-define variable liftas as class liftas no-undo.
-define variable pastatas as class pastatas no-undo.
-define variable keleivis as class keleivis no-undo.
+define variable kelione as class kelioneLiftu no-undo.
 
+kelione = new kelioneLiftu().
+kelione:vykdyti().
 
-pastatas = new pastatas().
-liftas = new liftas(pastatas:aukstuSk).
-keleivis = new keleivis().
-
-
-liftas:vaziuoja(keleivis:kviecia(pastatas:aukstuSk), false).
-keleivis:ilipa().
-liftas:vaziuoja(keleivis:pasirenkaAuksta(pastatas:aukstuSk), true).
-keleivis:islipa().
-liftas:baigiaDarba().
-
-message keleivis:dabAukstas liftas:dabAukstas.
+message substitute("Kelionës pabaigoje keleivis yra &1 aukðte, liftas yra &2 aukðte",
+     kelione:pKeleivis:dabAukstas, kelione:pLiftas:dabAukstas).
 
 
 

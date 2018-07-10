@@ -6,7 +6,7 @@ class pastatas:
     private set.
     
     constructor pastatas():
-        aukstuSk = random(3, 16).
+        aukstuSk = random(3, 5).
     end.
     
 end.
