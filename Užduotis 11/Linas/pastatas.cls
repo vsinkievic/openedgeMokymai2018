@@ -6,7 +6,8 @@ class pastatas:
     private set.
     
     constructor pastatas():
-        aukstuSk = random(3, 5).
+        aukstuSk = 9.
+        put unformatted substitute ("Pastate yra &1 aukğtai(-ø).", aukstuSk) skip.
     end.
     
 end.
