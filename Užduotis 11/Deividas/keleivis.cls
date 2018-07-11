@@ -16,14 +16,6 @@ class keleivis:
         
     end constructor.
     
-/*    method public integer getEsamasAukstas():*/
-/*        return esamasAukstas.                */
-/*    end method.                              */
-/*                                             */
-/*    method public decimal  getSvoris():      */
-/*        return svoris.                       */
-/*    end method.                              */
-/*                                             */
     
     method public void iskvieskLifta(liftas as Liftas):
         
@@ -60,10 +52,9 @@ class keleivis:
     
     
     method public void persikelkIKitaAuksta(liftas as Liftas):
-        this-object:tikslas = tikslas.
+        
         iskvieskLifta(liftas).
         KeleivisIlipaILifta().
-/*        busena = KeleivioBusena:lifte.*/
         liftas:uzdarykDuris().
         if liftas:patikrinkSvori(svoris)
             then do:
