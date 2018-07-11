@@ -4,8 +4,42 @@ BLOCK-LEVEL ON ERROR UNDO, THROW.
 
 CLASS Elevator: 
     
-    method public void elevatorIsCalled():
-        
+    define private variable topFloor as integer no-undo.
+    define private variable doorOpen as logical no-undo init no.
+    define private variable currentFloor as integer no-undo.
+    define private variable tempFloorNew as integer no-undo.
+    define private variable tempFloorOld as integer no-undo.
+       
+    constructor Elevator(tpFlr as integer):
+        topFloor = tpFlr.
+        currentFloor = tpFlr.
+    end constructor.
+    
+    method public void elevatorIsCalled(personCurrentFloor as integer):
+        message "Liftas iðkviestas".
+        if currentFloor = personCurrentFloor then do:
+            message "Liftas jau yra iðkvietimo aukðte".
+        end.
+        else do:
+            message "Liftas vaþiuoja ið " currentFloor " aukðto á " personCurrentFloor " aukðtà".
+        end.
+        message "Durys atsidaro, keleivis álipa á liftà".
+    end method.
+    
+    method public void relocateElevator():
+        tempFloorOld = currentFloor.
+        message "Á kurá aukðtà?".
+        update tempFloorNew.
+        if (tempFloorNew <= topFloor and tempFloorNew >= 1 and tempFloorNew <> currentFloor) then do:
+            currentFloor = tempFloorNew.
+            message "Liftas perkeltas ið " tempFloorOld " aukðto á " currentFloor " aukðtà". 
+        end.
+        else if tempFloorNew = currentFloor then do:
+            message "Liftas jau yra ðitame aukðte".
+        end.
+        else do:
+            message "Nëra tokio aukðto".
+        end.
     end method.
 
 END CLASS.
