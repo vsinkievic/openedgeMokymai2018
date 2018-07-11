@@ -9,7 +9,7 @@ define variable keleivis1 as Ikeleivis no-undo.
 define variable keleivis3 as Ikeleivis no-undo.
 define variable keleivis4 as Ikeleivis no-undo.
 define variable pastatas1 as class pastatas no-undo.
-define variable aukstas as integer no-undo.
+define variable norimasAukstas as integer no-undo.
 define button kviestiLifta label "Kviesti lifta" .
 define button keltisLiftu label "Keltis liftu".
 form kviestiLifta keltisLiftu with frame but-frame row 1.
@@ -23,9 +23,9 @@ keleivis3 = new keleivis2(110, 1).
 
 on choose of kviestiLifta do:
     
-    display aukstas label "Áveskite norimà aukðtà" pastatas1:aukstuSkaicius label "Pastato aukstis".
-    update aukstas.
-    keleivis3:kvieskLifta(liftas1, aukstas). 
+    display norimasAukstas label "Áveskite norimà aukðtà" pastatas1:aukstuSkaicius label "Pastato aukstis".
+    update norimasAukstas.
+    keleivis3:kvieskLifta(liftas1, norimasAukstas). 
     
 end.
 
