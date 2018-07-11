@@ -1,14 +1,16 @@
 
-define variable elevator as class liftas no-undo.
-define variable building as class pastatas no-undo.
-define variable passenger as class keleivis no-undo.
 
 
-building = new pastatas().
-elevator = new liftas(building:aukstuSkaicius).
-passenger = new keleivis(building:aukstuSkaicius, building:keliamojiJega).
 
-elevator:atvaziuok(passenger:iskvieskLifta(),passenger:busena).
-passenger:Lifte().
-elevator:atvaziuok(passenger:Paukstas,passenger:busena).
-passenger:Lifte().
+define variable liftas as class Liftas no-undo.
+define variable pastatas as class Pastatas no-undo.
+define variable keleivis as class Keleivis no-undo.
+
+output to "lifto_ataskaita.txt".
+
+pastatas = new Pastatas().
+liftas = new Liftas(pastatas:aukstuSkaicius, 150).
+keleivis = new Keleivis().
+
+//keleivis:persikelkIKitaAuksta(liftas).
+keleivis:persikelkIKitaAuksta(liftas).

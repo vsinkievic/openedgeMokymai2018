@@ -1,13 +1,12 @@
 
-class pastatas:
+class Pastatas:
     define property aukstuSkaicius as integer no-undo get.
     private set.
-        define property keliamojiJega as decimal no-undo get.
-    private set.
+    define variable liftas as Liftas no-undo.
     
     constructor pastatas():
-    aukstuSkaicius = random(3,5).
-    keliamojiJega = 100.
+    aukstuSkaicius = 20.
+    message "Pastate yra " aukstuSkaicius "aukðtø.".
     end constructor.
     
     

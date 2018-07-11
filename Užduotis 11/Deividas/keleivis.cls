@@ -1,62 +1,105 @@
 
 class keleivis:
-    define property busena as logical no-undo get.
-    public set.
-    define property svoris as decimal no-undo get.
-    public set.
-    define property aukstas as integer  no-undo get.
-    public set.
-    define property Paukstas as integer no-undo get.        //paskirties aukstas
-    public set.
-    
-    define variable S as decimal no-undo. //svoris
-    define variable A as integer no-undo. //aukðtas kuriame esa keleivis
-    define variable Pa as integer no-undo. //Paskirties aukðtas
+    define variable busena as KeleivioBusena no-undo.
+    define property svoris as decimal no-undo get. set.
+    define variable esamasAukstas as integer  no-undo.
+    define variable tikslas as integer no-undo.
     
     
-    constructor keleivis(input maxAukstas as integer, input maxSvoris as decimal ):
+    
+    define variable laukimoLaikas as integer no-undo.
+    
+    
+    constructor Keleivis():
+        busena = KeleivioBusena:pastate. 
+        svoris = random(60, 120).  
         
-        busena = false.         //False keleivis nëra lifte, jei true yra lifte
-        update S label "Keleivio svoris" A label "Aukðtas kuriame esate" Pa label "Aukðtas á kurá norite kilti".
-        
-        if S > maxSvoris 
-            then message "Jûsø svoris (" S ") didesnis uþ leistinà (" maxSvoris ")" view-as alert-box.
-            
-        else if A > maxAukstas 
-            then message "aukðtas kuriate esate neegzistuoja" view-as alert-box.
-            
-        else if Pa > maxAukstas 
-            then message "aukðtas á kurá kilsite neegzistuoja" view-as alert-box.
-        
-        else if Pa = A 
-            then message "Jûs jau esate aukðte á kurá norite kilti" view-as alert-box.
-        else assign
-            svoris = S
-            aukstas = A
-            Paukstas = Pa.
-            
     end constructor.
     
+/*    method public integer getEsamasAukstas():*/
+/*        return esamasAukstas.                */
+/*    end method.                              */
+/*                                             */
+/*    method public decimal  getSvoris():      */
+/*        return svoris.                       */
+/*    end method.                              */
+/*                                             */
     
-    method public int iskvieskLifta():
-        message "Keleivis iðkvietë liftà á" aukstas "aukðtà".
-        return aukstas.
+    method public void iskvieskLifta(liftas as Liftas):
+        
+        define variable S as decimal no-undo. //svoris
+        define variable A as integer no-undo. //aukðtas kuriame esa keleivis
+        define variable Pa as integer no-undo. //Paskirties aukðtas
+
+        update S label "Keleivio svoris" A label "Aukðtas kuriame esate" Pa label "Aukðtas á kurá norite kilti".
+
+
+        if A > liftas:AukstuSkaicius
+            then message "aukðtas kuriate esate neegzistuoja" view-as alert-box.
+
+        else if Pa > liftas:AukstuSkaicius
+            then message "aukðtas á kurá kilsite neegzistuoja" view-as alert-box.
+
+        else if Pa = A
+            then message "Jûs jau esate aukðte á kurá norite kilti" view-as alert-box.
+        else do:
+            assign
+                esamasAukstas = A
+                tikslas = Pa.
+        put unformatted substitute("Keleivis iðkvietë liftà á &1 aukðtà", esamasAukstas) skip(1).
+        laukimoLaikas = liftas:atvaziuok(esamasAukstas).
+        put unformatted substitute("Liftas vaþiavo &1 sekundþiø",laukimoLaikas) skip(1).
+
+        if laukimoLaikas <> 0 
+        then busena = KeleivioBusena:laukia.
+        
+        liftas:atidarykDuris().
+        end.
     end method.
     
-     method public void Lifte():
-        if busena = true
+    
+    
+    method public void persikelkIKitaAuksta(liftas as Liftas):
+        this-object:tikslas = tikslas.
+        iskvieskLifta(liftas).
+        KeleivisIlipaILifta().
+/*        busena = KeleivioBusena:lifte.*/
+        liftas:uzdarykDuris().
+        if liftas:patikrinkSvori(svoris)
             then do:
-                busena = false.
-                message "Keleivis iðlipo ið lifto".
-                aukstas = Paukstas.
+                laukimoLaikas = liftas:atvaziuok(tikslas).
+                put unformatted substitute("Liftas vaþiavo &1 sekundþiø",laukimoLaikas) skip(1).
+                esamasAukstas = tikslas.
             end.
-        else 
-            do:
-                busena = true.
-                message "Keleivis álipo á liftà".
+        else put unformatted "Ei keleivi, numesk svorio, neatitinki svorio limito, iðlipk!".
+        
+        
+        
+        liftas:atidarykDuris().
+        KeleivisIslipaIsLifto().
+        liftas:TapkTuscias().
+        liftas:uzdarykDuris().
+        
+    end method.
+    
+    
+    
+     method public void KeleivisIlipaILifta():
+        if busena <> KeleivioBusena:lifte
+            then do:
+                busena = KeleivioBusena:lifte.
+                put unformatted "Keleivis ilipa á liftà" skip(1).
             end.
     end method.
     
+    
+    method public void KeleivisIslipaIsLifto():
+        if busena = KeleivioBusena:lifte
+            then do:
+                busena = KeleivioBusena:pastate.
+                put unformatted "Keleivis iðlipa ið lifto" skip(1).
+            end.
+    end method.
 
 
     
