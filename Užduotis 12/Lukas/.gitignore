@@ -1,0 +1,12 @@
+.settings
+.dbconnection
+.project
+.propath
+*.xml
+*.r
+*.b1
+*.d1
+*.lg
+*.lic
+*.lk
+*.st
