@@ -3,6 +3,9 @@
 
 on choose of AddCustomer do:
     run create.p(input-output dataset dsUzduotis). 
+    for each befCustomer:
+        buffer befCustomer:save-row-changes no-error.
+    end.
 end.
 
 on choose of ShowCustomers do:
@@ -13,10 +16,17 @@ end.
 
 on choose of DeleteCustomer do:
        run delete.p(input-output dataset dsUzduotis).
+    for each befCustomer:
+            buffer befCustomer:save-row-changes no-error.
+    end.
 end.
 
 on choose of UpdateCustomer do:
        run update.p(input-output dataset dsUzduotis).
+       
+    for each befCustomer:
+        buffer befCustomer:save-row-changes no-error.
+    end.
 end.
 
 on choose of Ataskaita do:
@@ -25,9 +35,6 @@ on choose of Ataskaita do:
     define variable d as integer no-undo.
     define variable u as integer no-undo.
     
-/*    for each befCustomer:                      */
-/*        buffer befCustomer:save-row-changes ().*/
-/*    end.                                       */
     for each ttCustomer: 
     case row-state(ttCustomer): 
         when row-created then c = c + 1.
@@ -50,6 +57,8 @@ data-source srcCustomer:fill-where-string = "where Customer.Country = 'France'" 
 dataset dsUzduotis:fill().
 
 buffer ttcustomer:detach-data-source ().
+
+
 
 define variable i as integer no-undo.
 
