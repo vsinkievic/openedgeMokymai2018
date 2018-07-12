@@ -1,0 +1,9 @@
+Savarankiškai:
+susipažinti su PDF iš progress dokumentacijos: Error Handling
+susipažinti su PDF iš progress dokumentacijos: ProDataSets
+Susipažinti su PDF ir paskaitos medžiagos: TIPS FOR A PRO DATASET DEVELOPER
+
+
+Užduotis:
+Parašyti programą, kuri keis customer (iš SportsDB) ar jo užsakymų duomenis. Pagrindinėje programoje turi būti duomenų iš DB paėmimas į Dataset (su fill) ir pakeitimų išsaugojimas (su save-row-changes). 
+Create, update ir delete operacijos turi būti atliktos su išorinėmis proceduromis (atskiri .p failai). Tų procedųrų parametras yra naudojamas dataset. Tos procedūros turi naudoti tracking-changes.
