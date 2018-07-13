@@ -1,0 +1,116 @@
+...3\change-prices.p                  07/13/2018 14:02:16   PROGRESS(R) Page 1   
+
+{} Line Blk
+-- ---- ---
+      1     define variable prekes as integer no-undo.
+      2     define variable I_grupe as decimal.
+      3     define variable II_grupe as decimal no-undo.
+      4     define variable III_grupe as decimal no-undo.
+      5     define variable padidinimas as decimal.
+      6     define variable bendraspadidinimas as decimal.
+      7     define variable bendraspadidinimasII as decimal no-undo.
+      8     define variable bendraspadidinimasIII as decimal no-undo.
+      9     
+     10     define frame I_frame
+     11         bendraspadidinimas
+     12         Item.Price
+     13         I_grupe
+     14      with 3 col 10 down centered title "I grupë".
+     15     
+     16     define frame II_frame
+     17         bendraspadidinimasII
+     18         Item.Price
+     19         II_grupe
+     20      with 3 col 10 down centered title "II grupë".
+     21      
+     22      define frame III_frame
+     23         bendraspadidinimasIII
+     24         Item.Price
+     25         III_grupe
+     26      with 3 col 10 down centered title "III grupë".
+     27      
+     28     output to "ataskaita.txt". 
+     29     Igrupe:
+     30   1 do transaction:
+     31   2     for each item where Item.Price < 100:
+     32   2         I_grupe = Item.Price * 1.1.
+     33   2         padidinimas = I_grupe - Item.price.
+     34   2         bendraspadidinimas = bendraspadidinimas + padidinimas.
+     35             display bendraspadidinimas label "bPadidinimas" Item.Price l
+     35   2 abel "Pradinë" I_grupe label "Padidinta" with frame I_frame. 
+     36   1     end.
+     37     end.
+     38     
+     39     
+     40   1 do transaction:
+     41   1     IIgrupe:
+     42   2     do transaction:
+     43   3         for each item where Item.Price > 100 and Item.Price < 200:
+     44   4             do:
+     45   4             II_grupe = Item.Price * 1.07.
+     46   4             padidinimas = II_grupe - Item.price.
+     47                 bendraspadidinimasII = bendraspadidinimasII + padidinima
+     47   4 s.
+     48   4             
+     49                 display bendraspadidinimasII label "bPadidinimas" Item.P
+...3\change-prices.p                  07/13/2018 14:02:16   PROGRESS(R) Page 2   
+
+{} Line Blk
+-- ---- ---
+     49   4 rice label "Pradinë" II_grupe label "Padidinta" with frame II_frame.
+     50                 //if bendraspadidinimasII > 100 then undo IIgrupe, leave
+     50   4  IIgrupe.
+     51   3         end.  
+     52   3     if bendraspadidinimasII > 100 then undo IIgrupe, leave IIgrupe.
+     53   2     end.
+     54   2     
+     55   2     IIIgrupe:
+     56   3     do transaction:
+     57   4         for each item where Item.Price > 200:
+     58   4             III_grupe = Item.Price * 1.05.
+     59   4             padidinimas = III_grupe - Item.price.
+     60                 bendraspadidinimasIII = bendraspadidinimasIII + padidini
+     60   4 mas.
+     61                 display bendraspadidinimasIII label "bPadidinimas" Item.
+     61     Price label "Pradinë" III_grupe label "Padidinta" with frame III_fra
+     61   4 me.
+     62                 //if bendraspadidinimasIII > 500 then undo IIIgrupe, lea
+     62   4 ve IIIgrupe.
+     63   3         end.
+     64             if bendraspadidinimasIII > 500 then undo IIIgrupe, leave III
+     64   3 grupe.    
+     65   2     end.
+     66   2     
+     67   2     display bendraspadidinimasII bendraspadidinimasIII.
+     68         if (bendraspadidinimasII + bendraspadidinimasIII) > 550 then und
+     68   2 o, leave.
+     69   1     end.
+     70     end.
+     71     
+     72     output close.
+     72     compile change-prices.p listing ziurim_tranzakcijas.lis
+...3\change-prices.p                  07/13/2018 14:02:16   PROGRESS(R) Page 3   
+
+     File Name       Line Blk. Type   Tran            Blk. Label            
+-------------------- ---- ----------- ---- --------------------------------
+...3\change-prices.p    0 Procedure   No                                    
+    Frames:  Unnamed
+
+...3\change-prices.p   30 Do          Yes  Igrupe                           
+...3\change-prices.p   31 For         No                                    
+    Buffers: PauliusPac.Item
+    Frames:  I_frame
+
+...3\change-prices.p   40 Do          Yes                                   
+...3\change-prices.p   42 Do          Yes  IIgrupe                          
+...3\change-prices.p   43 For         No                                    
+    Buffers: PauliusPac.Item
+    Frames:  II_frame
+
+...3\change-prices.p   44 Do          No                                    
+...3\change-prices.p   56 Do          Yes  IIIgrupe                         
+...3\change-prices.p   57 For         No                                    
+    Buffers: PauliusPac.Item
+    Frames:  III_frame
+
+
