@@ -11,9 +11,10 @@ INTERFACE IKeleivis:
     define public property svoris as integer no-undo get.
     public set.
 
+
    
     method public void kviecia(liftas as liftas).
-    method public void kviecia(liftas as liftas, kLiftas as kLiftas).
+    method public void kviecia(liftas1 as ismanusLiftas, liftas2 as ismanusLiftas).
     method public integer pasirenkaAuksta(aukstuSk as integer).    
     method public void ilipa().
     method public void islipa().

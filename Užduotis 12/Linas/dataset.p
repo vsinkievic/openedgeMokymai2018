@@ -27,21 +27,18 @@ data-source srcCustomer:fill-where-string = "where Customer.Country = 'France'".
 dataset dsDuomenys:fill().
 
 
-
-
 define query qCust for ttCustomer scrolling.
 define browse bCust query qCust no-lock 
     display ttCustomer.Cust-num ttCustomer.Name 
     with 15 down no-assign expandable title "Customers".
 
-define button buttonCustCreate label "New Customer".
 define button buttonNewOrder label "New Order".
 define button buttonShowChanges label "Show changes".
 define button buttonLeave label "Exit" auto-endkey.
 
 define frame fCust 
     buttonNewOrder buttonShowChanges buttonLeave 
-    skip (1) space (8) bCust skip(1) space (8) buttonCustCreate
+    skip (1) space (8) bCust skip(1) space (8)
     with no-box width 150.
     
 on default-action of browse bCust do:
@@ -57,13 +54,12 @@ on choose of buttonShowChanges do:
     run showChanges.
 end.
 
-
 on choose of buttonLeave do:
     hide frame fCust.
     quit.
 end.
 
-temp-table ttOrder:tracking-changes = true.
+
 
 open query qCust for each ttCustomer.
 enable all with frame fCust.

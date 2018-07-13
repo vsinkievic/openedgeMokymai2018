@@ -23,7 +23,7 @@ CLASS KeleivisV implements IKeleivis:
     end constructor.
     
 
-	METHOD PUBLIC VOID ilipa(  ):
+	method public void ilipa(  ):
 		keleivis:ilipa().
 		put unformatted substitute("&1 áeina á liftà.", this-object:vardas) skip.
 	END METHOD.
@@ -40,8 +40,8 @@ CLASS KeleivisV implements IKeleivis:
             keleivis:getDabAukstas(), this-object:vardas) skip.
 	END METHOD.
 	
-	METHOD PUBLIC void kviecia( INPUT liftas AS liftas, input kLiftas as kLiftas ):
-        keleivis:kviecia(liftas, kLiftas).
+	METHOD PUBLIC void kviecia(liftas1 as ismanusLiftas, liftas2 as ismanusLiftas):
+        keleivis:kviecia(liftas1, liftas1).
         this-object:dabAukstas = keleivis:dabAukstas.
         put unformatted substitute ("&2 kvieèia liftà á &1 aukðtà.", 
             keleivis:getDabAukstas(), this-object:vardas) skip.

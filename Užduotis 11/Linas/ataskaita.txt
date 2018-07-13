@@ -1,0 +1,85 @@
+Pastate yra 9 aukðtai(-ø).
+------------- Vienas liftas ----------------
+Pastate yra liftas Nr. 1, kurio keliamoji galia yra 100 kg.
+Liftas Nr.1 ðiuo metu yra 3 aukðte.
+Pastate yra naujas keleivis, kurio vardas Jeronimas.
+
+         1
+Jeronimas kvieèia liftà á 1 aukðtà.
+Liftas Nr.1 vaþiuoja ið 3 á 1 aukðtà
+Durys atsidaro.
+Jeronimas áeina á liftà.
+
+         5
+Jeronimas pasirenka vaþiuoti ið 1 á 5 aukðtà.
+Liftas tikrina keleivio svorá.
+Keleivio svoris leistinas, galima vaþiuoti.
+Durys uþsidaro.
+Liftas ir keleivis vaþiuoja ið 1 á 5 aukðtà.
+Durys atsidaro.
+Jeronimas iðeina ið lifto 5 aukðte.
+Durys uþsidaro.
+Liftas Nr.1 baigia darbà 5 aukðte.
+Pastate yra naujas keleivis, kurio vardas Veronika.
+
+         9
+Veronika kvieèia liftà á 9 aukðtà.
+Liftas Nr.1 vaþiuoja ið 5 á 9 aukðtà
+Durys atsidaro.
+Veronika áeina á liftà.
+
+         1
+Veronika pasirenka vaþiuoti ið 9 á 1 aukðtà.
+Liftas tikrina keleivio svorá.
+Keleivio svoris leistinas, galima vaþiuoti.
+Durys uþsidaro.
+Liftas ir keleivis vaþiuoja ið 9 á 1 aukðtà.
+Durys atsidaro.
+Veronika iðeina ið lifto 1 aukðte.
+Durys uþsidaro.
+Liftas Nr.1 baigia darbà 1 aukðte.
+------------- Du liftai ----------------
+Pastate yra liftas Nr. 2, kurio keliamoji galia yra 200 kg.
+Liftas Nr.2 ðiuo metu yra 7 aukðte.
+Pastate yra liftas Nr. 3, kurio keliamoji galia yra 300 kg.
+Liftas Nr.3 ðiuo metu yra 4 aukðte.
+Pastate yra naujas keleivis, kurio vardas Jeronimas.
+
+         1
+Jeronimas kvieèia liftà á 1 aukðtà.
+Numatoma lifto Nr.2 laukimo trukmë yra 18 sek.
+Numatoma lifto Nr.3 laukimo trukmë yra 15 sek.
+Liftas Nr.3 vaþiuoja ið 4 á 1 aukðtà
+Durys atsidaro.
+Jeronimas áeina á liftà.
+
+         5
+Jeronimas pasirenka vaþiuoti ið 1 á 5 aukðtà.
+Liftas tikrina keleivio svorá.
+Keleivio svoris leistinas, galima vaþiuoti.
+Durys uþsidaro.
+Liftas ir keleivis vaþiuoja ið 1 á 5 aukðtà.
+Durys atsidaro.
+Jeronimas iðeina ið lifto 5 aukðte.
+Durys uþsidaro.
+Liftas Nr.3 baigia darbà 5 aukðte.
+Pastate yra naujas keleivis, kurio vardas Veronika.
+
+         9
+Veronika kvieèia liftà á 9 aukðtà.
+Numatoma lifto Nr.2 laukimo trukmë yra 6 sek.
+Numatoma lifto Nr.3 laukimo trukmë yra 20 sek.
+Liftas Nr.2 vaþiuoja ið 7 á 9 aukðtà
+Durys atsidaro.
+Veronika áeina á liftà.
+
+         1
+Veronika pasirenka vaþiuoti ið 9 á 1 aukðtà.
+Liftas tikrina keleivio svorá.
+Keleivio svoris leistinas, galima vaþiuoti.
+Durys uþsidaro.
+Liftas ir keleivis vaþiuoja ið 9 á 1 aukðtà.
+Durys atsidaro.
+Veronika iðeina ið lifto 1 aukðte.
+Durys uþsidaro.
+Liftas Nr.2 baigia darbà 1 aukðte.

@@ -14,25 +14,29 @@ class liftas:
     public set.
     define public property greitis as integer no-undo get.
     public set.
-    define public variable liftoNr as integer no-undo init 0.
+    define public property nr as integer no-undo get. set.
     
     define variable iAukstuSk as integer no-undo.
     define variable iAukstas as integer no-undo.
     define variable iTrukme as integer no-undo.
+    define variable iGalia as integer no-undo.
+    define variable iGreitis as integer no-undo.
+    define public static variable liftuSkaicius as integer init 0 no-undo.
     
-    constructor public liftas(iAukstuSk as integer):
+    constructor public liftas(iAukstuSk as integer, iGalia as integer, iGreitis as integer):
         dabAukstas = random(1, iAukstuSk).
         durysAtidarytos = false.
         aukstuSk = iAukstuSk.
-        keliamojiGalia = 100.
-        greitis = 3.
-        liftoNr = 1.
+        liftas:liftuSkaicius = liftas:liftuSkaicius + 1.
+        nr = liftas:liftuSkaicius.
+        keliamojiGalia = iGalia.
+        greitis = iGreitis.
     end.
 
     method public void liftoStatusas():
         put unformatted substitute("Pastate yra liftas Nr. &1, kurio keliamoji galia yra &2 kg.", 
-            liftoNr, keliamojiGalia) skip.
-        put unformatted substitute("Liftas Nr.&1 ðiuo metu yra &2 aukðte.", liftoNr,
+            nr, keliamojiGalia) skip.
+        put unformatted substitute("Liftas Nr.&1 ðiuo metu yra &2 aukðte.", nr,
             dabAukstas) skip.
     end.
 
@@ -40,7 +44,7 @@ class liftas:
     method public void vaziuoja(iAukstas as integer, busena as liftoBusena):
         if busena = liftoBusena:suKeleiviu then durysUzsidaro().
         put unformatted substitute("Liftas Nr.&3 vaþiuoja ið &1 á &2 aukðtà", 
-            this-object:dabAukstas, iAukstas, this-object:liftoNr) skip.
+            this-object:dabAukstas, iAukstas, this-object:nr) skip.
         this-object:dabAukstas = iAukstas.
         durysAtsidaro().
     end.
@@ -71,7 +75,7 @@ class liftas:
     method public void baigiaDarba():
         durysUzsidaro().
         put unformatted substitute("Liftas Nr.&2 baigia darbà &1 aukðte.", 
-            this-object:dabAukstas, this-object:liftoNr) skip.
+            this-object:dabAukstas, this-object:nr) skip.
     end.
 
     method public log svorisTinkamas(keleivis as IKeleivis):
@@ -87,11 +91,5 @@ class liftas:
         end.
     end.
     
-    method public integer laukimoTrukme(aukstas1 as integer, aukstas2 as integer):
-        iTrukme = this-object:greitis * absolute(aukstas1 - aukstas2).
-        put unformatted substitute("Numatoma lifto Nr.&1 laukimo trukmë yra &2 sek.", 
-            this-object:liftoNr, iTrukme) skip.
-        return iTrukme.
-    end.
 
 end.

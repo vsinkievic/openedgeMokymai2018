@@ -1,5 +1,6 @@
 routine-level on error undo, throw.
 
+
 class keleivis implements IKeleivis:
     
     define public property dabAukstas as integer no-undo get.
@@ -25,15 +26,13 @@ class keleivis implements IKeleivis:
         end.
     end.
     
-    method public void kviecia(liftas1 as liftas, kLiftas as kLiftas):
+    method public void kviecia(liftas1 as ismanusLiftas, liftas2 as ismanusLiftas):
          do while dabAukstas <= 0 or dabAukstas > liftas1:aukstuSk:
             update dabAukstas help "Kuriame aukðte esate?" no-labels.
             if dabAukstas <= 0 or dabAukstas > liftas1:aukstuSk then message 
                 "Galimas aukðtø pasirinkimas: nuo 1 iki" liftas1:aukstuSk view-as alert-box.
         end.
-        
     end.
-    
     
     method public integer pasirenkaAuksta(aukstuSk as integer):
         do while iA <= 0 or iA > aukstuSk or iA = this-object:dabAukstas:
