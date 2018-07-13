@@ -1,0 +1,202 @@
+ADD TABLE "Item"
+  AREA "Inventory"
+  DESCRIPTION "The item table provides a quick reference for items in stock and quantity on-hand."
+  VALEXP "NOT (CAN-FIND(FIRST orderline OF item))"
+  VALMSG "Cannot delete Item, order-line records exist with this item"
+  DUMP-NAME "item"
+  TABLE-TRIGGER "CREATE" NO-OVERRIDE PROCEDURE "sports2000trgs/critem.p" CRC "?" 
+  TABLE-TRIGGER "DELETE" NO-OVERRIDE PROCEDURE "sports2000trgs/delitem.p" CRC "32704" 
+  TABLE-TRIGGER "WRITE" NO-OVERRIDE PROCEDURE "trg_edit_order.p" CRC "?" 
+
+ADD FIELD "Itemnum" OF "Item" AS integer 
+  FORMAT "zzzzzzzzz9"
+  INITIAL "0"
+  LABEL "Item Num"
+  POSITION 2
+  MAX-WIDTH 4
+  VALEXP "itemnum >= 0"
+  VALMSG "Item number must be greater or equal to 0"
+  HELP "Please enter the item  number ."
+  ORDER 10
+
+ADD FIELD "ItemName" OF "Item" AS character 
+  FORMAT "x(25)"
+  INITIAL ""
+  LABEL "Item Name"
+  POSITION 3
+  MAX-WIDTH 50
+  HELP "Please enter an item name."
+  ORDER 20
+
+ADD FIELD "CatPage" OF "Item" AS integer 
+  FORMAT ">>9"
+  INITIAL "0"
+  LABEL "Cat Page"
+  POSITION 4
+  MAX-WIDTH 4
+  HELP "Please enter a catalog page"
+  ORDER 100
+
+ADD FIELD "Price" OF "Item" AS decimal 
+  FORMAT "->,>>>,>>9.99"
+  INITIAL "0"
+  LABEL "Price"
+  POSITION 5
+  MAX-WIDTH 17
+  HELP "Please enter a Price."
+  DECIMALS 2
+  ORDER 22
+
+ADD FIELD "CatDescription" OF "Item" AS character 
+  FORMAT "X(200)"
+  INITIAL ""
+  LABEL "Cat-Description"
+  POSITION 6
+  MAX-WIDTH 400
+  VIEW-AS "VIEW-AS EDITOR SIZE 41 by 5 SCROLLBAR-VERTICAL "
+  HELP "Please enter a description."
+  ORDER 110
+
+ADD FIELD "Onhand" OF "Item" AS integer 
+  FORMAT "->>>>9"
+  INITIAL "0"
+  LABEL "On Hand"
+  POSITION 7
+  MAX-WIDTH 4
+  HELP "Please enter On Hand Qty"
+  ORDER 50
+
+ADD FIELD "Allocated" OF "Item" AS integer 
+  FORMAT "->>>>9"
+  INITIAL "0"
+  LABEL "Allocated"
+  POSITION 8
+  MAX-WIDTH 4
+  HELP "Please enter allocated"
+  ORDER 60
+
+ADD FIELD "ReOrder" OF "Item" AS integer 
+  FORMAT "->>>>9"
+  INITIAL "0"
+  LABEL "Re Order"
+  POSITION 9
+  MAX-WIDTH 4
+  HELP "Please enter reorder qty"
+  ORDER 80
+
+ADD FIELD "OnOrder" OF "Item" AS integer 
+  FORMAT "->>>>9"
+  INITIAL "0"
+  LABEL "On Order"
+  POSITION 10
+  MAX-WIDTH 4
+  HELP "Please enter On Order Qty"
+  ORDER 90
+
+ADD FIELD "Category1" OF "Item" AS character 
+  FORMAT "x(30)"
+  INITIAL ""
+  LABEL "Category1"
+  POSITION 11
+  MAX-WIDTH 60
+  HELP "Please enter a category"
+  LENGTH 0
+  ORDER 120
+
+ADD FIELD "Category2" OF "Item" AS character 
+  FORMAT "x(30)"
+  INITIAL ""
+  LABEL "Category2"
+  POSITION 12
+  MAX-WIDTH 60
+  HELP "Please enter a category"
+  LENGTH 0
+  ORDER 130
+
+ADD FIELD "Special" OF "Item" AS character 
+  FORMAT "x(8)"
+  INITIAL ""
+  LABEL "Special"
+  POSITION 13
+  MAX-WIDTH 16
+  HELP "Please enter special information"
+  LENGTH 0
+  ORDER 140
+
+ADD FIELD "Weight" OF "Item" AS decimal 
+  FORMAT "->>,>>9.99"
+  INITIAL "0"
+  LABEL "Weight"
+  POSITION 14
+  MAX-WIDTH 17
+  HELP "Please enter weight."
+  DECIMALS 2
+  ORDER 150
+
+ADD FIELD "Minqty" OF "Item" AS integer 
+  FORMAT "->>>>9"
+  INITIAL "0"
+  LABEL "Min Qty"
+  POSITION 15
+  MAX-WIDTH 4
+  HELP "Please enter a min qty"
+  ORDER 160
+
+ADD INDEX "ItemNum" ON "Item" 
+  AREA "Inventory"
+  UNIQUE
+  PRIMARY
+  INDEX-FIELD "Itemnum" ASCENDING 
+
+ADD INDEX "CatDescription" ON "Item" 
+  AREA "Inventory"
+  WORD
+  INDEX-FIELD "CatDescription" ASCENDING 
+
+ADD INDEX "Category2ItemName" ON "Item" 
+  AREA "Inventory"
+  INDEX-FIELD "Category2" ASCENDING 
+  INDEX-FIELD "ItemName" ASCENDING 
+
+ADD INDEX "CategoryItemName" ON "Item" 
+  AREA "Inventory"
+  INDEX-FIELD "Category1" ASCENDING 
+  INDEX-FIELD "ItemName" ASCENDING 
+
+ADD INDEX "ItemName" ON "Item" 
+  AREA "Inventory"
+  WORD
+  INDEX-FIELD "ItemName" ASCENDING 
+
+ADD TABLE "price_history"
+  AREA "Employee"
+  DUMP-NAME "price_history"
+
+ADD FIELD "dateOfChange" OF "price_history" AS date 
+  FORMAT "99/99/9999"
+  INITIAL ?
+  POSITION 2
+  MAX-WIDTH 4
+  ORDER 10
+
+ADD FIELD "newPrice" OF "price_history" AS decimal 
+  FORMAT "->>,>>9.99"
+  INITIAL "0"
+  POSITION 3
+  MAX-WIDTH 17
+  DECIMALS 2
+  ORDER 20
+
+ADD FIELD "oldPrice" OF "price_history" AS decimal 
+  FORMAT "->>,>>9.99"
+  INITIAL "0"
+  POSITION 4
+  MAX-WIDTH 17
+  DECIMALS 2
+  ORDER 30
+
+.
+PSC
+cpstream=1257
+.
+0000004351
