@@ -1,0 +1,41 @@
+Tikslas išmokti ir įtvirtinti Linux naudojimo pagrindus
+Priemonės: įdiegti paprastą Linux instaliaciją, atlikti paprastus pratimus.
+
+Linux diegiame į Hyper-V virtualią mašiną savo kompiuteryje.
+Siūlau naudoti CentOS 7, 64bit.
+Diegiame iš LiveCD ar diegimo DVD. Diegimo metu pasirinkti minimal arba server režimą.
+
+
+Pratimai:
+Suprasti apie administratorių (root) ir naudotojus. Kaip iš paprasto naudotojo vykdyti komandas root teisemis? Kaip iš paprasto naudotojo tapti root? Kaip iš root taipti kitu naudotoju? (komandos su, sudo, koks skirtumas tarp „su“ ir „su -“?). Kaip sukurti naudotoją? Kaip naudotojui priskirti arba atimti kokią grupę? (užduotis: sukurti naudotoją kaip savo vardas, priskirti į grupę wheels, padaryti, kad „sudo su -“ neprašytų slaptažodžio).
+
+Išmokti naudotis pagalbos sistema. Komandų raktai --help, komandos man ir info. Išmokti naršyti pagalbos faile (man) su /, n, q. 
+
+Komandų eilutė ir tab simbolio naudojimas. Kaip greičiau įvedinėti komandas? (kaip tab pratęsia įvedimą?). Kaip veikia komandinės eilutės įvedimo istoriją? Kaip ją peržiūrėti? Kaip surasti ir greitai įvykdyti komandą, kurią įvedinėjome prieš kurį laiką (būtent paieška istorijoje).
+Kaip peržiūrėti failo turinį? Kaip peržiūrėti labai ilgo failo turinį? Cat, less, tail ir top komandos. Išmokti atlikti paiešką faile kurį žiūrime. Išmokti peržiūrėti failo pradžią ir pabaigą. Išmokti matyti failo papildymus realiu laiku (tail).
+
+Išmokti įdiegti reikalingas programas: pvz įdiegti komandą tree (yum install tree).
+
+Išmokti naudoti mc (reikės įdiegti). Išmokti kopijuoti perkelinėti (move) failus ir katalogus su mc ir komandinė eilute. Kaip Linux pervadinti failą su mc ir komandinė eilute. Kaip ištrinti failą? Kaip ištrinti katalogą? Kaip ištrinti katalogų medį su turiniu su viena eilute?
+
+Suprasti kaip veikia linux failų ir katalogų teisės (sukurti naudotojų grupę developers, sukurti katalogų medį, kurio turinį gali skaityti visi, tačiau keisti gali tik developers nariai. Sukurti kelis failus kuriuos gali skaityti ir keisti visi, bent vieną failą kurį gali matyti ir keisti tik developers ir bent vieną failą kurį gali matyti ir keisti tik šio failo šeimininkas)
+
+Symlinkai. Kas yra symlink? Mus domina tik soft linkai. Kaip sukurti/ištrinti/pakeisti soft symlinką? Pabandyti peržiūrėti ar vykdyti failus per symlinkus ir tiesiogiai (nagrinėjimui komanda ln).
+
+SSH prieiga. Išmokti į savo serverį prisijungti per SSH (iš windows). Išbandyti ssh klientą PUTTY. Išmokti kopijuoti failus tarp windows kompiuterio ir linux serverio per scp (pvz. WinSCP). Sukurti kitą virtualią mašiną su linux. Išmokti į ją jungtis iš kito linux serverio. 
+Realizuoti prisijungimų grandinę: windows->pirmas linux->kitas linux. Išmokti kopijuoti failus tarp linux kompiuterių su scp (command line)
+
+Grep komanda. Išmokti naudoti grep paiešką failuose, paieška failuose subkataloguose. Išmokti naudoti grep turinio sraute (pvz. su cat rodome failą, su grep filtruojame turinį). Išmokti apjungti kelis grep norimo turinio išfiltravimui. Kaip informacijos srauto šaltinį galima naudoti failą tail -f /var/log/messages. Išmokti rasti failų vardus, kurie turi viduje kažkokį žodį ir tuos kurie neturi kažkokio žodžio. Eksperimentuoti su raktais -i ir -w. Išmokti raktą -o, pvz. iš log failo sudaryti sąrašą datų ir valandų, kuriomis vyko kažkokie veiksmai (eilutės neturi pasikartoti).
+
+Find komanda. Išmokti atlikti paiešką pagal tikslų failo pavadinimą. Išmokti rasti failą pagal vardo fragmentą. Išmokti rasti visus katalogus ir visus failus. Išmokti rasti failus, kurie buvo sukurti ar pakeisti per paskutinę valandą arba šiandien. Išmokti atlikti paieška su komandos įvykdymu. Pvz. sukurti katalogų ir failų medį (galima nukopijuoti iš kur nors į savo katalogą) ir visiems katalogams nustatyti teises 755 o visiems failams nustatyti 640, o failams su priesaga „.sh“ nustatyti 750.
+
+Komandos du ir df. Išmokti pamatyti kiek serveryje yra laisvos vietos. Išmokti surasti katalogus ir failus kurie užima daugiausiai vietos. Raktas -h. (komandos nagrinėjimui df -h, du . -hs | sort -h ir panašios variacijos).
+
+Išmokti naudoti kokį nors tekstinį redaktorių. Prioritetai: vim, vi, emacs, nano, joe. Vi pagrindai – must know! (nes jis yra kiekviename serveryje, o gali būti, kad dirbsite serveryje, kur neturėsite teisių diegti programas).
+
+Kaip sužinoti kokios programos dirba serveryje? Kurios užima daugiau atminties ar daugiau apkrauna kompiuterį? (komandos ps ir top). Surasti visas savo paleistas ir apskirtai visas paleistas programas. Surasti kokios buvo tų komandų pilnos paleidimo komandos?  Prisijungti prie serverio keliais vardais (useriais), paleisti skirtingas programas ir pamatyti jas komandas su ps. Su top surasti programas, kurios užima daugiau atminties ar daugiau apkrauna kompiuterį. Sudiegti ir išbandyti tą patį su htop komanda.
+
+Sužinoti daugiau informacijos apie serverį: kiek jame yra atminties, kiek ir kokių procesorių turi, koks yra branduolis, jo versija, koks yra serverio pavadinimas, kokia yra data (medžiaga: /dev/meminfo /dev/cpuinfo uname date, hostname)
+
+Bash programavimo pagrindai. Kaip ką nors išvesti į ekraną? Kaip gauti parametrus? Kaip sužinoti parametrų kiekį? Parašyti failų kopijavimo programą, kuri reikalauja dviejų parametrų. Jei pateiktas kitas parametrų kiekis, tuomet parodomas trumpas informacinis pranešimas apie tai, kaip teisingai reikia naudoti programą. Patikrinti, ar kopijuojamas failas egzistuoja, jei ne, parodyti aiškų klaidos pranešimą. Patikrinti, ar yra paskirties failas, jei taip, paprašyti jį ištrinti atskirai. Jei kopijuojamas failas arba paskirties failas yra katalogai, tuomet išvesti pranešimą, kad ši programa kopijuoja tik failus.
+
